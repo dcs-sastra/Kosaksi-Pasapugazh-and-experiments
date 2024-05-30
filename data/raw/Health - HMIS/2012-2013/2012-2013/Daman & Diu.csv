@@ -1,0 +1,906 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,April,May,June,July,August,September,October,November,December,January,February,March,Total
+District,,,,,,,,,,,,,,,,
+Daman,1.1,Total number of pregnant women Registered for ANC,TOTAL,408.0,410.0,472.0,456.0,417.0,332.0,363.0,380.0,369.0,525.0,399.0,409.0,4940.0
+Daman,1.1.1,Of which Number registered within first trimester (within 12 weeks),TOTAL,181.0,203.0,204.0,200.0,167.0,135.0,160.0,162.0,148.0,194.0,198.0,185.0,2137.0
+Daman,1.2,Number of Pregnant women registered under JSY,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,11.0,7.0,12.0,31.0
+Daman,1.3,Number of pregnant women received 3 ANC check ups during pregnancy,TOTAL,175.0,192.0,176.0,236.0,206.0,193.0,197.0,211.0,222.0,225.0,186.0,206.0,2425.0
+Daman,1.4.1,Number of pregnant women given TT1 during current pregnancy,TOTAL,205.0,219.0,238.0,273.0,227.0,232.0,221.0,204.0,209.0,243.0,225.0,251.0,2747.0
+Daman,1.4.2,Number of pregnant women given TT2 or Booster during current pregnancy,TOTAL,139.0,196.0,189.0,227.0,216.0,183.0,179.0,212.0,189.0,202.0,169.0,234.0,2335.0
+Daman,1.5,Total number of pregnant women given 100 IFA tablets,TOTAL,159.0,199.0,180.0,225.0,219.0,216.0,198.0,223.0,228.0,236.0,200.0,209.0,2492.0
+Daman,1.6.1,Number of new cases of Hypertension (BP>140/90) detected in Pregnant women at the institution,TOTAL,2.0,3.0,1.0,0.0,1.0,1.0,1.0,5.0,5.0,2.0,7.0,3.0,31.0
+Daman,1.6.2,Number of Eclampsia cases managed during delivery,TOTAL,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0
+Daman,1.7.1,Number of Pregnant women with anaemia i.e. Hb level<11 (tested cases),TOTAL,162.0,160.0,200.0,174.0,170.0,189.0,164.0,142.0,143.0,199.0,221.0,213.0,2137.0
+Daman,1.7.2,Number of Pregnant women having severe anaemia (Hb<7) treated at institution,TOTAL,4.0,3.0,0.0,0.0,0.0,1.0,0.0,2.0,2.0,1.0,1.0,0.0,14.0
+Daman,1.8,Number of pregnancy test kits used at SC level,TOTAL,,,,,,,,,,,,,
+Daman,2.1.1.a,Number of deliveries conducted at Home and attended by trained SBA(i.e. Doctor or Nurse or ANM),TOTAL,0.0,0.0,0.0,2.0,0.0,1.0,2.0,0.0,2.0,2.0,0.0,0.0,9.0
+Daman,2.1.1.b,Number of deliveries conducted at Home and attended by non trained SBA (i.e. trained TBA or Relatives etc.),TOTAL,0.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,2.0,2.0,1.0,11.0
+Daman,2.1.1.c,Total number of deliveries conducted at Home and attended by trained or non-trained SBA (i.e. sum of 2.1.1.a and 2.1.1.b),TOTAL,0.0,1.0,1.0,3.0,1.0,1.0,3.0,1.0,2.0,4.0,2.0,1.0,20.0
+Daman,2.1.2,Number of newborns visited within 24 hours of delivery for deliveries conducted at home,TOTAL,0.0,1.0,0.0,2.0,0.0,1.0,1.0,1.0,2.0,2.0,1.0,1.0,12.0
+Daman,2.1.3,Number of mothers paid JSY incentive for deliveries conducted at home,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,2.2,Deliveries conducted at Public Institutions (Including C-Sections),TOTAL,119.0,121.0,109.0,137.0,167.0,181.0,184.0,184.0,154.0,149.0,138.0,175.0,1818.0
+Daman,2.2.1,"Out of 2.2, Number discharged under 48 hours of delivery",TOTAL,61.0,60.0,49.0,84.0,96.0,104.0,107.0,92.0,83.0,89.0,61.0,77.0,963.0
+Daman,2.2.2.a,Number of mothers paid JSY Incentive for deliveries conducted at Public Institutions,TOTAL,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+Daman,2.2.2.b,Number of ASHAs paid JSY Incentive for deliveries conducted at Public Institutions,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,2.2.2.c,Number of cases of deliveries conducted at Public Institutions where JSY incentive was paid to ANMs or AWWs [only for High Performing States (HPS)],TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,2.3,Deliveries conducted at Private Institutions (Including C-Sections),TOTAL,108.0,93.0,60.0,81.0,91.0,96.0,97.0,86.0,104.0,98.0,97.0,108.0,1119.0
+Daman,2.3.1.a,Number of mothers paid JSY Incentive for deliveries conducted at accredited Private Institutions,TOTAL,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,2.3.1.b,Number of ASHAs paid JSY Incentive for deliveries conducted at accredited Private Institutions,TOTAL,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,2.3.1.c,Number of cases of deliveries conducted at accredited Private Institutions where JSY incentive was paid to ANMs or AWWs [only for High Performing States (HPS)],TOTAL,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,3.1.1,Number of Caesarean (C-Section) deliveries performed at PHCs (Primary Health Centre),TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,3.1.2,Number of Caesarean (C-Section) deliveries performed at CHCs (Community Health Centre),TOTAL,3.0,3.0,3.0,4.0,6.0,6.0,10.0,6.0,4.0,0.0,15.0,19.0,79.0
+Daman,3.1.3,Number of Caesarean (C-Section) deliveries performed at SDHs (Sub-divisional Hospital) or DHs (District Hospital),TOTAL,21.0,27.0,38.0,26.0,35.0,40.0,36.0,45.0,35.0,32.0,22.0,23.0,380.0
+Daman,3.1.4,Number of Caesarean (C-Section) deliveries performed at other State owned public institutions,TOTAL,,,,,,,,,,,,,
+Daman,3.1.5,"Total Number of Caesarean (C-Section) deliveries performed at Public facilities i.e. PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 3.1.1 to 3.1.4)",TOTAL,24.0,30.0,41.0,30.0,41.0,46.0,46.0,51.0,39.0,32.0,37.0,42.0,459.0
+Daman,3.2,No. of C-section deliveries performed at Private facilities,TOTAL,25.0,26.0,18.0,16.0,21.0,27.0,25.0,18.0,26.0,21.0,26.0,20.0,269.0
+Daman,4.1.1.a,Number of male live births,TOTAL,66.0,61.0,52.0,76.0,87.0,151.0,152.0,136.0,138.0,128.0,106.0,150.0,1303.0
+Daman,4.1.1.b,Number of female live births,TOTAL,54.0,61.0,58.0,64.0,81.0,129.0,133.0,137.0,124.0,123.0,131.0,137.0,1232.0
+Daman,4.1.1.c,Total number of male and female live births (4.1.1.a and 4.1.1.b),TOTAL,120.0,122.0,110.0,140.0,168.0,280.0,285.0,273.0,262.0,251.0,237.0,287.0,2535.0
+Daman,4.1.2,Number of still births,TOTAL,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,4.0
+Daman,4.1.3,Number of Abortions (spontaneous or induced),TOTAL,9.0,10.0,5.0,6.0,13.0,40.0,25.0,19.0,27.0,34.0,23.0,37.0,248.0
+Daman,4.2.1,Number of Newborns weighed at birth,TOTAL,120.0,122.0,109.0,139.0,168.0,184.0,188.0,185.0,156.0,152.0,140.0,178.0,1841.0
+Daman,4.2.2,Number of Newborns having weight less than 2.5 kg,TOTAL,24.0,20.0,15.0,23.0,25.0,28.0,27.0,27.0,25.0,20.0,18.0,21.0,273.0
+Daman,4.3,Number of Newborns breast fed within 1 hour of birth,TOTAL,94.0,92.0,68.0,110.0,127.0,138.0,141.0,134.0,117.0,119.0,103.0,144.0,1387.0
+Daman,5.1.1,Number of cases of pregnant women with Obstetric Complications and attended at PHCs,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,5.1.2,Number of cases of pregnant women with Obstetric Complications and attended at CHCs,TOTAL,2.0,2.0,3.0,2.0,3.0,1.0,5.0,3.0,2.0,7.0,4.0,9.0,43.0
+Daman,5.1.3,Number of cases of pregnant women with Obstetric Complications and attended at SDHs or DHs,TOTAL,12.0,25.0,32.0,29.0,67.0,18.0,3.0,4.0,1.0,1.0,1.0,1.0,194.0
+Daman,5.1.4,Number of cases of pregnant women with Obstetric Complications and attended at other State owned public institutions,TOTAL,,,,,,,,,,,,,
+Daman,5.1.5,"Number of cases of pregnant women with Obstetric Complications and attended at Public facilities i.e. PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 5.1.1 to 5.1.4)",TOTAL,14.0,27.0,35.0,31.0,70.0,19.0,8.0,7.0,3.0,8.0,5.0,10.0,237.0
+Daman,5.2,Number of cases of pregnant women with Obstetric Complications and attended at Private facilities,TOTAL,,,,,,0.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0
+Daman,5.3.1,Number of cases of complicated pregnancies treated with IV antibiotics,TOTAL,0.0,0.0,3.0,1.0,33.0,0.0,1.0,0.0,0.0,3.0,2.0,2.0,45.0
+Daman,5.3.2,Number of cases of complicated pregnancies treated with IV Antihypertensive/Magsulph injection,TOTAL,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0
+Daman,5.3.3,Number of cases of complicated pregnancies treated with IV Oxytocis,TOTAL,12.0,23.0,30.0,28.0,34.0,18.0,4.0,4.0,1.0,4.0,2.0,7.0,167.0
+Daman,5.3.4,Number of cases of complicated pregnancies treated with Blood Transfusion,TOTAL,2.0,4.0,2.0,2.0,3.0,0.0,4.0,4.0,1.0,1.0,1.0,1.0,25.0
+Daman,6.1,Women getting post partum check-up within 48 hours after delivery,TOTAL,95.0,92.0,68.0,109.0,127.0,176.0,177.0,159.0,152.0,112.0,123.0,157.0,1547.0
+Daman,6.2,Women getting a post partum check up between 48 hours and 14 days after delivery,TOTAL,24.0,30.0,42.0,30.0,41.0,6.0,10.0,25.0,4.0,39.0,16.0,19.0,286.0
+Daman,6.3,PNC maternal complications attended,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+Daman,7.1.1,Number of MTPs conducted at Public Institutions up to 12 weeks of pregnancy,TOTAL,8.0,8.0,5.0,5.0,9.0,10.0,6.0,6.0,11.0,10.0,5.0,5.0,88.0
+Daman,7.1.2,Number of MTPs conducted at Public Institutions for more than 12 weeks of pregnancy,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,7.1.3,Total number of MTPs conducted at Public Institutions (sum of items 7.1.1 and 7.1.2),TOTAL,8.0,8.0,5.0,5.0,9.0,10.0,6.0,6.0,11.0,10.0,5.0,5.0,88.0
+Daman,7.2,Number of MTPs conducted at Private Facilities,TOTAL,19.0,23.0,22.0,26.0,19.0,26.0,18.0,11.0,16.0,22.0,16.0,32.0,250.0
+Daman,8.1.a,Number of new cases of RTI/STI in males for which treatment was initiated,TOTAL,48.0,23.0,33.0,11.0,19.0,24.0,32.0,11.0,37.0,34.0,31.0,67.0,370.0
+Daman,8.1.b,Number of new cases of RTI/STI in females for which treatment was initiated,TOTAL,61.0,70.0,79.0,70.0,70.0,34.0,96.0,58.0,87.0,197.0,149.0,199.0,1170.0
+Daman,8.1.c,Total number of new cases of RTI/STI in males and females for which treatment was initiated (sum of items 8.1.a and 8.1.b),TOTAL,109.0,93.0,112.0,81.0,89.0,58.0,128.0,69.0,124.0,231.0,180.0,266.0,1540.0
+Daman,8.2,Number of suspected RTI/STI cases for whom wet mount test was conducted,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,9.1.1.a,Number of NSV (No Scalpel Vasectomy) or Conventional Vasectomy conducted at PHCs,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,9.1.1.b,Number of NSV or Conventional Vasectomy conducted at CHCs,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,9.1.1.c,Number of NSV or Conventional Vasectomy conducted at SDHs or DHs,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+Daman,9.1.1.d,Number of NSV or Conventional Vasectomy conducted at other State owned public institutions,TOTAL,,,,,,,,,,,,,
+Daman,9.1.1.e,"Total Number of NSV or Conventional Vasectomy conducted at Public facilities i.e. PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 9.1.1.a to 9.1.1.d)",TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+Daman,9.1.2,Number of NSV or Conventional Vasectomy conducted at Private facilities,TOTAL,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,9.2.1.a,Number of Laparoscopic sterilizations conducted at PHCs,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,9.2.1.b,Number of Laparoscopic sterilizations conducted at CHCs,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,9.2.1.c,Number of Laparoscopic sterilizations conducted at SDHs or DHs,TOTAL,1.0,1.0,1.0,1.0,0.0,0.0,2.0,2.0,8.0,5.0,0.0,3.0,24.0
+Daman,9.2.1.d,Number of Laparoscopic sterilizations conducted at other State owned public institutions,TOTAL,,,,,,,,,,,,,
+Daman,9.2.1.e,"Total Number of Laparoscopic sterilizations conducted at Public facilities i.e. PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 9.2.1.a to 9.2.1.d)",TOTAL,1.0,1.0,1.0,1.0,0.0,0.0,2.0,2.0,8.0,5.0,0.0,3.0,24.0
+Daman,9.2.2,Number of Laparoscopic sterilizations conducted at Private facilities,TOTAL,,,2.0,,,0.0,1.0,2.0,0.0,1.0,0.0,0.0,6.0
+Daman,9.3.1.a,Number of Mini-lap sterilizations conducted at PHCs,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,9.3.1.b,Number of Mini-lap sterilizations conducted at CHCs,TOTAL,0.0,5.0,0.0,2.0,0.0,1.0,1.0,3.0,2.0,5.0,7.0,3.0,29.0
+Daman,9.3.1.c,Number of Mini-lap sterilizations conducted at SDHs or DHs,TOTAL,9.0,13.0,5.0,6.0,0.0,2.0,0.0,0.0,0.0,0.0,4.0,0.0,39.0
+Daman,9.3.1.d,Number of Mini-lap sterilizations conducted at other State owned public institutions,TOTAL,,,,,,,,,,,,,
+Daman,9.3.1.e,"Total Number of Mini-lap sterilizations conducted at Public facilities i.e. PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 9.3.1.a to 9.3.1.d)",TOTAL,9.0,18.0,5.0,8.0,0.0,3.0,1.0,3.0,2.0,5.0,11.0,3.0,68.0
+Daman,9.3.2,Number of Mini-lap sterilizations conducted at Private facilities,TOTAL,2.0,7.0,5.0,6.0,2.0,1.0,1.0,0.0,5.0,5.0,2.0,3.0,39.0
+Daman,9.4.1.a,Number of Post-Partum sterilizations conducted at PHCs,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,9.4.1.b,Number of Post-Partum sterilizations conducted at CHCs,TOTAL,3.0,3.0,2.0,1.0,4.0,0.0,2.0,1.0,0.0,0.0,3.0,3.0,22.0
+Daman,9.4.1.c,Number of Post-Partum sterilizations conducted at SDHs or DHs,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,7.0,9.0,11.0,12.0,0.0,0.0,39.0
+Daman,9.4.1.d,Number of Post-Partum sterilizations conducted at other State owned public institutions,TOTAL,,,,,,,,,,,,,
+Daman,9.4.1.e,"Total Number of Post-Partum sterilizations conducted at Public facilities i.e. PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 9.4.1.a to 9.4.1.d)",TOTAL,3.0,3.0,2.0,1.0,4.0,0.0,9.0,10.0,11.0,12.0,3.0,3.0,61.0
+Daman,9.4.2,Number of Post-Partum sterilizations conducted at Private facilities,TOTAL,1.0,2.0,1.0,3.0,2.0,2.0,3.0,2.0,2.0,4.0,3.0,4.0,29.0
+Daman,9.5.1.a,Number of IUCD Insertions conducted at SCs,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,9.5.1.b,Number of IUCD Insertions conducted at PHCs,TOTAL,7.0,6.0,1.0,11.0,4.0,3.0,6.0,2.0,5.0,8.0,7.0,9.0,69.0
+Daman,9.5.1.c,Number of IUCD Insertions conducted at CHCs,TOTAL,0.0,3.0,1.0,11.0,1.0,1.0,3.0,0.0,1.0,0.0,1.0,0.0,22.0
+Daman,9.5.1.d,Number of IUCD Insertions conducted at SDHs or DHs,TOTAL,1.0,1.0,4.0,11.0,0.0,5.0,0.0,1.0,1.0,3.0,2.0,1.0,30.0
+Daman,9.5.1.e,Number of IUCD Insertions conducted at other State owned public institutions,TOTAL,,,,,,,,,,,,,
+Daman,9.5.1.f,"Total Number of IUCD Insertions conducted at Public facilities i.e. SC, PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 9.5.1.a to 9.5.1.e)",TOTAL,8.0,10.0,6.0,33.0,5.0,9.0,9.0,3.0,7.0,11.0,10.0,10.0,121.0
+Daman,9.5.1A,"Out of above total, Post Partum (within 48 hours of delivery) IUCD insertions",TOTAL,,,,,,,,,,,,,
+Daman,9.5.2,Number of IUCD Insertions conducted at Private facilities,TOTAL,12.0,9.0,7.0,9.0,7.0,4.0,2.0,4.0,10.0,11.0,8.0,9.0,92.0
+Daman,9.06,Number of IUCD removals,TOTAL,4.0,5.0,3.0,9.0,2.0,2.0,4.0,1.0,2.0,2.0,7.0,3.0,44.0
+Daman,9.07,Number of Oral Pills cycles distributed,TOTAL,224.0,139.0,403.0,506.0,565.0,618.0,557.0,665.0,627.0,561.0,501.0,486.0,5852.0
+Daman,9.08,Number of Condom pieces distributed,TOTAL,11019.0,13213.0,14660.0,15990.0,12730.0,17610.0,16421.0,17610.0,14925.0,14542.0,17653.0,16351.0,182724.0
+Daman,9.09,Number of Centchroman (weekly) pills given,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,9.10,Number of Emergency Contraceptive Pills distributed,TOTAL,0.0,10.0,2.0,0.0,1.0,0.0,0.0,5.0,3.0,3.0,7.0,3.0,34.0
+Daman,9.11.1.a,Number of cases of complications following male sterilization,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,9.11.1.b,Number of cases of complications following female sterilization,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,9.11.2.a,Number of failures following male sterilization,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,9.11.2.b,Number of failures following female sterilization,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,9.11.3.a,Number of deaths following male sterilization,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,9.11.3.b,Number of deaths following female sterilization,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,9.12,Number of Institutions having NSV trained doctors,TOTAL,,,,,,,,,,,,,-1.0
+Daman,10.1.01,Number of Infants (0 to 11 months old)received BCG immunisation,TOTAL,183.0,185.0,142.0,156.0,186.0,197.0,235.0,274.0,253.0,213.0,183.0,181.0,2388.0
+Daman,10.1.02,Number of Infants (0 to 11 months old) received DPT1 immunisation,TOTAL,178.0,175.0,187.0,173.0,177.0,154.0,235.0,248.0,240.0,252.0,235.0,207.0,2461.0
+Daman,10.1.03,Number of Infants (0 to 11 months old) received DPT2 immunisation,TOTAL,157.0,177.0,167.0,184.0,191.0,154.0,197.0,220.0,235.0,269.0,246.0,216.0,2413.0
+Daman,10.1.04,Number of Infants (0 to 11 months old) received DPT3 immunisation,TOTAL,181.0,170.0,159.0,197.0,232.0,158.0,170.0,199.0,228.0,251.0,251.0,225.0,2421.0
+Daman,10.1.04A,Number of Infants (0 to 11 months old) received Pentavalent1 immunisation,TOTAL,,,,,,,,,,,,,
+Daman,10.1.04B,Number of Infants (0 to 11 months old) received Pentavalent2 immunisation,TOTAL,,,,,,,,,,,,,
+Daman,10.1.04C,Number of Infants (0 to 11 months old) received Pentavalent3 immunisation,TOTAL,,,,,,,,,,,,,
+Daman,10.1.05,Number of Infants (0 to 11 months old) received OPV 0 (Birth Dose),TOTAL,176.0,199.0,152.0,212.0,263.0,258.0,295.0,325.0,263.0,223.0,202.0,247.0,2815.0
+Daman,10.1.06,Number of Infants (0 to 11 months old) received OPV1 (First Dose),TOTAL,178.0,175.0,187.0,173.0,177.0,154.0,235.0,248.0,240.0,252.0,235.0,207.0,2461.0
+Daman,10.1.07,Number of Infants (0 to 11 months old) received OPV2 (Second Dose),TOTAL,157.0,177.0,167.0,184.0,191.0,154.0,197.0,220.0,235.0,269.0,246.0,216.0,2413.0
+Daman,10.1.08,Number of Infants (0 to 11 months old) received OPV3 (Third Dose),TOTAL,181.0,170.0,159.0,197.0,232.0,158.0,170.0,199.0,228.0,251.0,251.0,225.0,2421.0
+Daman,10.1.09A,Number of Infants (upto 48 hrs of age) received Hepatitis-B0 immunisation,TOTAL,137.0,121.0,85.0,137.0,162.0,173.0,174.0,181.0,152.0,32.0,136.0,177.0,1667.0
+Daman,10.1.09,Number of Infants (0 to 11 months old) received Hepatitis-B1 immunisation,TOTAL,161.0,189.0,210.0,192.0,190.0,148.0,254.0,245.0,240.0,262.0,228.0,209.0,2528.0
+Daman,10.1.10,Number of Infants (0 to 11 months old) received Hepatitis-B2 immunisation,TOTAL,196.0,194.0,197.0,208.0,199.0,151.0,185.0,231.0,250.0,259.0,250.0,217.0,2537.0
+Daman,10.1.11,Number of Infants (0 to 11 months old) received Hepatitis-B3 immunisation,TOTAL,237.0,191.0,177.0,188.0,229.0,171.0,180.0,190.0,203.0,261.0,243.0,242.0,2512.0
+Daman,10.1.12,Number of Infants (0 to 11 months old) received Measles immunisation (First Dose),TOTAL,193.0,241.0,230.0,265.0,237.0,221.0,208.0,188.0,227.0,245.0,224.0,208.0,2687.0
+Daman,10.1.12B,Number of Infants (more than 16 months old) received Measles immunisation (Second Dose),TOTAL,202.0,176.0,188.0,138.0,125.0,147.0,171.0,141.0,144.0,196.0,219.0,195.0,2042.0
+Daman,10.1A,No. of Children aged 9 to 12 months who received JE 1st dose,TOTAL,,,,,,,,,,,,,
+Daman,10.1.13.a,Total number of male children (9 to 11 months old) fully immunised (BCG+DPT123/Pentavalent123+OPV123+Measles) during the month,TOTAL,100.0,132.0,114.0,126.0,129.0,122.0,113.0,95.0,119.0,125.0,138.0,112.0,1425.0
+Daman,10.1.13.b,Total number of female children (9 to 11 months old) fully immunised (BCG+DPT123/Pentavalent123+OPV123+Measles) during the month,TOTAL,93.0,109.0,116.0,138.0,108.0,99.0,95.0,90.0,108.0,120.0,86.0,96.0,1258.0
+Daman,10.1.13.c,Total number of children (9 to 11 months old) fully immunised (BCG+DPT123/Pentavalent123+OPV123+Measles) during the month (sum of items 10.1.13.a and 10.1.13.b),TOTAL,193.0,241.0,230.0,264.0,237.0,221.0,208.0,185.0,227.0,245.0,224.0,208.0,2683.0
+Daman,10.2.1,Number of Infants (more than 16 months old) received DPT Booster dose,TOTAL,212.0,182.0,186.0,148.0,123.0,150.0,173.0,143.0,157.0,219.0,226.0,198.0,2117.0
+Daman,10.2.2,Number of Infants (more than 16 months old) received OPV Booster dose,TOTAL,212.0,182.0,186.0,148.0,123.0,150.0,173.0,143.0,157.0,219.0,226.0,198.0,2117.0
+Daman,10.2.3,"Number of Infants (more than 16 months old) received Measles, Mumps, Rubella (MMR) Vaccination",TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,10.3.1.a,Total number of male children (12 to 23 months old) fully immunised (BCG+DPT123/Pentavalent123+OPV123+Measles) during the month,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,10.3.1.b,Total number of female children (12 to 23 months old) fully immunised (BCG+DPT123/Pentavalent123+OPV123+Measles) during the month,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,10.3.1.c,Total number of children (12 to 23 months old) fully immunised (BCG+DPT123+OPV123/Pentavalent123+Measles) during the month (sum of items 10.3.1.a and 10.3.1.b),TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,10.3.2,Number of children (more than 5 years old) given DT5,TOTAL,100.0,82.0,96.0,55.0,46.0,960.0,83.0,93.0,177.0,179.0,91.0,87.0,2049.0
+Daman,10.3.3,Number of children (more than 10 years old) given TT10,TOTAL,0.0,1.0,0.0,0.0,1.0,857.0,11.0,4.0,175.0,102.0,3.0,2.0,1156.0
+Daman,10.3.4,Number of children (more than 16 years old) given TT16,TOTAL,0.0,0.0,1.0,0.0,0.0,796.0,17.0,0.0,30.0,81.0,0.0,0.0,925.0
+Daman,10.3.5.a,Number of cases of Abscess reported following immunisation [Adverse Event Following Immunisation (AEFI)],TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,10.3.5.b,Number of cases of Death reported following immunisation [Adverse Event Following Immunisation (AEFI)],TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,10.3.5.c,Number of cases of other complications reported following immunisation [Adverse Event Following Immunisation (AEFI)],TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,10.4.1,Number of Immunisation sessions planned to be held during the month,TOTAL,54.0,69.0,62.0,63.0,71.0,59.0,61.0,70.0,64.0,69.0,63.0,63.0,768.0
+Daman,10.4.2,Number of Immunisation sessions held during the month,TOTAL,53.0,69.0,61.0,63.0,71.0,59.0,61.0,70.0,64.0,69.0,63.0,63.0,766.0
+Daman,10.4.3,Number of Immunisation sessions held during the month where ASHAs were present,TOTAL,39.0,59.0,55.0,57.0,64.0,49.0,55.0,53.0,49.0,52.0,49.0,49.0,630.0
+Daman,10.5.1,Number of children (more than 16 months old) received Japanese Encephalitis (JE) vaccination,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,11.1.1,Number of children (9 months to 5 years old) administered 1st dose of Vitamin A (Dose-1),TOTAL,209.0,247.0,232.0,264.0,244.0,224.0,213.0,169.0,223.0,247.0,213.0,178.0,2663.0
+Daman,11.1.2,Number of children (9 months to 5 years old) were administered 5th dose of Vitamin A (Dose-5),TOTAL,83.0,90.0,77.0,66.0,59.0,158.0,80.0,59.0,46.0,59.0,80.0,64.0,921.0
+Daman,11.1.3,Number of children (9 months to 5 years old) administered 9th dose of Vitamin A (Dose-9),TOTAL,108.0,121.0,118.0,173.0,76.0,230.0,100.0,72.0,66.0,71.0,88.0,60.0,1283.0
+Daman,12.1,Number of cases of Diptheria reported in children below 5 years of age,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,12.2,Number of cases of Pertusis reported in children below 5 years of age,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,12.3,Number of cases of Tetanus neonatarum reported in children below 5 years of age,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,12.4,Number of cases of Tetanus other than neonatarum reported in children below 5 years of age,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,12.5,Number of cases of Polio reported in children below 5 years of age,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,12.6,Number of cases of Measles reported in children below 5 years of age,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,12.7,Number of cases of Diarrhoea and Dehydration reported in children below 5 years of age,TOTAL,68.0,92.0,148.0,284.0,198.0,173.0,152.0,140.0,170.0,242.0,191.0,177.0,2035.0
+Daman,12.8,Number of cases of Malaria reported in children below 5 years of age,TOTAL,0.0,2.0,1.0,0.0,3.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,9.0
+Daman,12.9,Number of children below 5 years of age admitted with Respiratory Infections,TOTAL,4.0,4.0,2.0,7.0,15.0,7.0,2.0,1.0,1.0,1.0,3.0,0.0,47.0
+Daman,13.1,Number of Patients operated for cataract,TOTAL,20.0,22.0,21.0,26.0,22.0,22.0,26.0,19.0,0.0,3.0,2.0,12.0,195.0
+Daman,13.2,Number of Intraocular Lens(IOL) implantations,TOTAL,20.0,22.0,21.0,26.0,22.0,22.0,26.0,19.0,0.0,3.0,2.0,12.0,195.0
+Daman,13.3,Number of School children detected with Refractive errors,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,13.4,Number of children provided free glasses,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,13.5,Number of eyes collected through eye donation,TOTAL,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0
+Daman,13.6,Number of eyes utilised for corneal transplant,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,14.01,Number of CHC or SDH or DH functioning as First Referral units (FRUs),TOTAL,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,-1.0
+Daman,14.02,Number of PHCs functioning 24X7 with atleast 3 Staff Nurses,TOTAL,,,,,,,,,,,,,-1.0
+Daman,14.03,Number of Anganwadi centres reported to have conducted VHNDs,TOTAL,5.0,3.0,5.0,4.0,2.0,3.0,3.0,1.0,1.0,1.0,1.0,4.0,-1.0
+Daman,14.04,Number of facilities having a Rogi Kalyan Samiti (RKS),TOTAL,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,-1.0
+Daman,14.05,Number of RKS meetings held during the month,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,14.06,Number of facilities having Ambulance services (Assured Referral Services),TOTAL,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,-1.0
+Daman,14.07,Total Number of times the Ambulance was used for transporting patients during the month,TOTAL,254.0,267.0,274.0,313.0,140.0,261.0,287.0,221.0,245.0,276.0,214.0,291.0,3043.0
+Daman,14.08,Number of Institutions having Operational Sick New Born and Child Care Units (SNCU),TOTAL,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0
+Daman,14.09,Number of functional Laproscopes in CHC/SDH/DH,TOTAL,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0
+Daman,14.10.1.a,Number of male patients admitted (Inpatients) during the month,1. Children,48.0,87.0,81.0,124.0,117.0,107.0,64.0,49.0,68.0,72.0,50.0,78.0,945.0
+Daman,14.10.1.a,Number of male patients admitted (Inpatients) during the month,2. Adults,281.0,428.0,317.0,409.0,625.0,335.0,327.0,283.0,219.0,253.0,232.0,326.0,4035.0
+Daman,14.10.1.b,Number of female patients (Inpatients) admitted during the month,1. Children,49.0,77.0,67.0,90.0,93.0,66.0,67.0,45.0,64.0,55.0,44.0,63.0,780.0
+Daman,14.10.1.b,Number of female patients (Inpatients) admitted during the month,2. Adults,393.0,409.0,430.0,511.0,544.0,558.0,546.0,459.0,401.0,385.0,394.0,489.0,5519.0
+Daman,14.10.1.c,Total number of patients admitted (Inpatients) during the month (sum of items 14.10.1.a and 14.10.1.b),1. Children,97.0,164.0,148.0,214.0,210.0,173.0,131.0,94.0,132.0,127.0,94.0,141.0,1725.0
+Daman,14.10.1.c,Total number of patients admitted (Inpatients) during the month (sum of items 14.10.1.a and 14.10.1.b),2. Adults,674.0,837.0,747.0,920.0,1169.0,893.0,873.0,742.0,620.0,638.0,626.0,815.0,9554.0
+Daman,14.10.2.a,Number of death cases of Inpatient males,TOTAL,10.0,5.0,7.0,14.0,22.0,12.0,16.0,13.0,14.0,15.0,17.0,15.0,160.0
+Daman,14.10.2.b,Number of death cases of Inpatient females,TOTAL,3.0,7.0,2.0,5.0,6.0,7.0,6.0,8.0,3.0,9.0,12.0,8.0,76.0
+Daman,14.10.2.c,Number of cases of death of Inpatients (sum of items 14.10.2.a and 14.10.2.b),TOTAL,13.0,12.0,9.0,19.0,28.0,19.0,22.0,21.0,17.0,24.0,29.0,23.0,236.0
+Daman,14.11,In-Patient Head Count at midnight,TOTAL,1087.0,1316.0,1263.0,1559.0,1619.0,1562.0,1427.0,1269.0,1066.0,1110.0,1087.0,1276.0,15641.0
+Daman,14.12.1,OPD attendance (All),TOTAL,26932.0,30338.0,30681.0,34473.0,39654.0,38066.0,37060.0,31417.0,33304.0,34004.0,34975.0,35384.0,406288.0
+Daman,14.13.1,Number of major operations carried out using general or spinal anaesthesia,TOTAL,104.0,140.0,135.0,118.0,118.0,126.0,118.0,139.0,148.0,150.0,127.0,102.0,1525.0
+Daman,14.13.1A,"Out of 14.13.1,Gynecology- Hysterectomy surgeries",TOTAL,,,,,,,,,,,,,
+Daman,14.13.2,Number of minor operations carried out without anaesthesia or using local anaesthesia,TOTAL,38.0,60.0,74.0,66.0,66.0,68.0,50.0,54.0,52.0,59.0,50.0,54.0,691.0
+Daman,14.14.a,Number of patients given AYUSH treatment,TOTAL,1945.0,2180.0,1870.0,2354.0,3913.0,3445.0,3649.0,2822.0,3791.0,2874.0,4018.0,4154.0,37015.0
+Daman,14.14.b,Number of patients on whom Dental Procedure was conducted,TOTAL,1481.0,1855.0,1748.0,1542.0,1442.0,1635.0,1554.0,1457.0,1620.0,1651.0,1457.0,1449.0,18891.0
+Daman,14.14.c,Number of Adolescents counselled,TOTAL,44.0,49.0,76.0,73.0,73.0,88.0,74.0,77.0,264.0,325.0,123.0,195.0,1461.0
+Daman,15.1.1.a,Number of Haemoglobin (Hb) tests conducted,TOTAL,2125.0,2718.0,2364.0,2116.0,2600.0,2787.0,3531.0,2965.0,2800.0,2902.0,2659.0,3370.0,32937.0
+Daman,15.1.1.b,"Out of the total number of Hb tests conducted, number of cases having Hb less than 7gm/dl",TOTAL,32.0,62.0,93.0,42.0,56.0,49.0,69.0,60.0,86.0,105.0,43.0,65.0,762.0
+Daman,15.1.2.a,Number of HIV tests conducted on males,1. Number tested,85.0,115.0,183.0,138.0,213.0,173.0,120.0,147.0,218.0,248.0,161.0,208.0,2009.0
+Daman,15.1.2.a,Number of HIV tests conducted on males,2. Number Positive,7.0,5.0,3.0,1.0,5.0,5.0,1.0,1.0,4.0,2.0,1.0,2.0,37.0
+Daman,15.1.2.b,Number of HIV tests conducted on Female-Non ANC (i.e. non pregnant females),1. Number tested,54.0,51.0,35.0,73.0,47.0,41.0,60.0,58.0,56.0,89.0,70.0,87.0,721.0
+Daman,15.1.2.b,Number of HIV tests conducted on Female-Non ANC (i.e. non pregnant females),2. Number Positive,0.0,1.0,1.0,4.0,2.0,1.0,0.0,1.0,1.0,2.0,0.0,0.0,13.0
+Daman,15.1.2.c,Number of HIV tests conducted on Female with ANC (i.e. pregnant females),1. Number tested,313.0,281.0,221.0,258.0,237.0,233.0,197.0,128.0,153.0,340.0,206.0,271.0,2838.0
+Daman,15.1.2.c,Number of HIV tests conducted on Female with ANC (i.e. pregnant females),2. Number Positive,0.0,1.0,0.0,1.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,1.0,7.0
+Daman,15.1.2.d,Total number of HIV tests conducted (sum of items 15.1.2.a to 15.1.2.c),1. Number tested,452.0,447.0,439.0,469.0,497.0,447.0,377.0,333.0,427.0,677.0,437.0,566.0,5568.0
+Daman,15.1.2.d,Total number of HIV tests conducted (sum of items 15.1.2.a to 15.1.2.c),2. Number Positive,7.0,7.0,4.0,6.0,8.0,8.0,1.0,2.0,5.0,5.0,1.0,3.0,57.0
+Daman,15.2,Number of Widal tests conducted,Number tested,207.0,237.0,265.0,392.0,438.0,607.0,495.0,237.0,258.0,225.0,165.0,199.0,3725.0
+Daman,15.3.a,Number of VDRL tests conducted on males,Number tested,7.0,9.0,13.0,3.0,11.0,12.0,9.0,12.0,21.0,9.0,11.0,23.0,140.0
+Daman,15.3.b,Number of VDRL tests conducted on Female-Non ANC (i.e. non pregnant females),Number tested,14.0,6.0,7.0,10.0,6.0,10.0,11.0,14.0,16.0,20.0,4.0,30.0,148.0
+Daman,15.3.c,Number of VDRL tests conducted on Female with ANC (i.e. pregnant females),Number tested,134.0,144.0,107.0,89.0,159.0,160.0,158.0,93.0,93.0,232.0,125.0,158.0,1652.0
+Daman,15.3.d,Total number of VDRL tests conducted (sum of items 15.3.a to 15.3.c),Number tested,155.0,159.0,127.0,102.0,176.0,182.0,178.0,119.0,130.0,261.0,140.0,211.0,1940.0
+Daman,15.4.1,Number of blood smears examined for Malaria,TOTAL,519.0,631.0,725.0,1108.0,1521.0,1370.0,1511.0,1193.0,884.0,860.0,741.0,830.0,11893.0
+Daman,15.4.2,"Out of blood smears examined for malaria, number of blood smears tested positive for Plasmodium Vivax",TOTAL,15.0,25.0,31.0,59.0,49.0,19.0,15.0,12.0,7.0,3.0,3.0,9.0,247.0
+Daman,15.4.3,"Out of blood smears examined for malaria, number of blood smears tested positive for Plasmodium Falciparum",TOTAL,1.0,2.0,1.0,6.0,5.0,13.0,11.0,6.0,3.0,0.0,0.0,0.0,48.0
+Daman,16.1.1,Stock position of DPT vaccines,1. Balance From Previous Month,5270.0,2420.0,11640.0,10780.0,10010.0,9220.0,9220.0,22620.0,22060.0,21100.0,19940.0,18970.0,163250.0
+Daman,16.1.1,Stock position of DPT vaccines,2. Stocks Received,0.0,10000.0,0.0,0.0,0.0,0.0,20000.0,0.0,0.0,0.0,0.0,0.0,30000.0
+Daman,16.1.1,Stock position of DPT vaccines,3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.1.1,Stock position of DPT vaccines,4. Stock Distributed,2850.0,780.0,860.0,770.0,790.0,0.0,6600.0,560.0,960.0,1160.0,970.0,860.0,17160.0
+Daman,16.1.1,Stock position of DPT vaccines,5. Total Stock,2420.0,11640.0,10780.0,10010.0,9220.0,9220.0,22620.0,22060.0,21100.0,19940.0,18970.0,18110.0,176090.0
+Daman,16.1.1A,Stock Position of Pentavalent,1. Balance From Previous Month,,,,,,,,,,,,,
+Daman,16.1.1A,Stock Position of Pentavalent,2. Stocks Received,,,,,,,,,,,,,
+Daman,16.1.1A,Stock Position of Pentavalent,3. Unusable Stock,,,,,,,,,,,,,
+Daman,16.1.1A,Stock Position of Pentavalent,4. Stock Distributed,,,,,,,,,,,,,
+Daman,16.1.1A,Stock Position of Pentavalent,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.1.2,Stock position of OPV vaccines,1. Balance From Previous Month,3960.0,11060.0,9920.0,38800.0,37540.0,36340.0,36340.0,33620.0,32260.0,63480.0,30180.0,27640.0,361140.0
+Daman,16.1.2,Stock position of OPV vaccines,2. Stocks Received,42180.0,0.0,30000.0,0.0,0.0,0.0,0.0,0.0,31980.0,0.0,31980.0,0.0,136140.0
+Daman,16.1.2,Stock position of OPV vaccines,3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.1.2,Stock position of OPV vaccines,4. Stock Distributed,35080.0,1140.0,1120.0,1260.0,1200.0,0.0,2720.0,1360.0,760.0,33300.0,34520.0,1260.0,113720.0
+Daman,16.1.2,Stock position of OPV vaccines,5. Total Stock,11060.0,9920.0,38800.0,37540.0,36340.0,36340.0,33620.0,32260.0,63480.0,30180.0,27640.0,26380.0,383560.0
+Daman,16.1.3,Stock position of TT vaccines,1. Balance From Previous Month,21040.0,13320.0,12570.0,11850.0,10390.0,9680.0,9680.0,5010.0,14320.0,13470.0,12400.0,11100.0,144830.0
+Daman,16.1.3,Stock position of TT vaccines,2. Stocks Received,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10000.0,0.0,0.0,0.0,0.0,10000.0
+Daman,16.1.3,Stock position of TT vaccines,3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.1.3,Stock position of TT vaccines,4. Stock Distributed,7720.0,750.0,720.0,1460.0,710.0,0.0,4670.0,690.0,850.0,1070.0,1300.0,390.0,20330.0
+Daman,16.1.3,Stock position of TT vaccines,5. Total Stock,13320.0,12570.0,11850.0,10390.0,9680.0,9680.0,5010.0,14320.0,13470.0,12400.0,11100.0,10710.0,134500.0
+Daman,16.1.4,Stock position of DT vaccines,1. Balance From Previous Month,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.1.4,Stock position of DT vaccines,2. Stocks Received,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.1.4,Stock position of DT vaccines,3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.1.4,Stock position of DT vaccines,4. Stock Distributed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.1.4,Stock position of DT vaccines,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.1.5,Stock position of BCG vaccines,1. Balance From Previous Month,5020.0,7600.0,7010.0,6550.0,6140.0,5650.0,5650.0,4480.0,4110.0,3650.0,3640.0,3170.0,62670.0
+Daman,16.1.5,Stock position of BCG vaccines,2. Stocks Received,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,500.0,0.0,0.0,5500.0
+Daman,16.1.5,Stock position of BCG vaccines,3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.1.5,Stock position of BCG vaccines,4. Stock Distributed,2420.0,590.0,460.0,410.0,490.0,0.0,1170.0,370.0,460.0,510.0,470.0,490.0,7840.0
+Daman,16.1.5,Stock position of BCG vaccines,5. Total Stock,7600.0,7010.0,6550.0,6140.0,5650.0,5650.0,4480.0,4110.0,3650.0,3640.0,3170.0,2680.0,60330.0
+Daman,16.1.6,Stock position of Measles vaccines,1. Balance From Previous Month,5210.0,2785.0,7290.0,6805.0,6360.0,5925.0,5925.0,9750.0,9640.0,9200.0,8670.0,8195.0,85755.0
+Daman,16.1.6,Stock position of Measles vaccines,2. Stocks Received,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,0.0,0.0,0.0,0.0,0.0,10000.0
+Daman,16.1.6,Stock position of Measles vaccines,3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.1.6,Stock position of Measles vaccines,4. Stock Distributed,2425.0,495.0,485.0,445.0,435.0,0.0,1175.0,110.0,440.0,530.0,475.0,445.0,7460.0
+Daman,16.1.6,Stock position of Measles vaccines,5. Total Stock,2785.0,7290.0,6805.0,6360.0,5925.0,5925.0,9750.0,9640.0,9200.0,8670.0,8195.0,7750.0,88295.0
+Daman,16.1.7,Stock position of JE vaccines,1. Balance From Previous Month,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.1.7,Stock position of JE vaccines,2. Stocks Received,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.1.7,Stock position of JE vaccines,3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.1.7,Stock position of JE vaccines,4. Stock Distributed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.1.7,Stock position of JE vaccines,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.1.8,Stock position of Hepatitis B vaccines,1. Balance From Previous Month,13110.0,9950.0,9300.0,8700.0,8110.0,7470.0,7470.0,6140.0,5530.0,5070.0,4180.0,2410.0,87440.0
+Daman,16.1.8,Stock position of Hepatitis B vaccines,2. Stocks Received,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.1.8,Stock position of Hepatitis B vaccines,3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.1.8,Stock position of Hepatitis B vaccines,4. Stock Distributed,3160.0,650.0,600.0,590.0,640.0,0.0,1330.0,610.0,460.0,890.0,1770.0,700.0,11400.0
+Daman,16.1.8,Stock position of Hepatitis B vaccines,5. Total Stock,9950.0,9300.0,8700.0,8110.0,7470.0,7470.0,6140.0,5530.0,5070.0,4180.0,2410.0,1710.0,76040.0
+Daman,16.2.1,Stock Position of IU 380 A (to be used for Family Planning),1. Balance From Previous Month,1017.0,1017.0,1413.0,1413.0,1342.0,1342.0,1342.0,1342.0,1342.0,1342.0,1314.0,1284.0,15510.0
+Daman,16.2.1,Stock Position of IU 380 A (to be used for Family Planning),2. Stocks Received,0.0,396.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,396.0
+Daman,16.2.1,Stock Position of IU 380 A (to be used for Family Planning),3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.2.1,Stock Position of IU 380 A (to be used for Family Planning),4. Stock Distributed,0.0,0.0,0.0,71.0,0.0,0.0,0.0,0.0,0.0,28.0,30.0,0.0,129.0
+Daman,16.2.1,Stock Position of IU 380 A (to be used for Family Planning),5. Total Stock,1017.0,1413.0,1413.0,1342.0,1342.0,1342.0,1342.0,1342.0,1342.0,1314.0,1284.0,1284.0,15777.0
+Daman,16.2.2,Stock Position of Condoms (to be used for Family Planning),1. Balance From Previous Month,1050.0,990.0,870.0,570.0,570.0,0.0,0.0,52800.0,28800.0,28800.0,20800.0,800.0,136050.0
+Daman,16.2.2,Stock Position of Condoms (to be used for Family Planning),2. Stocks Received,0.0,0.0,0.0,0.0,0.0,36000.0,52800.0,0.0,0.0,0.0,0.0,0.0,88800.0
+Daman,16.2.2,Stock Position of Condoms (to be used for Family Planning),3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.2.2,Stock Position of Condoms (to be used for Family Planning),4. Stock Distributed,60.0,120.0,300.0,0.0,570.0,36000.0,0.0,24000.0,0.0,8000.0,20000.0,800.0,89850.0
+Daman,16.2.2,Stock Position of Condoms (to be used for Family Planning),5. Total Stock,990.0,870.0,570.0,570.0,0.0,0.0,52800.0,28800.0,28800.0,20800.0,800.0,0.0,135000.0
+Daman,16.2.3,Stock Position of Oral Contraceptive (to be used for Family Planning),1. Balance From Previous Month,0.0,0.0,4840.0,1840.0,1540.0,1440.0,1340.0,1140.0,640.0,540.0,140.0,40.0,13500.0
+Daman,16.2.3,Stock Position of Oral Contraceptive (to be used for Family Planning),2. Stocks Received,0.0,4840.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4840.0
+Daman,16.2.3,Stock Position of Oral Contraceptive (to be used for Family Planning),3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.2.3,Stock Position of Oral Contraceptive (to be used for Family Planning),4. Stock Distributed,0.0,0.0,3000.0,300.0,100.0,100.0,200.0,500.0,100.0,400.0,100.0,40.0,4840.0
+Daman,16.2.3,Stock Position of Oral Contraceptive (to be used for Family Planning),5. Total Stock,0.0,4840.0,1840.0,1540.0,1440.0,1340.0,1140.0,640.0,540.0,140.0,40.0,0.0,13500.0
+Daman,16.2.4,Stock Position of Emergency Contraceptive (to be used for Family Planning),1. Balance From Previous Month,4953.0,4953.0,4953.0,4953.0,4953.0,4953.0,4903.0,4903.0,5708.0,5708.0,5708.0,5708.0,62356.0
+Daman,16.2.4,Stock Position of Emergency Contraceptive (to be used for Family Planning),2. Stocks Received,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2355.0,0.0,0.0,0.0,0.0,2355.0
+Daman,16.2.4,Stock Position of Emergency Contraceptive (to be used for Family Planning),3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,550.0,0.0,0.0,0.0,0.0,550.0
+Daman,16.2.4,Stock Position of Emergency Contraceptive (to be used for Family Planning),4. Stock Distributed,0.0,0.0,0.0,0.0,0.0,50.0,0.0,1000.0,0.0,0.0,0.0,0.0,1050.0
+Daman,16.2.4,Stock Position of Emergency Contraceptive (to be used for Family Planning),5. Total Stock,4953.0,4953.0,4953.0,4953.0,4953.0,4903.0,4903.0,5708.0,5708.0,5708.0,5708.0,5708.0,63111.0
+Daman,16.2.5,Stock Position of Tubal Rings (to be used for Family Planning),1. Balance From Previous Month,945.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,945.0
+Daman,16.2.5,Stock Position of Tubal Rings (to be used for Family Planning),2. Stocks Received,0.0,0.0,0.0,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50.0
+Daman,16.2.5,Stock Position of Tubal Rings (to be used for Family Planning),3. Unusable Stock,945.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,945.0
+Daman,16.2.5,Stock Position of Tubal Rings (to be used for Family Planning),4. Stock Distributed,0.0,0.0,0.0,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50.0
+Daman,16.2.5,Stock Position of Tubal Rings (to be used for Family Planning),5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.01,Stock Position of Oxytocin Injection,1. Balance From Previous Month,0.0,0.0,0.0,570.0,570.0,470.0,400.0,340.0,290.0,180.0,130.0,30.0,2980.0
+Daman,16.3.01,Stock Position of Oxytocin Injection,2. Stocks Received,0.0,0.0,1140.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1140.0
+Daman,16.3.01,Stock Position of Oxytocin Injection,3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.01,Stock Position of Oxytocin Injection,4. Stock Distributed,0.0,0.0,570.0,0.0,100.0,70.0,60.0,50.0,110.0,50.0,100.0,30.0,1140.0
+Daman,16.3.01,Stock Position of Oxytocin Injection,5. Total Stock,0.0,0.0,570.0,570.0,470.0,400.0,340.0,290.0,180.0,130.0,30.0,0.0,2980.0
+Daman,16.3.02,Stock Position of Gloves,1. Balance From Previous Month,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.02,Stock Position of Gloves,2. Stocks Received,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.02,Stock Position of Gloves,3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.02,Stock Position of Gloves,4. Stock Distributed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.02,Stock Position of Gloves,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.03,Stock Position of MVA Syringes,1. Balance From Previous Month,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.03,Stock Position of MVA Syringes,2. Stocks Received,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.03,Stock Position of MVA Syringes,3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.03,Stock Position of MVA Syringes,4. Stock Distributed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.03,Stock Position of MVA Syringes,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.04,Stock Position of Fluconazole Tablets,1. Balance From Previous Month,400.0,250.0,250.0,160.0,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1120.0
+Daman,16.3.04,Stock Position of Fluconazole Tablets,2. Stocks Received,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.04,Stock Position of Fluconazole Tablets,3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.04,Stock Position of Fluconazole Tablets,4. Stock Distributed,150.0,0.0,90.0,100.0,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,400.0
+Daman,16.3.04,Stock Position of Fluconazole Tablets,5. Total Stock,250.0,250.0,160.0,60.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,720.0
+Daman,16.3.05,Stock Position of Blood Transfusion Sets,1. Balance From Previous Month,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.05,Stock Position of Blood Transfusion Sets,2. Stocks Received,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.05,Stock Position of Blood Transfusion Sets,3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.05,Stock Position of Blood Transfusion Sets,4. Stock Distributed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.05,Stock Position of Blood Transfusion Sets,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.06,Stock Position of Gluteraldehyde solution of 2% concentration,1. Balance From Previous Month,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.06,Stock Position of Gluteraldehyde solution of 2% concentration,2. Stocks Received,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.06,Stock Position of Gluteraldehyde solution of 2% concentration,3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.06,Stock Position of Gluteraldehyde solution of 2% concentration,4. Stock Distributed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.06,Stock Position of Gluteraldehyde solution of 2% concentration,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.07,Stock Position of IFA Tablets,1. Balance From Previous Month,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.07,Stock Position of IFA Tablets,2. Stocks Received,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.07,Stock Position of IFA Tablets,3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.07,Stock Position of IFA Tablets,4. Stock Distributed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.07,Stock Position of IFA Tablets,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.08,Stock Position of IFA Syrup (Paediatric),1. Balance From Previous Month,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.08,Stock Position of IFA Syrup (Paediatric),2. Stocks Received,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.08,Stock Position of IFA Syrup (Paediatric),3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.08,Stock Position of IFA Syrup (Paediatric),4. Stock Distributed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.08,Stock Position of IFA Syrup (Paediatric),5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.09,Stock Position of Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),1. Balance From Previous Month,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50.0
+Daman,16.3.09,Stock Position of Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),2. Stocks Received,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.09,Stock Position of Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.09,Stock Position of Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),4. Stock Distributed,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50.0
+Daman,16.3.09,Stock Position of Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.10,Stock Position of Vitamin A solution,1. Balance From Previous Month,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.10,Stock Position of Vitamin A solution,2. Stocks Received,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.10,Stock Position of Vitamin A solution,3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.10,Stock Position of Vitamin A solution,4. Stock Distributed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.10,Stock Position of Vitamin A solution,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.11,Stock of ORS (New WHO formulation),1. Balance From Previous Month,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.11,Stock of ORS (New WHO formulation),2. Stocks Received,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.11,Stock of ORS (New WHO formulation),3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.11,Stock of ORS (New WHO formulation),4. Stock Distributed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.3.11,Stock of ORS (New WHO formulation),5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.4.1,Stock Position of 0.1 ml Syringes(AD),1. Balance From Previous Month,120.0,120.0,120.0,1620.0,1620.0,1620.0,1620.0,1620.0,0.0,2000.0,2000.0,1000.0,13460.0
+Daman,16.4.1,Stock Position of 0.1 ml Syringes(AD),2. Stocks Received,0.0,0.0,1500.0,0.0,0.0,0.0,0.0,0.0,2000.0,0.0,0.0,0.0,3500.0
+Daman,16.4.1,Stock Position of 0.1 ml Syringes(AD),3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.4.1,Stock Position of 0.1 ml Syringes(AD),4. Stock Distributed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1620.0,0.0,0.0,1000.0,0.0,2620.0
+Daman,16.4.1,Stock Position of 0.1 ml Syringes(AD),5. Total Stock,120.0,120.0,1620.0,1620.0,1620.0,1620.0,1620.0,0.0,2000.0,2000.0,1000.0,1000.0,14340.0
+Daman,16.4.2,Stock Position of 0.5 ml Syringes(AD),1. Balance From Previous Month,21000.0,19000.0,17000.0,38000.0,38000.0,33000.0,28000.0,23000.0,13000.0,33000.0,33000.0,30000.0,326000.0
+Daman,16.4.2,Stock Position of 0.5 ml Syringes(AD),2. Stocks Received,0.0,0.0,25000.0,0.0,0.0,0.0,0.0,0.0,20000.0,0.0,0.0,0.0,45000.0
+Daman,16.4.2,Stock Position of 0.5 ml Syringes(AD),3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.4.2,Stock Position of 0.5 ml Syringes(AD),4. Stock Distributed,2000.0,2000.0,4000.0,0.0,5000.0,5000.0,5000.0,10000.0,0.0,0.0,3000.0,10000.0,46000.0
+Daman,16.4.2,Stock Position of 0.5 ml Syringes(AD),5. Total Stock,19000.0,17000.0,38000.0,38000.0,33000.0,28000.0,23000.0,13000.0,33000.0,33000.0,30000.0,20000.0,325000.0
+Daman,16.4.3,Stock Position of 5.0 ml Syringes(Disposable),1. Balance From Previous Month,2000.0,1000.0,1000.0,2000.0,2000.0,2000.0,2000.0,2000.0,2000.0,3000.0,3000.0,3000.0,25000.0
+Daman,16.4.3,Stock Position of 5.0 ml Syringes(Disposable),2. Stocks Received,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,0.0,2000.0,0.0,0.0,0.0,3000.0
+Daman,16.4.3,Stock Position of 5.0 ml Syringes(Disposable),3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daman,16.4.3,Stock Position of 5.0 ml Syringes(Disposable),4. Stock Distributed,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,2000.0
+Daman,16.4.3,Stock Position of 5.0 ml Syringes(Disposable),5. Total Stock,1000.0,1000.0,2000.0,2000.0,2000.0,2000.0,2000.0,2000.0,3000.0,3000.0,3000.0,3000.0,26000.0
+Daman,17.1,Number of cases of Infant deaths within 24 hrs of birth,TOTAL,,,,3.0,1.0,,2.0,,2.0,2.0,,,10.0
+Daman,17.2.1,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being Sepsis,1. Up to 1 Weeks of Birth,,,,,,,1.0,,,,,,1.0
+Daman,17.2.1,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being Sepsis,2. Between 1 week & 4 weeks of birth,,,,,,,,,,,,,
+Daman,17.2.1,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being Sepsis,3. Total,,,,,,,1.0,,,,,,1.0
+Daman,17.2.2,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being Asphyxia,1. Up to 1 Weeks of Birth,,,,,,,,,,,1.0,,1.0
+Daman,17.2.2,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being Asphyxia,2. Between 1 week & 4 weeks of birth,,,,,,,,,,,,,
+Daman,17.2.2,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being Asphyxia,3. Total,,,,,,,,,,,1.0,,1.0
+Daman,17.2.3,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being LBW,1. Up to 1 Weeks of Birth,,1.0,,,,,,2.0,,1.0,,1.0,5.0
+Daman,17.2.3,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being LBW,2. Between 1 week & 4 weeks of birth,,,,,,,,,,,,,
+Daman,17.2.3,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being LBW,3. Total,,1.0,,,,,,2.0,,1.0,,1.0,5.0
+Daman,17.2.4,"Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being other than Sepsis, Asphyxia and LBW",1. Up to 1 Weeks of Birth,,,,1.0,,,,,,1.0,3.0,2.0,7.0
+Daman,17.2.4,"Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being other than Sepsis, Asphyxia and LBW",2. Between 1 week & 4 weeks of birth,,,,,,,,1.0,,,,,1.0
+Daman,17.2.4,"Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being other than Sepsis, Asphyxia and LBW",3. Total,,,,1.0,,,,1.0,,1.0,3.0,2.0,8.0
+Daman,17.3.1,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Pneumonia,1. Between 1 month and 11 months,,,,,,,,,,1.0,,,1.0
+Daman,17.3.1,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Pneumonia,2. Between 1 year & 5 years,,,,,,,,,,,,,
+Daman,17.3.1,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Pneumonia,3. Total,,,,,,,,,,1.0,,,1.0
+Daman,17.3.2,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Diarrhoea,1. Between 1 month and 11 months,,,,,,,,,,,,,
+Daman,17.3.2,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Diarrhoea,2. Between 1 year & 5 years,,,,,,,,,,,,,
+Daman,17.3.2,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Diarrhoea,3. Total,,,,,,,,,,,,,
+Daman,17.3.3,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Fever related,1. Between 1 month and 11 months,,,,,,,,,,,,,
+Daman,17.3.3,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Fever related,2. Between 1 year & 5 years,,,,,,,,,,,,,
+Daman,17.3.3,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Fever related,3. Total,,,,,,,,,,,,,
+Daman,17.3.4,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Measles,1. Between 1 month and 11 months,,,,,,,,,,,,,
+Daman,17.3.4,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Measles,2. Between 1 year & 5 years,,,,,,,,,,,,,
+Daman,17.3.4,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Measles,3. Total,,,,,,,,,,,,,
+Daman,17.3.5,"Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being other than Pneumonia, Diarrhoea, Fever related and Measles",1. Between 1 month and 11 months,2.0,,1.0,,2.0,,,,,1.0,1.0,1.0,8.0
+Daman,17.3.5,"Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being other than Pneumonia, Diarrhoea, Fever related and Measles",2. Between 1 year & 5 years,,,,,,,,,,,,,
+Daman,17.3.5,"Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being other than Pneumonia, Diarrhoea, Fever related and Measles",3. Total,2.0,,1.0,,2.0,,,,,1.0,1.0,1.0,8.0
+Daman,17.4.1,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Diarrhoeal diseases,1. 6-14 yrs,,,,,,,,,,,,,
+Daman,17.4.1,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Diarrhoeal diseases,2. 15-55 yrs.,,,,1.0,,,,,,,,,1.0
+Daman,17.4.1,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Diarrhoeal diseases,3. Above 55 yrs.,,,,,,,,,,,,,
+Daman,17.4.1,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Diarrhoeal diseases,4. Total,,,,1.0,,,,,,,,,1.0
+Daman,17.4.2,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Tuberculosis,1. 6-14 yrs,,,,,,,,,,,,,
+Daman,17.4.2,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Tuberculosis,2. 15-55 yrs.,2.0,,1.0,2.0,3.0,1.0,2.0,5.0,,3.0,3.0,1.0,23.0
+Daman,17.4.2,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Tuberculosis,3. Above 55 yrs.,,,,1.0,2.0,1.0,,,,,2.0,,6.0
+Daman,17.4.2,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Tuberculosis,4. Total,2.0,,1.0,3.0,5.0,2.0,2.0,5.0,,3.0,5.0,1.0,29.0
+Daman,17.4.3,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Respiratory diseases including infections,1. 6-14 yrs,,,,,,,,,,,,,
+Daman,17.4.3,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Respiratory diseases including infections,2. 15-55 yrs.,2.0,1.0,,,1.0,2.0,2.0,1.0,,1.0,1.0,2.0,13.0
+Daman,17.4.3,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Respiratory diseases including infections,3. Above 55 yrs.,,1.0,,,2.0,,1.0,1.0,,1.0,,,6.0
+Daman,17.4.3,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Respiratory diseases including infections,4. Total,2.0,2.0,,,3.0,2.0,3.0,2.0,,2.0,1.0,2.0,19.0
+Daman,17.4.4,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Malaria,1. 6-14 yrs,,,,,,,,,,,,,
+Daman,17.4.4,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Malaria,2. 15-55 yrs.,,,,,,,,,,,,,
+Daman,17.4.4,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Malaria,3. Above 55 yrs.,,,,,,,,,,,,,
+Daman,17.4.4,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Malaria,4. Total,,,,,,,,,,,,,
+Daman,17.4.5,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being other Fever related,1. 6-14 yrs,,,,,,,,,,,,,
+Daman,17.4.5,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being other Fever related,2. 15-55 yrs.,1.0,,1.0,1.0,2.0,,,1.0,1.0,,,1.0,8.0
+Daman,17.4.5,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being other Fever related,3. Above 55 yrs.,,1.0,1.0,2.0,1.0,2.0,1.0,,1.0,2.0,,1.0,12.0
+Daman,17.4.5,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being other Fever related,4. Total,1.0,1.0,2.0,3.0,3.0,2.0,1.0,1.0,2.0,2.0,,2.0,20.0
+Daman,17.4.6,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being HIV/AIDS,1. 6-14 yrs,,,,,,,,,,,,,
+Daman,17.4.6,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being HIV/AIDS,2. 15-55 yrs.,,,,,,,,1.0,,,,,1.0
+Daman,17.4.6,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being HIV/AIDS,3. Above 55 yrs.,,,,,,,,,,,,,
+Daman,17.4.6,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being HIV/AIDS,4. Total,,,,,,,,1.0,,,,,1.0
+Daman,17.4.7,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Heart disease or related to Hypertension,1. 6-14 yrs,,,,,,,,,,,,,
+Daman,17.4.7,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Heart disease or related to Hypertension,2. 15-55 yrs.,1.0,1.0,2.0,3.0,1.0,,4.0,1.0,,2.0,1.0,6.0,22.0
+Daman,17.4.7,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Heart disease or related to Hypertension,3. Above 55 yrs.,1.0,1.0,1.0,7.0,2.0,5.0,2.0,1.0,7.0,4.0,5.0,2.0,38.0
+Daman,17.4.7,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Heart disease or related to Hypertension,4. Total,2.0,2.0,3.0,10.0,3.0,5.0,6.0,2.0,7.0,6.0,6.0,8.0,60.0
+Daman,17.4.8,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Neurological disease including strokes,1. 6-14 yrs,,,,,1.0,,,,,,,,1.0
+Daman,17.4.8,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Neurological disease including strokes,2. 15-55 yrs.,,,,,4.0,3.0,,,,1.0,1.0,,9.0
+Daman,17.4.8,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Neurological disease including strokes,3. Above 55 yrs.,,1.0,1.0,3.0,3.0,,,2.0,1.0,1.0,2.0,3.0,17.0
+Daman,17.4.8,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Neurological disease including strokes,4. Total,,1.0,1.0,3.0,8.0,3.0,,2.0,1.0,2.0,3.0,3.0,27.0
+Daman,17.4.9(a),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Abortion,1. 6-14 yrs,,,,,,,,,,,,,
+Daman,17.4.9(a),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Abortion,2. 15-49 yrs,,,,,,,,,,,,,
+Daman,17.4.9(a),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Abortion,3. Above 49 yrs.,,,,,,,,,,,,,
+Daman,17.4.9(a),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Abortion,4. Total,,,,,,,,,,,,,
+Daman,17.4.9(b),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Obstructed or prolonged labour,1. 6-14 yrs,,,,,,,,,,,,,
+Daman,17.4.9(b),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Obstructed or prolonged labour,2. 15-49 yrs,,,,,,,,,,,,,
+Daman,17.4.9(b),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Obstructed or prolonged labour,3. Above 49 yrs.,,,,,,,,,,,,,
+Daman,17.4.9(b),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Obstructed or prolonged labour,4. Total,,,,,,,,,,,,,
+Daman,17.4.9(c),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Severe hypertesnion or fits,1. 6-14 yrs,,,,,,,,,,,,,
+Daman,17.4.9(c),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Severe hypertesnion or fits,2. 15-49 yrs,,,,,,,,,,,,,
+Daman,17.4.9(c),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Severe hypertesnion or fits,3. Above 49 yrs.,,,,,,,,,,,,,
+Daman,17.4.9(c),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Severe hypertesnion or fits,4. Total,,,,,,,,,,,,,
+Daman,17.4.9(d),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Bleeding,1. 6-14 yrs,,,,,,,,,,,,,
+Daman,17.4.9(d),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Bleeding,2. 15-49 yrs,,,,,,,,,,,,,
+Daman,17.4.9(d),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Bleeding,3. Above 49 yrs.,,,,,,,,,,,,,
+Daman,17.4.9(d),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Bleeding,4. Total,,,,,,,,,,,,,
+Daman,17.4.9(e),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being High Fever,1. 6-14 yrs,,,,,,,,,,,,,
+Daman,17.4.9(e),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being High Fever,2. 15-49 yrs,,,,,,,,,,,,,
+Daman,17.4.9(e),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being High Fever,3. Above 49 yrs.,,,,,,,,,,,,,
+Daman,17.4.9(e),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being High Fever,4. Total,,,,,,,,,,,,,
+Daman,17.4.9(f),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being other causes (excluding abortion; obstructed or prolonged labour; severe hypertension or fits;,1. 6-14 yrs,,,,,,,,,,,,,
+Daman,17.4.9(f),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being other causes (excluding abortion; obstructed or prolonged labour; severe hypertension or fits;,2. 15-49 yrs,,,,,,,,,,1.0,,,1.0
+Daman,17.4.9(f),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being other causes (excluding abortion; obstructed or prolonged labour; severe hypertension or fits;,3. Above 49 yrs.,,,,,,,,,,,,,
+Daman,17.4.9(f),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being other causes (excluding abortion; obstructed or prolonged labour; severe hypertension or fits;,4. Total,,,,,,,,,,1.0,,,1.0
+Daman,17.4.10,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Trauma or Accidents or Burn cases,1. 6-14 yrs,,,,,,,,,,,,,
+Daman,17.4.10,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Trauma or Accidents or Burn cases,2. 15-55 yrs.,5.0,5.0,1.0,1.0,1.0,1.0,1.0,8.0,3.0,3.0,7.0,1.0,37.0
+Daman,17.4.10,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Trauma or Accidents or Burn cases,3. Above 55 yrs.,,,,,,,,,,,1.0,,1.0
+Daman,17.4.10,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Trauma or Accidents or Burn cases,4. Total,5.0,5.0,1.0,1.0,1.0,1.0,1.0,8.0,3.0,3.0,8.0,1.0,38.0
+Daman,17.4.11,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being suicide,1. 6-14 yrs,1.0,,,,,,,,,,,,1.0
+Daman,17.4.11,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being suicide,2. 15-55 yrs.,1.0,1.0,1.0,1.0,1.0,,1.0,1.0,1.0,,1.0,7.0,16.0
+Daman,17.4.11,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being suicide,3. Above 55 yrs.,,,,,,,,,,,,,
+Daman,17.4.11,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being suicide,4. Total,2.0,1.0,1.0,1.0,1.0,,1.0,1.0,1.0,,1.0,7.0,17.0
+Daman,17.4.12,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Animal bites and stings,1. 6-14 yrs,,,,,,,,,,,,,
+Daman,17.4.12,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Animal bites and stings,2. 15-55 yrs.,,,,,,,,,,,,,
+Daman,17.4.12,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Animal bites and stings,3. Above 55 yrs.,,,,,,,,,,,,,
+Daman,17.4.12,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Animal bites and stings,4. Total,,,,,,,,,,,,,
+Daman,17.4.13(a),Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Known Acute disease,1. 6-14 yrs,,,,,,,,,,,,,
+Daman,17.4.13(a),Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Known Acute disease,2. 15-55 yrs.,,,,1.0,,2.0,,,,,,,3.0
+Daman,17.4.13(a),Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Known Acute disease,3. Above 55 yrs.,,,,1.0,,,,2.0,,,,,3.0
+Daman,17.4.13(a),Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Known Acute disease,4. Total,,,,2.0,,2.0,,2.0,,,,,6.0
+Daman,17.4.13(b),Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Known Chronic disease,1. 6-14 yrs,,,,,,,,,1.0,,1.0,,2.0
+Daman,17.4.13(b),Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Known Chronic disease,2. 15-55 yrs.,2.0,2.0,3.0,2.0,8.0,4.0,5.0,1.0,3.0,2.0,10.0,3.0,45.0
+Daman,17.4.13(b),Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Known Chronic disease,3. Above 55 yrs.,1.0,,3.0,6.0,4.0,5.0,6.0,7.0,8.0,10.0,6.0,3.0,59.0
+Daman,17.4.13(b),Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Known Chronic disease,4. Total,3.0,2.0,6.0,8.0,12.0,9.0,11.0,8.0,12.0,12.0,17.0,6.0,106.0
+Daman,17.4.13(c),Number of cases of Adolescent or Adult deaths (age 6 years & above) where the cause was not known,1. 6-14 yrs,,1.0,,,,,,1.0,,1.0,,,3.0
+Daman,17.4.13(c),Number of cases of Adolescent or Adult deaths (age 6 years & above) where the cause was not known,2. 15-55 yrs.,4.0,3.0,4.0,3.0,4.0,4.0,4.0,2.0,2.0,1.0,2.0,4.0,37.0
+Daman,17.4.13(c),Number of cases of Adolescent or Adult deaths (age 6 years & above) where the cause was not known,3. Above 55 yrs.,7.0,10.0,10.0,14.0,9.0,10.0,17.0,4.0,3.0,9.0,7.0,9.0,109.0
+Daman,17.4.13(c),Number of cases of Adolescent or Adult deaths (age 6 years & above) where the cause was not known,4. Total,11.0,14.0,14.0,17.0,13.0,14.0,21.0,7.0,5.0,11.0,9.0,13.0,149.0
+Diu,1.1,Total number of pregnant women Registered for ANC,TOTAL,75.0,54.0,82.0,77.0,44.0,57.0,92.0,52.0,71.0,70.0,95.0,75.0,844.0
+Diu,1.1.1,Of which Number registered within first trimester (within 12 weeks),TOTAL,48.0,39.0,51.0,58.0,30.0,40.0,55.0,33.0,41.0,46.0,61.0,52.0,554.0
+Diu,1.2,Number of Pregnant women registered under JSY,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,7.0,12.0
+Diu,1.3,Number of pregnant women received 3 ANC check ups during pregnancy,TOTAL,50.0,58.0,72.0,44.0,74.0,58.0,46.0,63.0,59.0,47.0,56.0,66.0,693.0
+Diu,1.4.1,Number of pregnant women given TT1 during current pregnancy,TOTAL,66.0,48.0,66.0,67.0,38.0,56.0,76.0,60.0,73.0,59.0,84.0,70.0,763.0
+Diu,1.4.2,Number of pregnant women given TT2 or Booster during current pregnancy,TOTAL,64.0,61.0,48.0,63.0,57.0,41.0,52.0,67.0,59.0,60.0,64.0,88.0,724.0
+Diu,1.5,Total number of pregnant women given 100 IFA tablets,TOTAL,72.0,62.0,89.0,77.0,72.0,70.0,58.0,65.0,61.0,44.0,74.0,62.0,806.0
+Diu,1.6.1,Number of new cases of Hypertension (BP>140/90) detected in Pregnant women at the institution,TOTAL,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+Diu,1.6.2,Number of Eclampsia cases managed during delivery,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,1.7.1,Number of Pregnant women with anaemia i.e. Hb level<11 (tested cases),TOTAL,46.0,26.0,32.0,39.0,20.0,26.0,30.0,45.0,28.0,42.0,40.0,30.0,404.0
+Diu,1.7.2,Number of Pregnant women having severe anaemia (Hb<7) treated at institution,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,1.8,Number of pregnancy test kits used at SC level,TOTAL,,,,,,,,,,,,,
+Diu,2.1.1.a,Number of deliveries conducted at Home and attended by trained SBA(i.e. Doctor or Nurse or ANM),TOTAL,30.0,0.0,1.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,35.0
+Diu,2.1.1.b,Number of deliveries conducted at Home and attended by non trained SBA (i.e. trained TBA or Relatives etc.),TOTAL,10.0,21.0,20.0,4.0,13.0,8.0,27.0,18.0,15.0,17.0,13.0,14.0,180.0
+Diu,2.1.1.c,Total number of deliveries conducted at Home and attended by trained or non-trained SBA (i.e. sum of 2.1.1.a and 2.1.1.b),TOTAL,40.0,21.0,21.0,5.0,13.0,10.0,27.0,18.0,15.0,17.0,14.0,14.0,215.0
+Diu,2.1.2,Number of newborns visited within 24 hours of delivery for deliveries conducted at home,TOTAL,27.0,12.0,17.0,4.0,9.0,8.0,21.0,14.0,11.0,17.0,11.0,10.0,161.0
+Diu,2.1.3,Number of mothers paid JSY incentive for deliveries conducted at home,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,2.2,Deliveries conducted at Public Institutions (Including C-Sections),TOTAL,16.0,4.0,12.0,9.0,7.0,7.0,7.0,12.0,16.0,11.0,18.0,9.0,128.0
+Diu,2.2.1,"Out of 2.2, Number discharged under 48 hours of delivery",TOTAL,14.0,2.0,8.0,6.0,6.0,5.0,2.0,6.0,9.0,6.0,18.0,8.0,90.0
+Diu,2.2.2.a,Number of mothers paid JSY Incentive for deliveries conducted at Public Institutions,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,2.2.2.b,Number of ASHAs paid JSY Incentive for deliveries conducted at Public Institutions,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,2.2.2.c,Number of cases of deliveries conducted at Public Institutions where JSY incentive was paid to ANMs or AWWs [only for High Performing States (HPS)],TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,2.3,Deliveries conducted at Private Institutions (Including C-Sections),TOTAL,52.0,33.0,43.0,39.0,38.0,56.0,39.0,29.0,47.0,41.0,35.0,49.0,501.0
+Diu,2.3.1.a,Number of mothers paid JSY Incentive for deliveries conducted at accredited Private Institutions,TOTAL,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,2.3.1.b,Number of ASHAs paid JSY Incentive for deliveries conducted at accredited Private Institutions,TOTAL,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,2.3.1.c,Number of cases of deliveries conducted at accredited Private Institutions where JSY incentive was paid to ANMs or AWWs [only for High Performing States (HPS)],TOTAL,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,3.1.1,Number of Caesarean (C-Section) deliveries performed at PHCs (Primary Health Centre),TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,3.1.2,Number of Caesarean (C-Section) deliveries performed at CHCs (Community Health Centre),TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,3.1.3,Number of Caesarean (C-Section) deliveries performed at SDHs (Sub-divisional Hospital) or DHs (District Hospital),TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,3.1.4,Number of Caesarean (C-Section) deliveries performed at other State owned public institutions,TOTAL,,,,,,,,,,,,,
+Diu,3.1.5,"Total Number of Caesarean (C-Section) deliveries performed at Public facilities i.e. PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 3.1.1 to 3.1.4)",TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,3.2,No. of C-section deliveries performed at Private facilities,TOTAL,16.0,6.0,16.0,8.0,12.0,16.0,7.0,12.0,11.0,8.0,7.0,7.0,126.0
+Diu,4.1.1.a,Number of male live births,TOTAL,33.0,14.0,24.0,7.0,7.0,6.0,39.0,37.0,43.0,42.0,33.0,40.0,325.0
+Diu,4.1.1.b,Number of female live births,TOTAL,22.0,11.0,10.0,7.0,13.0,10.0,32.0,23.0,36.0,27.0,33.0,33.0,257.0
+Diu,4.1.1.c,Total number of male and female live births (4.1.1.a and 4.1.1.b),TOTAL,55.0,25.0,34.0,14.0,20.0,16.0,71.0,60.0,79.0,69.0,66.0,73.0,582.0
+Diu,4.1.2,Number of still births,TOTAL,1.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,1.0,1.0,6.0
+Diu,4.1.3,Number of Abortions (spontaneous or induced),TOTAL,4.0,2.0,0.0,2.0,1.0,2.0,2.0,4.0,4.0,1.0,1.0,2.0,25.0
+Diu,4.2.1,Number of Newborns weighed at birth,TOTAL,52.0,25.0,34.0,14.0,20.0,16.0,32.0,29.0,32.0,28.0,32.0,24.0,338.0
+Diu,4.2.2,Number of Newborns having weight less than 2.5 kg,TOTAL,7.0,2.0,5.0,3.0,2.0,3.0,7.0,5.0,3.0,2.0,1.0,4.0,44.0
+Diu,4.3,Number of Newborns breast fed within 1 hour of birth,TOTAL,36.0,16.0,32.0,14.0,15.0,15.0,33.0,26.0,32.0,28.0,30.0,24.0,301.0
+Diu,5.1.1,Number of cases of pregnant women with Obstetric Complications and attended at PHCs,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,5.1.2,Number of cases of pregnant women with Obstetric Complications and attended at CHCs,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,5.1.3,Number of cases of pregnant women with Obstetric Complications and attended at SDHs or DHs,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,5.1.4,Number of cases of pregnant women with Obstetric Complications and attended at other State owned public institutions,TOTAL,,,,,,,,,,,,,
+Diu,5.1.5,"Number of cases of pregnant women with Obstetric Complications and attended at Public facilities i.e. PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 5.1.1 to 5.1.4)",TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,5.2,Number of cases of pregnant women with Obstetric Complications and attended at Private facilities,TOTAL,,,,,,,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+Diu,5.3.1,Number of cases of complicated pregnancies treated with IV antibiotics,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,5.3.2,Number of cases of complicated pregnancies treated with IV Antihypertensive/Magsulph injection,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,5.3.3,Number of cases of complicated pregnancies treated with IV Oxytocis,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,5.3.4,Number of cases of complicated pregnancies treated with Blood Transfusion,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+Diu,6.1,Women getting post partum check-up within 48 hours after delivery,TOTAL,35.0,15.0,30.0,13.0,16.0,15.0,28.0,26.0,27.0,25.0,28.0,19.0,277.0
+Diu,6.2,Women getting a post partum check up between 48 hours and 14 days after delivery,TOTAL,20.0,9.0,4.0,1.0,4.0,2.0,6.0,4.0,4.0,3.0,3.0,4.0,64.0
+Diu,6.3,PNC maternal complications attended,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,7.1.1,Number of MTPs conducted at Public Institutions up to 12 weeks of pregnancy,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,7.1.2,Number of MTPs conducted at Public Institutions for more than 12 weeks of pregnancy,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,7.1.3,Total number of MTPs conducted at Public Institutions (sum of items 7.1.1 and 7.1.2),TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,7.2,Number of MTPs conducted at Private Facilities,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,8.1.a,Number of new cases of RTI/STI in males for which treatment was initiated,TOTAL,0.0,0.0,0.0,0.0,6.0,1.0,0.0,6.0,4.0,5.0,2.0,0.0,24.0
+Diu,8.1.b,Number of new cases of RTI/STI in females for which treatment was initiated,TOTAL,26.0,19.0,31.0,31.0,17.0,19.0,34.0,32.0,25.0,43.0,39.0,31.0,347.0
+Diu,8.1.c,Total number of new cases of RTI/STI in males and females for which treatment was initiated (sum of items 8.1.a and 8.1.b),TOTAL,26.0,19.0,31.0,31.0,23.0,20.0,34.0,38.0,29.0,48.0,41.0,31.0,371.0
+Diu,8.2,Number of suspected RTI/STI cases for whom wet mount test was conducted,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,9.1.1.a,Number of NSV (No Scalpel Vasectomy) or Conventional Vasectomy conducted at PHCs,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,9.1.1.b,Number of NSV or Conventional Vasectomy conducted at CHCs,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+Diu,9.1.1.c,Number of NSV or Conventional Vasectomy conducted at SDHs or DHs,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,9.1.1.d,Number of NSV or Conventional Vasectomy conducted at other State owned public institutions,TOTAL,,,,,,,,,,,,,
+Diu,9.1.1.e,"Total Number of NSV or Conventional Vasectomy conducted at Public facilities i.e. PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 9.1.1.a to 9.1.1.d)",TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+Diu,9.1.2,Number of NSV or Conventional Vasectomy conducted at Private facilities,TOTAL,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,9.2.1.a,Number of Laparoscopic sterilizations conducted at PHCs,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,9.2.1.b,Number of Laparoscopic sterilizations conducted at CHCs,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,9.2.1.c,Number of Laparoscopic sterilizations conducted at SDHs or DHs,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,9.2.1.d,Number of Laparoscopic sterilizations conducted at other State owned public institutions,TOTAL,,,,,,,,,,,,,
+Diu,9.2.1.e,"Total Number of Laparoscopic sterilizations conducted at Public facilities i.e. PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 9.2.1.a to 9.2.1.d)",TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,9.2.2,Number of Laparoscopic sterilizations conducted at Private facilities,TOTAL,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,9.3.1.a,Number of Mini-lap sterilizations conducted at PHCs,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,9.3.1.b,Number of Mini-lap sterilizations conducted at CHCs,TOTAL,12.0,9.0,5.0,6.0,2.0,3.0,10.0,4.0,15.0,14.0,13.0,5.0,98.0
+Diu,9.3.1.c,Number of Mini-lap sterilizations conducted at SDHs or DHs,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,9.3.1.d,Number of Mini-lap sterilizations conducted at other State owned public institutions,TOTAL,,,,,,,,,,,,,
+Diu,9.3.1.e,"Total Number of Mini-lap sterilizations conducted at Public facilities i.e. PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 9.3.1.a to 9.3.1.d)",TOTAL,12.0,9.0,5.0,6.0,2.0,3.0,10.0,4.0,15.0,14.0,13.0,5.0,98.0
+Diu,9.3.2,Number of Mini-lap sterilizations conducted at Private facilities,TOTAL,1.0,,1.0,1.0,,,1.0,0.0,0.0,1.0,1.0,0.0,6.0
+Diu,9.4.1.a,Number of Post-Partum sterilizations conducted at PHCs,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,9.4.1.b,Number of Post-Partum sterilizations conducted at CHCs,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,9.4.1.c,Number of Post-Partum sterilizations conducted at SDHs or DHs,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,9.4.1.d,Number of Post-Partum sterilizations conducted at other State owned public institutions,TOTAL,,,,,,,,,,,,,
+Diu,9.4.1.e,"Total Number of Post-Partum sterilizations conducted at Public facilities i.e. PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 9.4.1.a to 9.4.1.d)",TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,9.4.2,Number of Post-Partum sterilizations conducted at Private facilities,TOTAL,1.0,4.0,5.0,2.0,2.0,3.0,4.0,4.0,1.0,2.0,9.0,4.0,41.0
+Diu,9.5.1.a,Number of IUCD Insertions conducted at SCs,TOTAL,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,4.0
+Diu,9.5.1.b,Number of IUCD Insertions conducted at PHCs,TOTAL,3.0,1.0,0.0,3.0,2.0,1.0,2.0,5.0,2.0,5.0,0.0,1.0,25.0
+Diu,9.5.1.c,Number of IUCD Insertions conducted at CHCs,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0
+Diu,9.5.1.d,Number of IUCD Insertions conducted at SDHs or DHs,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,9.5.1.e,Number of IUCD Insertions conducted at other State owned public institutions,TOTAL,,,,,,,,,,,,,
+Diu,9.5.1.f,"Total Number of IUCD Insertions conducted at Public facilities i.e. SC, PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 9.5.1.a to 9.5.1.e)",TOTAL,3.0,1.0,0.0,3.0,2.0,2.0,3.0,6.0,3.0,6.0,0.0,2.0,31.0
+Diu,9.5.1A,"Out of above total, Post Partum (within 48 hours of delivery) IUCD insertions",TOTAL,,,,,,,,,,,,,
+Diu,9.5.2,Number of IUCD Insertions conducted at Private facilities,TOTAL,1.0,,,,,,0.0,0.0,1.0,1.0,0.0,0.0,3.0
+Diu,9.06,Number of IUCD removals,TOTAL,1.0,2.0,0.0,0.0,0.0,1.0,3.0,2.0,3.0,3.0,0.0,3.0,18.0
+Diu,9.07,Number of Oral Pills cycles distributed,TOTAL,113.0,116.0,116.0,115.0,113.0,113.0,112.0,112.0,113.0,121.0,113.0,113.0,1370.0
+Diu,9.08,Number of Condom pieces distributed,TOTAL,2800.0,2320.0,1195.0,2326.0,2230.0,1150.0,2280.0,2260.0,2260.0,2180.0,2260.0,2250.0,25511.0
+Diu,9.09,Number of Centchroman (weekly) pills given,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,9.10,Number of Emergency Contraceptive Pills distributed,TOTAL,15.0,13.0,18.0,12.0,11.0,0.0,0.0,0.0,12.0,13.0,13.0,12.0,119.0
+Diu,9.11.1.a,Number of cases of complications following male sterilization,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,9.11.1.b,Number of cases of complications following female sterilization,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,9.11.2.a,Number of failures following male sterilization,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,9.11.2.b,Number of failures following female sterilization,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,9.11.3.a,Number of deaths following male sterilization,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,9.11.3.b,Number of deaths following female sterilization,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,9.12,Number of Institutions having NSV trained doctors,TOTAL,,,,,,,,,,,,,-1.0
+Diu,10.1.01,Number of Infants (0 to 11 months old)received BCG immunisation,TOTAL,102.0,55.0,69.0,48.0,51.0,69.0,74.0,64.0,70.0,57.0,80.0,71.0,810.0
+Diu,10.1.02,Number of Infants (0 to 11 months old) received DPT1 immunisation,TOTAL,69.0,81.0,104.0,56.0,42.0,46.0,88.0,64.0,65.0,65.0,67.0,53.0,800.0
+Diu,10.1.03,Number of Infants (0 to 11 months old) received DPT2 immunisation,TOTAL,80.0,58.0,88.0,104.0,52.0,45.0,46.0,77.0,67.0,72.0,68.0,69.0,826.0
+Diu,10.1.04,Number of Infants (0 to 11 months old) received DPT3 immunisation,TOTAL,59.0,62.0,75.0,79.0,71.0,70.0,57.0,38.0,81.0,69.0,65.0,48.0,774.0
+Diu,10.1.04A,Number of Infants (0 to 11 months old) received Pentavalent1 immunisation,TOTAL,,,,,,,,,,,,,
+Diu,10.1.04B,Number of Infants (0 to 11 months old) received Pentavalent2 immunisation,TOTAL,,,,,,,,,,,,,
+Diu,10.1.04C,Number of Infants (0 to 11 months old) received Pentavalent3 immunisation,TOTAL,,,,,,,,,,,,,
+Diu,10.1.05,Number of Infants (0 to 11 months old) received OPV 0 (Birth Dose),TOTAL,102.0,57.0,67.0,43.0,48.0,64.0,75.0,61.0,82.0,58.0,76.0,70.0,803.0
+Diu,10.1.06,Number of Infants (0 to 11 months old) received OPV1 (First Dose),TOTAL,69.0,81.0,104.0,56.0,42.0,46.0,88.0,64.0,65.0,65.0,67.0,53.0,800.0
+Diu,10.1.07,Number of Infants (0 to 11 months old) received OPV2 (Second Dose),TOTAL,80.0,58.0,88.0,104.0,52.0,45.0,46.0,77.0,67.0,72.0,68.0,69.0,826.0
+Diu,10.1.08,Number of Infants (0 to 11 months old) received OPV3 (Third Dose),TOTAL,59.0,62.0,75.0,79.0,71.0,70.0,57.0,38.0,81.0,69.0,65.0,48.0,774.0
+Diu,10.1.09A,Number of Infants (upto 48 hrs of age) received Hepatitis-B0 immunisation,TOTAL,103.0,57.0,67.0,46.0,49.0,64.0,75.0,61.0,82.0,58.0,76.0,70.0,808.0
+Diu,10.1.09,Number of Infants (0 to 11 months old) received Hepatitis-B1 immunisation,TOTAL,69.0,81.0,104.0,56.0,42.0,46.0,88.0,64.0,65.0,65.0,67.0,53.0,800.0
+Diu,10.1.10,Number of Infants (0 to 11 months old) received Hepatitis-B2 immunisation,TOTAL,80.0,58.0,88.0,104.0,52.0,45.0,46.0,77.0,67.0,72.0,68.0,69.0,826.0
+Diu,10.1.11,Number of Infants (0 to 11 months old) received Hepatitis-B3 immunisation,TOTAL,59.0,62.0,75.0,79.0,71.0,70.0,57.0,38.0,81.0,69.0,65.0,48.0,774.0
+Diu,10.1.12,Number of Infants (0 to 11 months old) received Measles immunisation (First Dose),TOTAL,62.0,59.0,65.0,67.0,58.0,62.0,70.0,55.0,71.0,80.0,52.0,41.0,742.0
+Diu,10.1.12B,Number of Infants (more than 16 months old) received Measles immunisation (Second Dose),TOTAL,42.0,53.0,57.0,98.0,53.0,76.0,50.0,51.0,59.0,69.0,56.0,52.0,716.0
+Diu,10.1A,No. of Children aged 9 to 12 months who received JE 1st dose,TOTAL,,,,,,,,,,,,,
+Diu,10.1.13.a,Total number of male children (9 to 11 months old) fully immunised (BCG+DPT123/Pentavalent123+OPV123+Measles) during the month,TOTAL,31.0,31.0,32.0,37.0,28.0,33.0,39.0,32.0,37.0,51.0,28.0,22.0,401.0
+Diu,10.1.13.b,Total number of female children (9 to 11 months old) fully immunised (BCG+DPT123/Pentavalent123+OPV123+Measles) during the month,TOTAL,31.0,28.0,25.0,30.0,30.0,29.0,31.0,23.0,34.0,29.0,24.0,19.0,333.0
+Diu,10.1.13.c,Total number of children (9 to 11 months old) fully immunised (BCG+DPT123/Pentavalent123+OPV123+Measles) during the month (sum of items 10.1.13.a and 10.1.13.b),TOTAL,62.0,59.0,57.0,67.0,58.0,62.0,70.0,55.0,71.0,80.0,52.0,41.0,734.0
+Diu,10.2.1,Number of Infants (more than 16 months old) received DPT Booster dose,TOTAL,42.0,50.0,57.0,98.0,53.0,65.0,50.0,51.0,59.0,74.0,56.0,52.0,707.0
+Diu,10.2.2,Number of Infants (more than 16 months old) received OPV Booster dose,TOTAL,42.0,50.0,57.0,98.0,53.0,65.0,50.0,51.0,59.0,74.0,56.0,52.0,707.0
+Diu,10.2.3,"Number of Infants (more than 16 months old) received Measles, Mumps, Rubella (MMR) Vaccination",TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,10.3.1.a,Total number of male children (12 to 23 months old) fully immunised (BCG+DPT123/Pentavalent123+OPV123+Measles) during the month,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,10.3.1.b,Total number of female children (12 to 23 months old) fully immunised (BCG+DPT123/Pentavalent123+OPV123+Measles) during the month,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,10.3.1.c,Total number of children (12 to 23 months old) fully immunised (BCG+DPT123+OPV123/Pentavalent123+Measles) during the month (sum of items 10.3.1.a and 10.3.1.b),TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,10.3.2,Number of children (more than 5 years old) given DT5,TOTAL,0.0,0.0,0.0,877.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,877.0
+Diu,10.3.3,Number of children (more than 10 years old) given TT10,TOTAL,0.0,0.0,0.0,1065.0,921.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1986.0
+Diu,10.3.4,Number of children (more than 16 years old) given TT16,TOTAL,0.0,0.0,0.0,1212.0,1079.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2291.0
+Diu,10.3.5.a,Number of cases of Abscess reported following immunisation [Adverse Event Following Immunisation (AEFI)],TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,10.3.5.b,Number of cases of Death reported following immunisation [Adverse Event Following Immunisation (AEFI)],TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,10.3.5.c,Number of cases of other complications reported following immunisation [Adverse Event Following Immunisation (AEFI)],TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,10.4.1,Number of Immunisation sessions planned to be held during the month,TOTAL,29.0,29.0,29.0,29.0,29.0,29.0,29.0,28.0,29.0,29.0,28.0,28.0,345.0
+Diu,10.4.2,Number of Immunisation sessions held during the month,TOTAL,29.0,29.0,29.0,29.0,29.0,29.0,29.0,28.0,29.0,29.0,28.0,28.0,345.0
+Diu,10.4.3,Number of Immunisation sessions held during the month where ASHAs were present,TOTAL,19.0,21.0,24.0,23.0,23.0,23.0,22.0,25.0,25.0,25.0,24.0,24.0,278.0
+Diu,10.5.1,Number of children (more than 16 months old) received Japanese Encephalitis (JE) vaccination,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,11.1.1,Number of children (9 months to 5 years old) administered 1st dose of Vitamin A (Dose-1),TOTAL,62.0,59.0,65.0,67.0,58.0,62.0,70.0,55.0,71.0,89.0,52.0,41.0,751.0
+Diu,11.1.2,Number of children (9 months to 5 years old) were administered 5th dose of Vitamin A (Dose-5),TOTAL,36.0,42.0,19.0,70.0,54.0,24.0,32.0,9.0,16.0,87.0,24.0,1.0,414.0
+Diu,11.1.3,Number of children (9 months to 5 years old) administered 9th dose of Vitamin A (Dose-9),TOTAL,37.0,31.0,36.0,72.0,42.0,17.0,13.0,14.0,17.0,74.0,11.0,1.0,365.0
+Diu,12.1,Number of cases of Diptheria reported in children below 5 years of age,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,12.2,Number of cases of Pertusis reported in children below 5 years of age,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,12.3,Number of cases of Tetanus neonatarum reported in children below 5 years of age,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,12.4,Number of cases of Tetanus other than neonatarum reported in children below 5 years of age,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,12.5,Number of cases of Polio reported in children below 5 years of age,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,12.6,Number of cases of Measles reported in children below 5 years of age,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,12.7,Number of cases of Diarrhoea and Dehydration reported in children below 5 years of age,TOTAL,160.0,151.0,181.0,154.0,107.0,116.0,130.0,100.0,84.0,101.0,111.0,116.0,1511.0
+Diu,12.8,Number of cases of Malaria reported in children below 5 years of age,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,12.9,Number of children below 5 years of age admitted with Respiratory Infections,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,13.1,Number of Patients operated for cataract,TOTAL,0.0,0.0,0.0,0.0,30.0,0.0,0.0,22.0,0.0,0.0,0.0,0.0,52.0
+Diu,13.2,Number of Intraocular Lens(IOL) implantations,TOTAL,0.0,0.0,0.0,0.0,30.0,0.0,0.0,22.0,0.0,0.0,0.0,0.0,52.0
+Diu,13.3,Number of School children detected with Refractive errors,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,13.4,Number of children provided free glasses,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,13.5,Number of eyes collected through eye donation,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,13.6,Number of eyes utilised for corneal transplant,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,14.01,Number of CHC or SDH or DH functioning as First Referral units (FRUs),TOTAL,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,-1.0
+Diu,14.02,Number of PHCs functioning 24X7 with atleast 3 Staff Nurses,TOTAL,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0
+Diu,14.03,Number of Anganwadi centres reported to have conducted VHNDs,TOTAL,36.0,37.0,37.0,37.0,37.0,37.0,37.0,36.0,36.0,37.0,36.0,36.0,-1.0
+Diu,14.04,Number of facilities having a Rogi Kalyan Samiti (RKS),TOTAL,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,2.0,3.0,-1.0
+Diu,14.05,Number of RKS meetings held during the month,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,1.0,4.0
+Diu,14.06,Number of facilities having Ambulance services (Assured Referral Services),TOTAL,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,-1.0
+Diu,14.07,Total Number of times the Ambulance was used for transporting patients during the month,TOTAL,33.0,48.0,53.0,46.0,51.0,43.0,59.0,39.0,40.0,62.0,49.0,49.0,572.0
+Diu,14.08,Number of Institutions having Operational Sick New Born and Child Care Units (SNCU),TOTAL,,,,,,,2.0,2.0,,,,,-1.0
+Diu,14.09,Number of functional Laproscopes in CHC/SDH/DH,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0
+Diu,14.10.1.a,Number of male patients admitted (Inpatients) during the month,1. Children,17.0,11.0,12.0,12.0,16.0,11.0,23.0,15.0,14.0,8.0,16.0,13.0,168.0
+Diu,14.10.1.a,Number of male patients admitted (Inpatients) during the month,2. Adults,16.0,25.0,16.0,34.0,24.0,23.0,55.0,35.0,25.0,26.0,30.0,44.0,353.0
+Diu,14.10.1.b,Number of female patients (Inpatients) admitted during the month,1. Children,13.0,14.0,7.0,16.0,14.0,19.0,27.0,20.0,8.0,16.0,33.0,25.0,212.0
+Diu,14.10.1.b,Number of female patients (Inpatients) admitted during the month,2. Adults,49.0,49.0,50.0,58.0,51.0,59.0,60.0,49.0,64.0,56.0,71.0,63.0,679.0
+Diu,14.10.1.c,Total number of patients admitted (Inpatients) during the month (sum of items 14.10.1.a and 14.10.1.b),1. Children,30.0,25.0,19.0,28.0,30.0,30.0,50.0,35.0,22.0,24.0,49.0,38.0,380.0
+Diu,14.10.1.c,Total number of patients admitted (Inpatients) during the month (sum of items 14.10.1.a and 14.10.1.b),2. Adults,65.0,74.0,66.0,92.0,75.0,82.0,115.0,84.0,89.0,82.0,101.0,107.0,1032.0
+Diu,14.10.2.a,Number of death cases of Inpatient males,TOTAL,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,2.0,2.0,2.0,9.0
+Diu,14.10.2.b,Number of death cases of Inpatient females,TOTAL,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,3.0,0.0,0.0,7.0
+Diu,14.10.2.c,Number of cases of death of Inpatients (sum of items 14.10.2.a and 14.10.2.b),TOTAL,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,5.0,2.0,2.0,16.0
+Diu,14.11,In-Patient Head Count at midnight,TOTAL,204.0,211.0,198.0,190.0,190.0,246.0,221.0,230.0,201.0,235.0,304.0,307.0,2737.0
+Diu,14.12.1,OPD attendance (All),TOTAL,11612.0,13627.0,11460.0,12699.0,11423.0,14074.0,15268.0,13050.0,13538.0,13505.0,15891.0,15860.0,162007.0
+Diu,14.13.1,Number of major operations carried out using general or spinal anaesthesia,TOTAL,6.0,13.0,10.0,12.0,6.0,9.0,27.0,9.0,5.0,9.0,11.0,12.0,129.0
+Diu,14.13.1A,"Out of 14.13.1,Gynecology- Hysterectomy surgeries",TOTAL,,,,,,,,,,,,,
+Diu,14.13.2,Number of minor operations carried out without anaesthesia or using local anaesthesia,TOTAL,40.0,49.0,45.0,50.0,38.0,41.0,21.0,37.0,49.0,44.0,41.0,45.0,500.0
+Diu,14.14.a,Number of patients given AYUSH treatment,TOTAL,823.0,933.0,768.0,798.0,627.0,725.0,789.0,829.0,871.0,1206.0,1333.0,1093.0,10795.0
+Diu,14.14.b,Number of patients on whom Dental Procedure was conducted,TOTAL,550.0,699.0,1145.0,528.0,257.0,292.0,309.0,490.0,717.0,618.0,721.0,753.0,7079.0
+Diu,14.14.c,Number of Adolescents counselled,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,15.1.1.a,Number of Haemoglobin (Hb) tests conducted,TOTAL,424.0,477.0,384.0,517.0,543.0,499.0,675.0,873.0,613.0,708.0,675.0,1019.0,7407.0
+Diu,15.1.1.b,"Out of the total number of Hb tests conducted, number of cases having Hb less than 7gm/dl",TOTAL,9.0,6.0,14.0,3.0,3.0,10.0,6.0,5.0,6.0,4.0,3.0,8.0,77.0
+Diu,15.1.2.a,Number of HIV tests conducted on males,1. Number tested,19.0,20.0,11.0,8.0,20.0,18.0,15.0,11.0,31.0,24.0,24.0,18.0,219.0
+Diu,15.1.2.a,Number of HIV tests conducted on males,2. Number Positive,1.0,0.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0
+Diu,15.1.2.b,Number of HIV tests conducted on Female-Non ANC (i.e. non pregnant females),1. Number tested,29.0,27.0,11.0,20.0,17.0,16.0,9.0,14.0,69.0,49.0,37.0,48.0,346.0
+Diu,15.1.2.b,Number of HIV tests conducted on Female-Non ANC (i.e. non pregnant females),2. Number Positive,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
+Diu,15.1.2.c,Number of HIV tests conducted on Female with ANC (i.e. pregnant females),1. Number tested,28.0,28.0,38.0,95.0,30.0,43.0,42.0,26.0,41.0,101.0,63.0,71.0,606.0
+Diu,15.1.2.c,Number of HIV tests conducted on Female with ANC (i.e. pregnant females),2. Number Positive,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,15.1.2.d,Total number of HIV tests conducted (sum of items 15.1.2.a to 15.1.2.c),1. Number tested,76.0,75.0,60.0,123.0,67.0,77.0,66.0,51.0,141.0,174.0,124.0,137.0,1171.0
+Diu,15.1.2.d,Total number of HIV tests conducted (sum of items 15.1.2.a to 15.1.2.c),2. Number Positive,1.0,0.0,3.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,7.0
+Diu,15.2,Number of Widal tests conducted,Number tested,50.0,64.0,31.0,59.0,99.0,121.0,121.0,89.0,70.0,43.0,74.0,68.0,889.0
+Diu,15.3.a,Number of VDRL tests conducted on males,Number tested,0.0,2.0,0.0,0.0,1.0,4.0,3.0,5.0,1.0,2.0,0.0,0.0,18.0
+Diu,15.3.b,Number of VDRL tests conducted on Female-Non ANC (i.e. non pregnant females),Number tested,5.0,15.0,3.0,4.0,4.0,8.0,7.0,6.0,8.0,12.0,7.0,12.0,91.0
+Diu,15.3.c,Number of VDRL tests conducted on Female with ANC (i.e. pregnant females),Number tested,40.0,37.0,47.0,71.0,28.0,26.0,37.0,38.0,30.0,92.0,75.0,115.0,636.0
+Diu,15.3.d,Total number of VDRL tests conducted (sum of items 15.3.a to 15.3.c),Number tested,45.0,54.0,50.0,75.0,33.0,38.0,47.0,49.0,39.0,106.0,82.0,127.0,745.0
+Diu,15.4.1,Number of blood smears examined for Malaria,TOTAL,587.0,815.0,859.0,929.0,956.0,1759.0,1250.0,742.0,764.0,696.0,802.0,840.0,10999.0
+Diu,15.4.2,"Out of blood smears examined for malaria, number of blood smears tested positive for Plasmodium Vivax",TOTAL,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
+Diu,15.4.3,"Out of blood smears examined for malaria, number of blood smears tested positive for Plasmodium Falciparum",TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.1.1,Stock position of DPT vaccines,1. Balance From Previous Month,1550.0,4250.0,2920.0,2540.0,1280.0,940.0,4050.0,3630.0,3290.0,2910.0,2540.0,2210.0,32110.0
+Diu,16.1.1,Stock position of DPT vaccines,2. Stocks Received,3000.0,0.0,0.0,0.0,0.0,4000.0,0.0,0.0,0.0,0.0,0.0,0.0,7000.0
+Diu,16.1.1,Stock position of DPT vaccines,3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,570.0,0.0,0.0,0.0,0.0,0.0,0.0,570.0
+Diu,16.1.1,Stock position of DPT vaccines,4. Stock Distributed,300.0,1330.0,380.0,1260.0,340.0,320.0,420.0,340.0,380.0,370.0,330.0,310.0,6080.0
+Diu,16.1.1,Stock position of DPT vaccines,5. Total Stock,4250.0,2920.0,2540.0,1280.0,940.0,4050.0,3630.0,3290.0,2910.0,2540.0,2210.0,1900.0,32460.0
+Diu,16.1.1A,Stock Position of Pentavalent,1. Balance From Previous Month,,,,,,,,,,,,,
+Diu,16.1.1A,Stock Position of Pentavalent,2. Stocks Received,,,,,,,,,,,,,
+Diu,16.1.1A,Stock Position of Pentavalent,3. Unusable Stock,,,,,,,,,,,,,
+Diu,16.1.1A,Stock Position of Pentavalent,4. Stock Distributed,,,,,,,,,,,,,
+Diu,16.1.1A,Stock Position of Pentavalent,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.1.2,Stock position of OPV vaccines,1. Balance From Previous Month,2360.0,7320.0,6980.0,6580.0,6160.0,5800.0,5380.0,4980.0,4560.0,4100.0,4660.0,6400.0,65280.0
+Diu,16.1.2,Stock position of OPV vaccines,2. Stocks Received,12000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7000.0,8500.0,0.0,27500.0
+Diu,16.1.2,Stock position of OPV vaccines,3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.1.2,Stock position of OPV vaccines,4. Stock Distributed,7040.0,340.0,400.0,420.0,360.0,420.0,400.0,420.0,460.0,6440.0,6760.0,380.0,23840.0
+Diu,16.1.2,Stock position of OPV vaccines,5. Total Stock,7320.0,6980.0,6580.0,6160.0,5800.0,5380.0,4980.0,4560.0,4100.0,4660.0,6400.0,6020.0,68940.0
+Diu,16.1.3,Stock position of TT vaccines,1. Balance From Previous Month,696.0,7546.0,7376.0,7196.0,4756.0,2466.0,2326.0,2126.0,1956.0,1786.0,1606.0,1416.0,41252.0
+Diu,16.1.3,Stock position of TT vaccines,2. Stocks Received,7000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7000.0
+Diu,16.1.3,Stock position of TT vaccines,3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.1.3,Stock position of TT vaccines,4. Stock Distributed,150.0,170.0,180.0,2440.0,2290.0,140.0,200.0,170.0,170.0,180.0,190.0,230.0,6510.0
+Diu,16.1.3,Stock position of TT vaccines,5. Total Stock,7546.0,7376.0,7196.0,4756.0,2466.0,2326.0,2126.0,1956.0,1786.0,1606.0,1416.0,1186.0,41742.0
+Diu,16.1.4,Stock position of DT vaccines,1. Balance From Previous Month,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.1.4,Stock position of DT vaccines,2. Stocks Received,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.1.4,Stock position of DT vaccines,3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.1.4,Stock position of DT vaccines,4. Stock Distributed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.1.4,Stock position of DT vaccines,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.1.5,Stock position of BCG vaccines,1. Balance From Previous Month,910.0,2740.0,2660.0,2530.0,2460.0,2360.0,2230.0,2080.0,1960.0,1850.0,1230.0,1100.0,24110.0
+Diu,16.1.5,Stock position of BCG vaccines,2. Stocks Received,2000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2000.0
+Diu,16.1.5,Stock position of BCG vaccines,3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.1.5,Stock position of BCG vaccines,4. Stock Distributed,170.0,80.0,130.0,70.0,100.0,130.0,150.0,120.0,110.0,620.0,130.0,140.0,1950.0
+Diu,16.1.5,Stock position of BCG vaccines,5. Total Stock,2740.0,2660.0,2530.0,2460.0,2360.0,2230.0,2080.0,1960.0,1850.0,1230.0,1100.0,960.0,24160.0
+Diu,16.1.6,Stock position of Measles vaccines,1. Balance From Previous Month,720.0,4570.0,4410.0,4260.0,4060.0,3895.0,3730.0,3360.0,3360.0,3235.0,1010.0,830.0,37440.0
+Diu,16.1.6,Stock position of Measles vaccines,2. Stocks Received,4000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4000.0
+Diu,16.1.6,Stock position of Measles vaccines,3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.1.6,Stock position of Measles vaccines,4. Stock Distributed,150.0,160.0,150.0,200.0,165.0,165.0,370.0,0.0,125.0,2225.0,180.0,145.0,4035.0
+Diu,16.1.6,Stock position of Measles vaccines,5. Total Stock,4570.0,4410.0,4260.0,4060.0,3895.0,3730.0,3360.0,3360.0,3235.0,1010.0,830.0,685.0,37405.0
+Diu,16.1.7,Stock position of JE vaccines,1. Balance From Previous Month,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.1.7,Stock position of JE vaccines,2. Stocks Received,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.1.7,Stock position of JE vaccines,3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.1.7,Stock position of JE vaccines,4. Stock Distributed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.1.7,Stock position of JE vaccines,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.1.8,Stock position of Hepatitis B vaccines,1. Balance From Previous Month,1180.0,3340.0,3040.0,2720.0,2420.0,2170.0,1920.0,1610.0,1350.0,1010.0,730.0,1420.0,22910.0
+Diu,16.1.8,Stock position of Hepatitis B vaccines,2. Stocks Received,2500.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1000.0,0.0,3500.0
+Diu,16.1.8,Stock position of Hepatitis B vaccines,3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.1.8,Stock position of Hepatitis B vaccines,4. Stock Distributed,340.0,300.0,320.0,300.0,250.0,250.0,310.0,260.0,340.0,280.0,310.0,280.0,3540.0
+Diu,16.1.8,Stock position of Hepatitis B vaccines,5. Total Stock,3340.0,3040.0,2720.0,2420.0,2170.0,1920.0,1610.0,1350.0,1010.0,730.0,1420.0,1140.0,22870.0
+Diu,16.2.1,Stock Position of IU 380 A (to be used for Family Planning),1. Balance From Previous Month,532.0,526.0,524.0,524.0,519.0,515.0,511.0,508.0,504.0,499.0,494.0,493.0,6149.0
+Diu,16.2.1,Stock Position of IU 380 A (to be used for Family Planning),2. Stocks Received,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.2.1,Stock Position of IU 380 A (to be used for Family Planning),3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,423.0,423.0
+Diu,16.2.1,Stock Position of IU 380 A (to be used for Family Planning),4. Stock Distributed,6.0,2.0,0.0,5.0,4.0,4.0,3.0,4.0,5.0,5.0,1.0,1.0,40.0
+Diu,16.2.1,Stock Position of IU 380 A (to be used for Family Planning),5. Total Stock,526.0,524.0,524.0,519.0,515.0,511.0,508.0,504.0,499.0,494.0,493.0,69.0,5686.0
+Diu,16.2.2,Stock Position of Condoms (to be used for Family Planning),1. Balance From Previous Month,0.0,33200.0,30340.0,27480.0,24620.0,18800.0,15480.0,12430.0,27430.0,15080.0,12280.0,21490.0,238630.0
+Diu,16.2.2,Stock Position of Condoms (to be used for Family Planning),2. Stocks Received,72000.0,0.0,0.0,0.0,0.0,0.0,0.0,18000.0,0.0,0.0,12000.0,0.0,102000.0
+Diu,16.2.2,Stock Position of Condoms (to be used for Family Planning),3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.2.2,Stock Position of Condoms (to be used for Family Planning),4. Stock Distributed,38800.0,2860.0,2860.0,2860.0,5820.0,3320.0,3050.0,3000.0,12350.0,2800.0,2790.0,2790.0,83300.0
+Diu,16.2.2,Stock Position of Condoms (to be used for Family Planning),5. Total Stock,33200.0,30340.0,27480.0,24620.0,18800.0,15480.0,12430.0,27430.0,15080.0,12280.0,21490.0,18700.0,257330.0
+Diu,16.2.3,Stock Position of Oral Contraceptive (to be used for Family Planning),1. Balance From Previous Month,381.0,268.0,152.0,536.0,421.0,308.0,195.0,82.0,1270.0,1149.0,1036.0,923.0,6721.0
+Diu,16.2.3,Stock Position of Oral Contraceptive (to be used for Family Planning),2. Stocks Received,0.0,0.0,500.0,0.0,0.0,0.0,0.0,1300.0,0.0,0.0,0.0,0.0,1800.0
+Diu,16.2.3,Stock Position of Oral Contraceptive (to be used for Family Planning),3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.2.3,Stock Position of Oral Contraceptive (to be used for Family Planning),4. Stock Distributed,113.0,116.0,116.0,115.0,113.0,113.0,113.0,112.0,121.0,113.0,113.0,113.0,1371.0
+Diu,16.2.3,Stock Position of Oral Contraceptive (to be used for Family Planning),5. Total Stock,268.0,152.0,536.0,421.0,308.0,195.0,82.0,1270.0,1149.0,1036.0,923.0,810.0,7150.0
+Diu,16.2.4,Stock Position of Emergency Contraceptive (to be used for Family Planning),1. Balance From Previous Month,975.0,951.0,938.0,922.0,910.0,900.0,0.0,0.0,1000.0,931.0,917.0,904.0,9348.0
+Diu,16.2.4,Stock Position of Emergency Contraceptive (to be used for Family Planning),2. Stocks Received,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0
+Diu,16.2.4,Stock Position of Emergency Contraceptive (to be used for Family Planning),3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.2.4,Stock Position of Emergency Contraceptive (to be used for Family Planning),4. Stock Distributed,24.0,13.0,16.0,12.0,10.0,900.0,0.0,0.0,69.0,14.0,13.0,11.0,1082.0
+Diu,16.2.4,Stock Position of Emergency Contraceptive (to be used for Family Planning),5. Total Stock,951.0,938.0,922.0,910.0,900.0,0.0,0.0,1000.0,931.0,917.0,904.0,893.0,9266.0
+Diu,16.2.5,Stock Position of Tubal Rings (to be used for Family Planning),1. Balance From Previous Month,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.2.5,Stock Position of Tubal Rings (to be used for Family Planning),2. Stocks Received,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.2.5,Stock Position of Tubal Rings (to be used for Family Planning),3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.2.5,Stock Position of Tubal Rings (to be used for Family Planning),4. Stock Distributed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.2.5,Stock Position of Tubal Rings (to be used for Family Planning),5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.3.01,Stock Position of Oxytocin Injection,1. Balance From Previous Month,70.0,100.0,70.0,970.0,1150.0,1090.0,1085.0,625.0,625.0,625.0,565.0,565.0,7540.0
+Diu,16.3.01,Stock Position of Oxytocin Injection,2. Stocks Received,40.0,0.0,960.0,180.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1180.0
+Diu,16.3.01,Stock Position of Oxytocin Injection,3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.3.01,Stock Position of Oxytocin Injection,4. Stock Distributed,10.0,30.0,60.0,0.0,60.0,5.0,460.0,0.0,0.0,60.0,0.0,100.0,785.0
+Diu,16.3.01,Stock Position of Oxytocin Injection,5. Total Stock,100.0,70.0,970.0,1150.0,1090.0,1085.0,625.0,625.0,625.0,565.0,565.0,465.0,7935.0
+Diu,16.3.02,Stock Position of Gloves,1. Balance From Previous Month,529.0,674.0,388.0,119.0,24.0,1267.0,975.0,933.0,792.0,792.0,1189.0,1067.0,8749.0
+Diu,16.3.02,Stock Position of Gloves,2. Stocks Received,400.0,0.0,0.0,30.0,1300.0,0.0,0.0,0.0,0.0,650.0,0.0,0.0,2380.0
+Diu,16.3.02,Stock Position of Gloves,3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.3.02,Stock Position of Gloves,4. Stock Distributed,255.0,286.0,269.0,125.0,57.0,292.0,42.0,141.0,408.0,253.0,122.0,272.0,2522.0
+Diu,16.3.02,Stock Position of Gloves,5. Total Stock,674.0,388.0,119.0,24.0,1267.0,975.0,933.0,792.0,384.0,1189.0,1067.0,795.0,8607.0
+Diu,16.3.03,Stock Position of MVA Syringes,1. Balance From Previous Month,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.3.03,Stock Position of MVA Syringes,2. Stocks Received,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.3.03,Stock Position of MVA Syringes,3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.3.03,Stock Position of MVA Syringes,4. Stock Distributed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.3.03,Stock Position of MVA Syringes,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.3.04,Stock Position of Fluconazole Tablets,1. Balance From Previous Month,1657.0,1246.0,779.0,474.0,1397.0,1123.0,415.0,1051.0,826.0,826.0,2596.0,2226.0,14616.0
+Diu,16.3.04,Stock Position of Fluconazole Tablets,2. Stocks Received,0.0,0.0,0.0,1300.0,300.0,0.0,1000.0,0.0,2000.0,2000.0,0.0,0.0,6600.0
+Diu,16.3.04,Stock Position of Fluconazole Tablets,3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.3.04,Stock Position of Fluconazole Tablets,4. Stock Distributed,411.0,467.0,305.0,377.0,574.0,708.0,364.0,225.0,187.0,230.0,370.0,619.0,4837.0
+Diu,16.3.04,Stock Position of Fluconazole Tablets,5. Total Stock,1246.0,779.0,474.0,1397.0,1123.0,415.0,1051.0,826.0,2639.0,2596.0,2226.0,1607.0,16379.0
+Diu,16.3.05,Stock Position of Blood Transfusion Sets,1. Balance From Previous Month,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.3.05,Stock Position of Blood Transfusion Sets,2. Stocks Received,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.3.05,Stock Position of Blood Transfusion Sets,3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.3.05,Stock Position of Blood Transfusion Sets,4. Stock Distributed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.3.05,Stock Position of Blood Transfusion Sets,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.3.06,Stock Position of Gluteraldehyde solution of 2% concentration,1. Balance From Previous Month,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.3.06,Stock Position of Gluteraldehyde solution of 2% concentration,2. Stocks Received,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.3.06,Stock Position of Gluteraldehyde solution of 2% concentration,3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.3.06,Stock Position of Gluteraldehyde solution of 2% concentration,4. Stock Distributed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.3.06,Stock Position of Gluteraldehyde solution of 2% concentration,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.3.07,Stock Position of IFA Tablets,1. Balance From Previous Month,22850.0,94870.0,121430.0,97450.0,69180.0,47820.0,31600.0,17620.0,98460.0,64310.0,41930.0,29830.0,737350.0
+Diu,16.3.07,Stock Position of IFA Tablets,2. Stocks Received,83500.0,42150.0,0.0,0.0,0.0,0.0,0.0,100000.0,0.0,0.0,0.0,89600.0,315250.0
+Diu,16.3.07,Stock Position of IFA Tablets,3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.3.07,Stock Position of IFA Tablets,4. Stock Distributed,11480.0,15590.0,23980.0,28270.0,21360.0,16220.0,13980.0,19160.0,34150.0,22380.0,12100.0,29110.0,247780.0
+Diu,16.3.07,Stock Position of IFA Tablets,5. Total Stock,94870.0,121430.0,97450.0,69180.0,47820.0,31600.0,17620.0,98460.0,64310.0,41930.0,29830.0,90320.0,804820.0
+Diu,16.3.08,Stock Position of IFA Syrup (Paediatric),1. Balance From Previous Month,0.0,1979.0,1587.0,1220.0,916.0,698.0,582.0,435.0,354.0,312.0,161.0,0.0,8244.0
+Diu,16.3.08,Stock Position of IFA Syrup (Paediatric),2. Stocks Received,2000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2000.0
+Diu,16.3.08,Stock Position of IFA Syrup (Paediatric),3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.3.08,Stock Position of IFA Syrup (Paediatric),4. Stock Distributed,21.0,392.0,367.0,304.0,218.0,116.0,147.0,81.0,42.0,151.0,161.0,0.0,2000.0
+Diu,16.3.08,Stock Position of IFA Syrup (Paediatric),5. Total Stock,1979.0,1587.0,1220.0,916.0,698.0,582.0,435.0,354.0,312.0,161.0,0.0,0.0,8244.0
+Diu,16.3.09,Stock Position of Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),1. Balance From Previous Month,0.0,4885.0,4516.0,4117.0,3800.0,3218.0,2367.0,1550.0,884.0,226.0,0.0,0.0,25563.0
+Diu,16.3.09,Stock Position of Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),2. Stocks Received,5000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5000.0
+Diu,16.3.09,Stock Position of Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.3.09,Stock Position of Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),4. Stock Distributed,115.0,369.0,399.0,317.0,582.0,851.0,817.0,666.0,658.0,226.0,0.0,0.0,5000.0
+Diu,16.3.09,Stock Position of Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),5. Total Stock,4885.0,4516.0,4117.0,3800.0,3218.0,2367.0,1550.0,884.0,226.0,0.0,0.0,0.0,25563.0
+Diu,16.3.10,Stock Position of Vitamin A solution,1. Balance From Previous Month,340.0,7629.0,6792.0,6404.0,5644.0,4634.0,4160.0,3794.0,3449.0,3028.0,1679.0,1158.0,48711.0
+Diu,16.3.10,Stock Position of Vitamin A solution,2. Stocks Received,7843.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7843.0
+Diu,16.3.10,Stock Position of Vitamin A solution,3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.3.10,Stock Position of Vitamin A solution,4. Stock Distributed,554.0,837.0,388.0,760.0,1010.0,474.0,366.0,345.0,421.0,1349.0,521.0,223.0,7248.0
+Diu,16.3.10,Stock Position of Vitamin A solution,5. Total Stock,7629.0,6792.0,6404.0,5644.0,4634.0,4160.0,3794.0,3449.0,3028.0,1679.0,1158.0,935.0,49306.0
+Diu,16.3.11,Stock of ORS (New WHO formulation),1. Balance From Previous Month,0.0,1705.0,1705.0,1186.0,865.0,583.0,307.0,50.0,240.0,0.0,2279.0,2207.0,11127.0
+Diu,16.3.11,Stock of ORS (New WHO formulation),2. Stocks Received,1805.0,0.0,0.0,0.0,0.0,0.0,0.0,500.0,0.0,3802.0,500.0,2000.0,8607.0
+Diu,16.3.11,Stock of ORS (New WHO formulation),3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.3.11,Stock of ORS (New WHO formulation),4. Stock Distributed,100.0,0.0,519.0,321.0,282.0,276.0,257.0,310.0,240.0,1523.0,572.0,1608.0,6008.0
+Diu,16.3.11,Stock of ORS (New WHO formulation),5. Total Stock,1705.0,1705.0,1186.0,865.0,583.0,307.0,50.0,240.0,0.0,2279.0,2207.0,2599.0,13726.0
+Diu,16.4.1,Stock Position of 0.1 ml Syringes(AD),1. Balance From Previous Month,610.0,1818.0,1758.0,1689.0,1641.0,1582.0,1512.0,1430.0,1755.0,1655.0,1580.0,1488.0,18518.0
+Diu,16.4.1,Stock Position of 0.1 ml Syringes(AD),2. Stocks Received,1320.0,0.0,0.0,0.0,0.0,0.0,0.0,400.0,0.0,0.0,0.0,0.0,1720.0
+Diu,16.4.1,Stock Position of 0.1 ml Syringes(AD),3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.4.1,Stock Position of 0.1 ml Syringes(AD),4. Stock Distributed,112.0,60.0,69.0,48.0,59.0,70.0,82.0,75.0,100.0,75.0,92.0,83.0,925.0
+Diu,16.4.1,Stock Position of 0.1 ml Syringes(AD),5. Total Stock,1818.0,1758.0,1689.0,1641.0,1582.0,1512.0,1430.0,1755.0,1655.0,1580.0,1488.0,1405.0,19313.0
+Diu,16.4.2,Stock Position of 0.5 ml Syringes(AD),1. Balance From Previous Month,12153.0,17850.0,17080.0,16238.0,12160.0,9235.0,8527.0,7757.0,16007.0,15157.0,14245.0,13395.0,159804.0
+Diu,16.4.2,Stock Position of 0.5 ml Syringes(AD),2. Stocks Received,6521.0,0.0,0.0,0.0,0.0,0.0,0.0,9000.0,0.0,0.0,0.0,0.0,15521.0
+Diu,16.4.2,Stock Position of 0.5 ml Syringes(AD),3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.4.2,Stock Position of 0.5 ml Syringes(AD),4. Stock Distributed,824.0,770.0,842.0,4078.0,2925.0,708.0,770.0,750.0,850.0,912.0,850.0,760.0,15039.0
+Diu,16.4.2,Stock Position of 0.5 ml Syringes(AD),5. Total Stock,17850.0,17080.0,16238.0,12160.0,9235.0,8527.0,7757.0,16007.0,15157.0,14245.0,13395.0,12635.0,160286.0
+Diu,16.4.3,Stock Position of 5.0 ml Syringes(Disposable),1. Balance From Previous Month,870.0,1433.0,1408.0,1367.0,1343.0,1317.0,1287.0,1257.0,1217.0,1182.0,14182.0,12998.0,39861.0
+Diu,16.4.3,Stock Position of 5.0 ml Syringes(Disposable),2. Stocks Received,590.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14905.0,0.0,0.0,15495.0
+Diu,16.4.3,Stock Position of 5.0 ml Syringes(Disposable),3. Unusable Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diu,16.4.3,Stock Position of 5.0 ml Syringes(Disposable),4. Stock Distributed,27.0,25.0,41.0,24.0,26.0,30.0,30.0,40.0,35.0,1905.0,1184.0,925.0,4292.0
+Diu,16.4.3,Stock Position of 5.0 ml Syringes(Disposable),5. Total Stock,1433.0,1408.0,1367.0,1343.0,1317.0,1287.0,1257.0,1217.0,1182.0,14182.0,12998.0,12073.0,51064.0
+Diu,17.1,Number of cases of Infant deaths within 24 hrs of birth,TOTAL,1.0,,,,,,,,,,,,1.0
+Diu,17.2.1,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being Sepsis,1. Up to 1 Weeks of Birth,,,,,,,,,,,,,
+Diu,17.2.1,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being Sepsis,2. Between 1 week & 4 weeks of birth,,,,,,,,,,,,,
+Diu,17.2.1,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being Sepsis,3. Total,,,,,,,,,,,,,
+Diu,17.2.2,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being Asphyxia,1. Up to 1 Weeks of Birth,,,,,,,,,,,,,
+Diu,17.2.2,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being Asphyxia,2. Between 1 week & 4 weeks of birth,,,,,,,,,,,,,
+Diu,17.2.2,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being Asphyxia,3. Total,,,,,,,,,,,,,
+Diu,17.2.3,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being LBW,1. Up to 1 Weeks of Birth,,,,,,,,2.0,,,,,2.0
+Diu,17.2.3,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being LBW,2. Between 1 week & 4 weeks of birth,,,,,,,,1.0,,,,,1.0
+Diu,17.2.3,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being LBW,3. Total,,,,,,,,3.0,,,,,3.0
+Diu,17.2.4,"Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being other than Sepsis, Asphyxia and LBW",1. Up to 1 Weeks of Birth,,,1.0,,,,,1.0,,,,,2.0
+Diu,17.2.4,"Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being other than Sepsis, Asphyxia and LBW",2. Between 1 week & 4 weeks of birth,,,,,,,,,,,,,
+Diu,17.2.4,"Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being other than Sepsis, Asphyxia and LBW",3. Total,,,1.0,,,,,1.0,,,,,2.0
+Diu,17.3.1,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Pneumonia,1. Between 1 month and 11 months,,,,,,,,,,,,,
+Diu,17.3.1,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Pneumonia,2. Between 1 year & 5 years,,,,,,,,,,,,,
+Diu,17.3.1,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Pneumonia,3. Total,,,,,,,,,,,,,
+Diu,17.3.2,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Diarrhoea,1. Between 1 month and 11 months,,,,,,,,,,,,,
+Diu,17.3.2,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Diarrhoea,2. Between 1 year & 5 years,,,,,,,,,,,,,
+Diu,17.3.2,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Diarrhoea,3. Total,,,,,,,,,,,,,
+Diu,17.3.3,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Fever related,1. Between 1 month and 11 months,,,,,,1.0,,,,,,,1.0
+Diu,17.3.3,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Fever related,2. Between 1 year & 5 years,,,,,,,,,,,,,
+Diu,17.3.3,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Fever related,3. Total,,,,,,1.0,,,,,,,1.0
+Diu,17.3.4,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Measles,1. Between 1 month and 11 months,,,,,,,,,,,,,
+Diu,17.3.4,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Measles,2. Between 1 year & 5 years,,,,,,,,,,,,,
+Diu,17.3.4,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Measles,3. Total,,,,,,,,,,,,,
+Diu,17.3.5,"Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being other than Pneumonia, Diarrhoea, Fever related and Measles",1. Between 1 month and 11 months,,,,1.0,,2.0,,1.0,,,,,4.0
+Diu,17.3.5,"Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being other than Pneumonia, Diarrhoea, Fever related and Measles",2. Between 1 year & 5 years,,,,,,,,,,,,,
+Diu,17.3.5,"Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being other than Pneumonia, Diarrhoea, Fever related and Measles",3. Total,,,,1.0,,2.0,,1.0,,,,,4.0
+Diu,17.4.1,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Diarrhoeal diseases,1. 6-14 yrs,,,,,,,,,,,,,
+Diu,17.4.1,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Diarrhoeal diseases,2. 15-55 yrs.,,,,,,,,,,,,,
+Diu,17.4.1,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Diarrhoeal diseases,3. Above 55 yrs.,,,,,,,,,,,,,
+Diu,17.4.1,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Diarrhoeal diseases,4. Total,,,,,,,,,,,,,
+Diu,17.4.2,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Tuberculosis,1. 6-14 yrs,,,,,,,,,,,,,
+Diu,17.4.2,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Tuberculosis,2. 15-55 yrs.,,,,,,,,,,,,,
+Diu,17.4.2,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Tuberculosis,3. Above 55 yrs.,,,,,,,,,,,,,
+Diu,17.4.2,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Tuberculosis,4. Total,,,,,,,,,,,,,
+Diu,17.4.3,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Respiratory diseases including infections,1. 6-14 yrs,,,,,,,,,,,,,
+Diu,17.4.3,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Respiratory diseases including infections,2. 15-55 yrs.,,,,,,,,1.0,,,,,1.0
+Diu,17.4.3,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Respiratory diseases including infections,3. Above 55 yrs.,1.0,,,,2.0,,,,,,,,3.0
+Diu,17.4.3,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Respiratory diseases including infections,4. Total,1.0,,,,2.0,,,1.0,,,,,4.0
+Diu,17.4.4,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Malaria,1. 6-14 yrs,,,,,,,,,,,,,
+Diu,17.4.4,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Malaria,2. 15-55 yrs.,,,,,,,,,,,,,
+Diu,17.4.4,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Malaria,3. Above 55 yrs.,,,,,,,,,,,,,
+Diu,17.4.4,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Malaria,4. Total,,,,,,,,,,,,,
+Diu,17.4.5,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being other Fever related,1. 6-14 yrs,,,,,,,,,,,,,
+Diu,17.4.5,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being other Fever related,2. 15-55 yrs.,,,,,,,,,,,,,
+Diu,17.4.5,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being other Fever related,3. Above 55 yrs.,,,,,,,,,,,,,
+Diu,17.4.5,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being other Fever related,4. Total,,,,,,,,,,,,,
+Diu,17.4.6,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being HIV/AIDS,1. 6-14 yrs,,,,,,,,,,,,,
+Diu,17.4.6,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being HIV/AIDS,2. 15-55 yrs.,,,,,,,,,,,,,
+Diu,17.4.6,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being HIV/AIDS,3. Above 55 yrs.,,,,,,,,,,,,,
+Diu,17.4.6,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being HIV/AIDS,4. Total,,,,,,,,,,,,,
+Diu,17.4.7,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Heart disease or related to Hypertension,1. 6-14 yrs,,,,,,,,,,,,,
+Diu,17.4.7,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Heart disease or related to Hypertension,2. 15-55 yrs.,,,,,,1.0,1.0,1.0,2.0,,,2.0,7.0
+Diu,17.4.7,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Heart disease or related to Hypertension,3. Above 55 yrs.,8.0,7.0,7.0,6.0,2.0,,4.0,,2.0,1.0,,,37.0
+Diu,17.4.7,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Heart disease or related to Hypertension,4. Total,8.0,7.0,7.0,6.0,2.0,1.0,5.0,1.0,4.0,1.0,,2.0,44.0
+Diu,17.4.8,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Neurological disease including strokes,1. 6-14 yrs,,,,,,,,,,,,,
+Diu,17.4.8,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Neurological disease including strokes,2. 15-55 yrs.,,,,,,,,,1.0,,,2.0,3.0
+Diu,17.4.8,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Neurological disease including strokes,3. Above 55 yrs.,,,,,,,1.0,,,,2.0,,3.0
+Diu,17.4.8,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Neurological disease including strokes,4. Total,,,,,,,1.0,,1.0,,2.0,2.0,6.0
+Diu,17.4.9(a),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Abortion,1. 6-14 yrs,,,,,,,,,,,,,
+Diu,17.4.9(a),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Abortion,2. 15-49 yrs,,,,,,,,,,,,,
+Diu,17.4.9(a),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Abortion,3. Above 49 yrs.,,,,,,,,,,,,,
+Diu,17.4.9(a),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Abortion,4. Total,,,,,,,,,,,,,
+Diu,17.4.9(b),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Obstructed or prolonged labour,1. 6-14 yrs,,,,,,,,,,,,,
+Diu,17.4.9(b),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Obstructed or prolonged labour,2. 15-49 yrs,,,,,,,,,,,,,
+Diu,17.4.9(b),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Obstructed or prolonged labour,3. Above 49 yrs.,,,,,,,,,,,,,
+Diu,17.4.9(b),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Obstructed or prolonged labour,4. Total,,,,,,,,,,,,,
+Diu,17.4.9(c),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Severe hypertesnion or fits,1. 6-14 yrs,,,,,,,,,,,,,
+Diu,17.4.9(c),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Severe hypertesnion or fits,2. 15-49 yrs,,,,,,,,,,,,,
+Diu,17.4.9(c),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Severe hypertesnion or fits,3. Above 49 yrs.,,,,,,,,,,,,,
+Diu,17.4.9(c),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Severe hypertesnion or fits,4. Total,,,,,,,,,,,,,
+Diu,17.4.9(d),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Bleeding,1. 6-14 yrs,,,,,,,,,,,,,
+Diu,17.4.9(d),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Bleeding,2. 15-49 yrs,,,,,,,,,,,,,
+Diu,17.4.9(d),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Bleeding,3. Above 49 yrs.,,,,,,,,,,,,,
+Diu,17.4.9(d),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Bleeding,4. Total,,,,,,,,,,,,,
+Diu,17.4.9(e),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being High Fever,1. 6-14 yrs,,,,,,,,,,,,,
+Diu,17.4.9(e),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being High Fever,2. 15-49 yrs,,,,,,,,,,,,,
+Diu,17.4.9(e),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being High Fever,3. Above 49 yrs.,,,,,,,,,,,,,
+Diu,17.4.9(e),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being High Fever,4. Total,,,,,,,,,,,,,
+Diu,17.4.9(f),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being other causes (excluding abortion; obstructed or prolonged labour; severe hypertension or fits;,1. 6-14 yrs,,,,,,,,,,,,,
+Diu,17.4.9(f),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being other causes (excluding abortion; obstructed or prolonged labour; severe hypertension or fits;,2. 15-49 yrs,,,,,,,,,,,,,
+Diu,17.4.9(f),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being other causes (excluding abortion; obstructed or prolonged labour; severe hypertension or fits;,3. Above 49 yrs.,,,,,,,,,,,,,
+Diu,17.4.9(f),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being other causes (excluding abortion; obstructed or prolonged labour; severe hypertension or fits;,4. Total,,,,,,,,,,,,,
+Diu,17.4.10,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Trauma or Accidents or Burn cases,1. 6-14 yrs,,,,,,,,,,,,,
+Diu,17.4.10,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Trauma or Accidents or Burn cases,2. 15-55 yrs.,1.0,,,,,1.0,1.0,,,3.0,,,6.0
+Diu,17.4.10,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Trauma or Accidents or Burn cases,3. Above 55 yrs.,,,1.0,,,,1.0,,,1.0,,,3.0
+Diu,17.4.10,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Trauma or Accidents or Burn cases,4. Total,1.0,,1.0,,,1.0,2.0,,,4.0,,,9.0
+Diu,17.4.11,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being suicide,1. 6-14 yrs,,,,,,,,,,,,,
+Diu,17.4.11,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being suicide,2. 15-55 yrs.,,,,,,,,,,,,,
+Diu,17.4.11,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being suicide,3. Above 55 yrs.,,,,,,,,,,,,,
+Diu,17.4.11,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being suicide,4. Total,,,,,,,,,,,,,
+Diu,17.4.12,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Animal bites and stings,1. 6-14 yrs,,,,,,,,,,,,,
+Diu,17.4.12,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Animal bites and stings,2. 15-55 yrs.,,,,,,,,,,,,,
+Diu,17.4.12,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Animal bites and stings,3. Above 55 yrs.,,,,,,,,,,,,,
+Diu,17.4.12,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Animal bites and stings,4. Total,,,,,,,,,,,,,
+Diu,17.4.13(a),Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Known Acute disease,1. 6-14 yrs,,,,,,,,,,,,,
+Diu,17.4.13(a),Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Known Acute disease,2. 15-55 yrs.,,1.0,,,,,1.0,,,,,,2.0
+Diu,17.4.13(a),Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Known Acute disease,3. Above 55 yrs.,,,,,,,2.0,,,2.0,,,4.0
+Diu,17.4.13(a),Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Known Acute disease,4. Total,,1.0,,,,,3.0,,,2.0,,,6.0
+Diu,17.4.13(b),Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Known Chronic disease,1. 6-14 yrs,,,,,,,,,,,,,
+Diu,17.4.13(b),Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Known Chronic disease,2. 15-55 yrs.,2.0,,,,,,,,1.0,,,,3.0
+Diu,17.4.13(b),Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Known Chronic disease,3. Above 55 yrs.,1.0,,,,,,,,,,,,1.0
+Diu,17.4.13(b),Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Known Chronic disease,4. Total,3.0,,,,,,,,1.0,,,,4.0
+Diu,17.4.13(c),Number of cases of Adolescent or Adult deaths (age 6 years & above) where the cause was not known,1. 6-14 yrs,,,,,,1.0,,,,1.0,,,2.0
+Diu,17.4.13(c),Number of cases of Adolescent or Adult deaths (age 6 years & above) where the cause was not known,2. 15-55 yrs.,,6.0,,,,,1.0,1.0,2.0,1.0,,,11.0
+Diu,17.4.13(c),Number of cases of Adolescent or Adult deaths (age 6 years & above) where the cause was not known,3. Above 55 yrs.,10.0,14.0,10.0,5.0,4.0,10.0,2.0,7.0,2.0,1.0,7.0,17.0,89.0
+Diu,17.4.13(c),Number of cases of Adolescent or Adult deaths (age 6 years & above) where the cause was not known,4. Total,10.0,20.0,10.0,5.0,4.0,11.0,3.0,8.0,4.0,3.0,7.0,17.0,102.0
