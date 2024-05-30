@@ -1,0 +1,906 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,April,May,June,July,August,September,October,November,December,January,February,March,Total
+District,,,,,,,,,,,,,,,,
+North Goa,1.1,Total number of pregnant women Registered for ANC,TOTAL,1464.0,1287.0,1329.0,1478.0,1314.0,1231.0,1378.0,1230.0,1218.0,1367.0,1194.0,1156.0,15646.0
+North Goa,1.1.1,Of which Number registered within first trimester (within 12 weeks),TOTAL,824.0,732.0,746.0,787.0,698.0,661.0,793.0,771.0,678.0,707.0,738.0,702.0,8837.0
+North Goa,1.2,Number of Pregnant women registered under JSY,TOTAL,83.0,60.0,65.0,64.0,66.0,67.0,72.0,79.0,83.0,76.0,72.0,63.0,850.0
+North Goa,1.3,Number of pregnant women received 3 ANC check ups during pregnancy,TOTAL,1234.0,1220.0,1166.0,1252.0,798.0,737.0,954.0,795.0,755.0,868.0,816.0,715.0,11310.0
+North Goa,1.4.1,Number of pregnant women given TT1 during current pregnancy,TOTAL,807.0,667.0,680.0,736.0,743.0,696.0,711.0,676.0,688.0,716.0,691.0,659.0,8470.0
+North Goa,1.4.2,Number of pregnant women given TT2 or Booster during current pregnancy,TOTAL,716.0,592.0,618.0,657.0,700.0,627.0,564.0,639.0,610.0,601.0,666.0,668.0,7658.0
+North Goa,1.5,Total number of pregnant women given 100 IFA tablets,TOTAL,1150.0,1552.0,1109.0,1150.0,1060.0,979.0,1025.0,894.0,1014.0,1034.0,1041.0,988.0,12996.0
+North Goa,1.6.1,Number of new cases of Hypertension (BP>140/90) detected in Pregnant women at the institution,TOTAL,48.0,44.0,56.0,66.0,50.0,52.0,26.0,97.0,43.0,40.0,28.0,20.0,570.0
+North Goa,1.6.2,Number of Eclampsia cases managed during delivery,TOTAL,25.0,25.0,18.0,14.0,10.0,9.0,8.0,7.0,13.0,8.0,14.0,1.0,152.0
+North Goa,1.7.1,Number of Pregnant women with anaemia i.e. Hb level<11 (tested cases),TOTAL,246.0,246.0,215.0,226.0,262.0,231.0,241.0,210.0,246.0,336.0,480.0,308.0,3247.0
+North Goa,1.7.2,Number of Pregnant women having severe anaemia (Hb<7) treated at institution,TOTAL,14.0,12.0,19.0,14.0,11.0,10.0,17.0,14.0,16.0,15.0,14.0,6.0,162.0
+North Goa,1.8,Number of pregnancy test kits used at SC level,TOTAL,6.0,3.0,4.0,11.0,10.0,5.0,9.0,34.0,23.0,28.0,30.0,49.0,212.0
+North Goa,2.1.1.a,Number of deliveries conducted at Home and attended by trained SBA(i.e. Doctor or Nurse or ANM),TOTAL,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
+North Goa,2.1.1.b,Number of deliveries conducted at Home and attended by non trained SBA (i.e. trained TBA or Relatives etc.),TOTAL,0.0,1.0,0.0,2.0,0.0,0.0,2.0,1.0,1.0,1.0,0.0,0.0,8.0
+North Goa,2.1.1.c,Total number of deliveries conducted at Home and attended by trained or non-trained SBA (i.e. sum of 2.1.1.a and 2.1.1.b),TOTAL,0.0,1.0,0.0,3.0,1.0,0.0,2.0,1.0,1.0,1.0,0.0,0.0,10.0
+North Goa,2.1.2,Number of newborns visited within 24 hours of delivery for deliveries conducted at home,TOTAL,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0
+North Goa,2.1.3,Number of mothers paid JSY incentive for deliveries conducted at home,TOTAL,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+North Goa,2.2,Deliveries conducted at Public Institutions (Including C-Sections),TOTAL,695.0,597.0,662.0,617.0,674.0,689.0,693.0,718.0,658.0,715.0,637.0,606.0,7961.0
+North Goa,2.2.1,"Out of 2.2, Number discharged under 48 hours of delivery",TOTAL,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0,0.0,19.0
+North Goa,2.2.2.a,Number of mothers paid JSY Incentive for deliveries conducted at Public Institutions,TOTAL,104.0,31.0,79.0,61.0,79.0,13.0,52.0,42.0,22.0,67.0,21.0,81.0,652.0
+North Goa,2.2.2.b,Number of ASHAs paid JSY Incentive for deliveries conducted at Public Institutions,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,2.2.2.c,Number of cases of deliveries conducted at Public Institutions where JSY incentive was paid to ANMs or AWWs [only for High Performing States (HPS)],TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,2.3,Deliveries conducted at Private Institutions (Including C-Sections),TOTAL,293.0,209.0,187.0,229.0,237.0,247.0,294.0,236.0,213.0,266.0,232.0,224.0,2867.0
+North Goa,2.3.1.a,Number of mothers paid JSY Incentive for deliveries conducted at accredited Private Institutions,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,2.3.1.b,Number of ASHAs paid JSY Incentive for deliveries conducted at accredited Private Institutions,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,2.3.1.c,Number of cases of deliveries conducted at accredited Private Institutions where JSY incentive was paid to ANMs or AWWs [only for High Performing States (HPS)],TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,3.1.1,Number of Caesarean (C-Section) deliveries performed at PHCs (Primary Health Centre),TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,3.1.2,Number of Caesarean (C-Section) deliveries performed at CHCs (Community Health Centre),TOTAL,1.0,6.0,8.0,9.0,5.0,7.0,5.0,3.0,7.0,6.0,7.0,9.0,73.0
+North Goa,3.1.3,Number of Caesarean (C-Section) deliveries performed at SDHs (Sub-divisional Hospital) or DHs (District Hospital),TOTAL,177.0,156.0,230.0,178.0,181.0,196.0,195.0,168.0,180.0,172.0,213.0,144.0,2190.0
+North Goa,3.1.4,Number of Caesarean (C-Section) deliveries performed at other State owned public institutions,TOTAL,,,,,,,,,,,,,
+North Goa,3.1.5,"Total Number of Caesarean (C-Section) deliveries performed at Public facilities i.e. PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 3.1.1 to 3.1.4)",TOTAL,178.0,162.0,238.0,187.0,186.0,203.0,200.0,171.0,187.0,178.0,220.0,153.0,2263.0
+North Goa,3.2,No. of C-section deliveries performed at Private facilities,TOTAL,126.0,92.0,71.0,101.0,97.0,83.0,108.0,99.0,95.0,113.0,96.0,81.0,1162.0
+North Goa,4.1.1.a,Number of male live births,TOTAL,533.0,391.0,446.0,464.0,440.0,492.0,539.0,473.0,442.0,517.0,461.0,444.0,5642.0
+North Goa,4.1.1.b,Number of female live births,TOTAL,450.0,405.0,397.0,382.0,445.0,436.0,431.0,469.0,412.0,439.0,392.0,370.0,5028.0
+North Goa,4.1.1.c,Total number of male and female live births (4.1.1.a and 4.1.1.b),TOTAL,983.0,796.0,843.0,846.0,885.0,928.0,970.0,942.0,854.0,956.0,853.0,814.0,10670.0
+North Goa,4.1.2,Number of still births,TOTAL,13.0,24.0,18.0,9.0,35.0,20.0,29.0,19.0,30.0,34.0,30.0,18.0,279.0
+North Goa,4.1.3,Number of Abortions (spontaneous or induced),TOTAL,55.0,63.0,41.0,97.0,55.0,63.0,37.0,41.0,42.0,31.0,54.0,27.0,606.0
+North Goa,4.2.1,Number of Newborns weighed at birth,TOTAL,983.0,795.0,843.0,845.0,885.0,928.0,970.0,942.0,854.0,954.0,853.0,814.0,10666.0
+North Goa,4.2.2,Number of Newborns having weight less than 2.5 kg,TOTAL,153.0,153.0,180.0,151.0,168.0,227.0,160.0,152.0,164.0,164.0,154.0,146.0,1972.0
+North Goa,4.3,Number of Newborns breast fed within 1 hour of birth,TOTAL,802.0,601.0,579.0,615.0,671.0,714.0,862.0,758.0,554.0,766.0,657.0,643.0,8222.0
+North Goa,5.1.1,Number of cases of pregnant women with Obstetric Complications and attended at PHCs,TOTAL,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
+North Goa,5.1.2,Number of cases of pregnant women with Obstetric Complications and attended at CHCs,TOTAL,0.0,0.0,2.0,0.0,1.0,0.0,10.0,8.0,0.0,6.0,6.0,9.0,42.0
+North Goa,5.1.3,Number of cases of pregnant women with Obstetric Complications and attended at SDHs or DHs,TOTAL,286.0,246.0,261.0,340.0,287.0,226.0,277.0,258.0,337.0,306.0,316.0,315.0,3455.0
+North Goa,5.1.4,Number of cases of pregnant women with Obstetric Complications and attended at other State owned public institutions,TOTAL,,,,,,,,,,,,,
+North Goa,5.1.5,"Number of cases of pregnant women with Obstetric Complications and attended at Public facilities i.e. PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 5.1.1 to 5.1.4)",TOTAL,288.0,246.0,263.0,340.0,288.0,226.0,287.0,266.0,337.0,312.0,322.0,324.0,3499.0
+North Goa,5.2,Number of cases of pregnant women with Obstetric Complications and attended at Private facilities,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,9.0,4.0,0.0,2.0,3.0,0.0,18.0
+North Goa,5.3.1,Number of cases of complicated pregnancies treated with IV antibiotics,TOTAL,177.0,160.0,235.0,178.0,174.0,199.0,246.0,234.0,250.0,242.0,223.0,163.0,2481.0
+North Goa,5.3.2,Number of cases of complicated pregnancies treated with IV Antihypertensive/Magsulph injection,TOTAL,25.0,22.0,23.0,11.0,10.0,7.0,7.0,7.0,19.0,6.0,2.0,1.0,140.0
+North Goa,5.3.3,Number of cases of complicated pregnancies treated with IV Oxytocis,TOTAL,181.0,186.0,236.0,182.0,189.0,209.0,205.0,231.0,248.0,244.0,208.0,138.0,2457.0
+North Goa,5.3.4,Number of cases of complicated pregnancies treated with Blood Transfusion,TOTAL,6.0,6.0,8.0,7.0,7.0,7.0,10.0,6.0,7.0,12.0,9.0,6.0,91.0
+North Goa,6.1,Women getting post partum check-up within 48 hours after delivery,TOTAL,857.0,729.0,781.0,724.0,730.0,798.0,812.0,795.0,758.0,842.0,722.0,690.0,9238.0
+North Goa,6.2,Women getting a post partum check up between 48 hours and 14 days after delivery,TOTAL,462.0,404.0,395.0,376.0,349.0,378.0,420.0,352.0,368.0,353.0,293.0,162.0,4312.0
+North Goa,6.3,PNC maternal complications attended,TOTAL,7.0,11.0,19.0,12.0,0.0,0.0,0.0,5.0,7.0,0.0,0.0,8.0,69.0
+North Goa,7.1.1,Number of MTPs conducted at Public Institutions up to 12 weeks of pregnancy,TOTAL,17.0,19.0,12.0,19.0,17.0,26.0,19.0,16.0,20.0,13.0,14.0,23.0,215.0
+North Goa,7.1.2,Number of MTPs conducted at Public Institutions for more than 12 weeks of pregnancy,TOTAL,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0
+North Goa,7.1.3,Total number of MTPs conducted at Public Institutions (sum of items 7.1.1 and 7.1.2),TOTAL,17.0,19.0,18.0,19.0,17.0,26.0,19.0,16.0,20.0,13.0,14.0,23.0,221.0
+North Goa,7.2,Number of MTPs conducted at Private Facilities,TOTAL,51.0,42.0,26.0,71.0,38.0,23.0,11.0,0.0,9.0,7.0,12.0,5.0,295.0
+North Goa,8.1.a,Number of new cases of RTI/STI in males for which treatment was initiated,TOTAL,6.0,14.0,13.0,12.0,17.0,4.0,3.0,6.0,9.0,5.0,19.0,21.0,129.0
+North Goa,8.1.b,Number of new cases of RTI/STI in females for which treatment was initiated,TOTAL,30.0,31.0,36.0,29.0,27.0,17.0,21.0,8.0,24.0,24.0,32.0,44.0,323.0
+North Goa,8.1.c,Total number of new cases of RTI/STI in males and females for which treatment was initiated (sum of items 8.1.a and 8.1.b),TOTAL,36.0,45.0,49.0,41.0,44.0,21.0,24.0,14.0,33.0,29.0,51.0,65.0,452.0
+North Goa,8.2,Number of suspected RTI/STI cases for whom wet mount test was conducted,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,9.1.1.a,Number of NSV (No Scalpel Vasectomy) or Conventional Vasectomy conducted at PHCs,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,9.1.1.b,Number of NSV or Conventional Vasectomy conducted at CHCs,TOTAL,0.0,1.0,0.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,6.0
+North Goa,9.1.1.c,Number of NSV or Conventional Vasectomy conducted at SDHs or DHs,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+North Goa,9.1.1.d,Number of NSV or Conventional Vasectomy conducted at other State owned public institutions,TOTAL,,,,,,,,,,,,,
+North Goa,9.1.1.e,"Total Number of NSV or Conventional Vasectomy conducted at Public facilities i.e. PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 9.1.1.a to 9.1.1.d)",TOTAL,0.0,1.0,0.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,1.0,1.0,7.0
+North Goa,9.1.2,Number of NSV or Conventional Vasectomy conducted at Private facilities,TOTAL,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0
+North Goa,9.2.1.a,Number of Laparoscopic sterilizations conducted at PHCs,TOTAL,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,3.0
+North Goa,9.2.1.b,Number of Laparoscopic sterilizations conducted at CHCs,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,9.2.1.c,Number of Laparoscopic sterilizations conducted at SDHs or DHs,TOTAL,16.0,12.0,7.0,23.0,18.0,12.0,24.0,13.0,13.0,20.0,14.0,13.0,185.0
+North Goa,9.2.1.d,Number of Laparoscopic sterilizations conducted at other State owned public institutions,TOTAL,,,,,,,,,,,,,
+North Goa,9.2.1.e,"Total Number of Laparoscopic sterilizations conducted at Public facilities i.e. PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 9.2.1.a to 9.2.1.d)",TOTAL,16.0,12.0,7.0,24.0,18.0,13.0,24.0,13.0,13.0,20.0,15.0,13.0,188.0
+North Goa,9.2.2,Number of Laparoscopic sterilizations conducted at Private facilities,TOTAL,9.0,6.0,1.0,9.0,5.0,2.0,12.0,9.0,14.0,2.0,3.0,1.0,73.0
+North Goa,9.3.1.a,Number of Mini-lap sterilizations conducted at PHCs,TOTAL,18.0,10.0,11.0,15.0,12.0,7.0,1.0,0.0,4.0,10.0,19.0,6.0,113.0
+North Goa,9.3.1.b,Number of Mini-lap sterilizations conducted at CHCs,TOTAL,2.0,5.0,2.0,2.0,1.0,1.0,0.0,3.0,1.0,0.0,3.0,2.0,22.0
+North Goa,9.3.1.c,Number of Mini-lap sterilizations conducted at SDHs or DHs,TOTAL,17.0,8.0,17.0,18.0,10.0,12.0,15.0,15.0,15.0,14.0,15.0,8.0,164.0
+North Goa,9.3.1.d,Number of Mini-lap sterilizations conducted at other State owned public institutions,TOTAL,,,,,,,,,,,,,
+North Goa,9.3.1.e,"Total Number of Mini-lap sterilizations conducted at Public facilities i.e. PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 9.3.1.a to 9.3.1.d)",TOTAL,37.0,23.0,30.0,35.0,23.0,20.0,16.0,18.0,20.0,24.0,37.0,16.0,299.0
+North Goa,9.3.2,Number of Mini-lap sterilizations conducted at Private facilities,TOTAL,19.0,10.0,11.0,19.0,12.0,7.0,1.0,0.0,4.0,9.0,8.0,6.0,106.0
+North Goa,9.4.1.a,Number of Post-Partum sterilizations conducted at PHCs,TOTAL,0.0,0.0,0.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0
+North Goa,9.4.1.b,Number of Post-Partum sterilizations conducted at CHCs,TOTAL,11.0,9.0,2.0,5.0,6.0,9.0,3.0,11.0,9.0,6.0,5.0,6.0,82.0
+North Goa,9.4.1.c,Number of Post-Partum sterilizations conducted at SDHs or DHs,TOTAL,87.0,64.0,80.0,74.0,75.0,85.0,90.0,82.0,75.0,75.0,56.0,57.0,900.0
+North Goa,9.4.1.d,Number of Post-Partum sterilizations conducted at other State owned public institutions,TOTAL,,,,,,,,,,,,,
+North Goa,9.4.1.e,"Total Number of Post-Partum sterilizations conducted at Public facilities i.e. PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 9.4.1.a to 9.4.1.d)",TOTAL,98.0,73.0,82.0,82.0,81.0,95.0,93.0,93.0,84.0,81.0,61.0,63.0,986.0
+North Goa,9.4.2,Number of Post-Partum sterilizations conducted at Private facilities,TOTAL,15.0,10.0,13.0,6.0,26.0,25.0,20.0,25.0,16.0,11.0,15.0,3.0,185.0
+North Goa,9.5.1.a,Number of IUCD Insertions conducted at SCs,TOTAL,6.0,4.0,0.0,2.0,5.0,1.0,0.0,2.0,0.0,1.0,5.0,0.0,26.0
+North Goa,9.5.1.b,Number of IUCD Insertions conducted at PHCs,TOTAL,8.0,4.0,8.0,5.0,16.0,11.0,11.0,9.0,9.0,10.0,8.0,9.0,108.0
+North Goa,9.5.1.c,Number of IUCD Insertions conducted at CHCs,TOTAL,11.0,9.0,14.0,20.0,16.0,22.0,14.0,13.0,10.0,7.0,17.0,8.0,161.0
+North Goa,9.5.1.d,Number of IUCD Insertions conducted at SDHs or DHs,TOTAL,7.0,12.0,7.0,18.0,13.0,6.0,10.0,12.0,14.0,23.0,15.0,25.0,162.0
+North Goa,9.5.1.e,Number of IUCD Insertions conducted at other State owned public institutions,TOTAL,,,,,,,,,,,,,
+North Goa,9.5.1.f,"Total Number of IUCD Insertions conducted at Public facilities i.e. SC, PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 9.5.1.a to 9.5.1.e)",TOTAL,32.0,29.0,29.0,45.0,50.0,40.0,35.0,36.0,33.0,41.0,45.0,42.0,457.0
+North Goa,9.5.1A,"Out of above total, Post Partum (within 48 hours of delivery) IUCD insertions",TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,2.0,11.0,16.0
+North Goa,9.5.2,Number of IUCD Insertions conducted at Private facilities,TOTAL,41.0,30.0,31.0,30.0,28.0,26.0,49.0,29.0,26.0,20.0,30.0,25.0,365.0
+North Goa,9.06,Number of IUCD removals,TOTAL,20.0,13.0,14.0,20.0,17.0,18.0,19.0,17.0,24.0,20.0,23.0,20.0,225.0
+North Goa,9.07,Number of Oral Pills cycles distributed,TOTAL,3470.0,4322.0,2908.0,4149.0,3121.0,3365.0,3719.0,4497.0,5003.0,3548.0,3477.0,2038.0,43617.0
+North Goa,9.08,Number of Condom pieces distributed,TOTAL,14114.0,12780.0,9185.0,10085.0,7851.0,9731.0,8780.0,9737.0,9405.0,9635.0,10037.0,12382.0,123722.0
+North Goa,9.09,Number of Centchroman (weekly) pills given,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,9.10,Number of Emergency Contraceptive Pills distributed,TOTAL,12.0,10.0,12.0,7.0,5.0,9.0,17.0,10.0,4.0,2.0,5.0,4.0,97.0
+North Goa,9.11.1.a,Number of cases of complications following male sterilization,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,9.11.1.b,Number of cases of complications following female sterilization,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,9.11.2.a,Number of failures following male sterilization,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,9.11.2.b,Number of failures following female sterilization,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,9.11.3.a,Number of deaths following male sterilization,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,9.11.3.b,Number of deaths following female sterilization,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,9.12,Number of Institutions having NSV trained doctors,TOTAL,4.0,4.0,6.0,6.0,3.0,3.0,2.0,2.0,1.0,3.0,3.0,1.0,-1.0
+North Goa,10.1.01,Number of Infants (0 to 11 months old)received BCG immunisation,TOTAL,1021.0,924.0,885.0,930.0,875.0,962.0,1011.0,1112.0,943.0,953.0,856.0,875.0,11347.0
+North Goa,10.1.02,Number of Infants (0 to 11 months old) received DPT1 immunisation,TOTAL,38.0,35.0,29.0,31.0,54.0,50.0,34.0,42.0,33.0,13.0,3.0,2.0,364.0
+North Goa,10.1.03,Number of Infants (0 to 11 months old) received DPT2 immunisation,TOTAL,38.0,24.0,37.0,32.0,68.0,62.0,51.0,63.0,42.0,3.0,0.0,1.0,421.0
+North Goa,10.1.04,Number of Infants (0 to 11 months old) received DPT3 immunisation,TOTAL,41.0,24.0,37.0,36.0,66.0,53.0,47.0,51.0,38.0,5.0,1.0,3.0,402.0
+North Goa,10.1.04A,Number of Infants (0 to 11 months old) received Pentavalent1 immunisation,TOTAL,1004.0,968.0,1012.0,919.0,847.0,861.0,876.0,998.0,950.0,1117.0,914.0,847.0,11313.0
+North Goa,10.1.04B,Number of Infants (0 to 11 months old) received Pentavalent2 immunisation,TOTAL,915.0,948.0,974.0,1063.0,885.0,888.0,927.0,974.0,901.0,1146.0,1002.0,947.0,11570.0
+North Goa,10.1.04C,Number of Infants (0 to 11 months old) received Pentavalent3 immunisation,TOTAL,1056.0,869.0,915.0,986.0,960.0,833.0,938.0,941.0,855.0,1080.0,1017.0,1025.0,11475.0
+North Goa,10.1.05,Number of Infants (0 to 11 months old) received OPV 0 (Birth Dose),TOTAL,926.0,819.0,830.0,819.0,777.0,888.0,891.0,970.0,820.0,806.0,768.0,833.0,10147.0
+North Goa,10.1.06,Number of Infants (0 to 11 months old) received OPV1 (First Dose),TOTAL,1036.0,1002.0,1041.0,950.0,911.0,912.0,907.0,999.0,956.0,1128.0,928.0,894.0,11664.0
+North Goa,10.1.07,Number of Infants (0 to 11 months old) received OPV2 (Second Dose),TOTAL,968.0,971.0,1000.0,1089.0,954.0,941.0,990.0,967.0,908.0,1150.0,1013.0,999.0,11950.0
+North Goa,10.1.08,Number of Infants (0 to 11 months old) received OPV3 (Third Dose),TOTAL,1097.0,889.0,943.0,1023.0,1041.0,887.0,962.0,942.0,853.0,1081.0,1018.0,1084.0,11820.0
+North Goa,10.1.09A,Number of Infants (upto 48 hrs of age) received Hepatitis-B0 immunisation,TOTAL,744.0,600.0,1026.0,556.0,583.0,725.0,775.0,790.0,677.0,730.0,724.0,653.0,8583.0
+North Goa,10.1.09,Number of Infants (0 to 11 months old) received Hepatitis-B1 immunisation,TOTAL,73.0,64.0,47.0,51.0,46.0,50.0,46.0,13.0,7.0,28.0,2.0,1.0,428.0
+North Goa,10.1.10,Number of Infants (0 to 11 months old) received Hepatitis-B2 immunisation,TOTAL,62.0,60.0,51.0,63.0,63.0,64.0,55.0,19.0,12.0,17.0,0.0,0.0,466.0
+North Goa,10.1.11,Number of Infants (0 to 11 months old) received Hepatitis-B3 immunisation,TOTAL,71.0,48.0,60.0,64.0,64.0,66.0,62.0,17.0,6.0,8.0,0.0,5.0,471.0
+North Goa,10.1.12,Number of Infants (0 to 11 months old) received Measles immunisation (First Dose),TOTAL,1071.0,953.0,995.0,1060.0,1099.0,1053.0,1122.0,972.0,906.0,1229.0,934.0,972.0,12366.0
+North Goa,10.1.12B,Number of Infants (more than 16 months old) received Measles immunisation (Second Dose),TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,10.1A,No. of Children aged 9 to 12 months who received JE 1st dose,TOTAL,0.0,0.0,0.0,0.0,0.0,197.0,537.0,497.0,715.0,975.0,590.0,753.0,4264.0
+North Goa,10.1.13.a,Total number of male children (9 to 11 months old) fully immunised (BCG+DPT123/Pentavalent123+OPV123+Measles) during the month,TOTAL,477.0,382.0,370.0,395.0,448.0,412.0,470.0,407.0,371.0,533.0,414.0,470.0,5149.0
+North Goa,10.1.13.b,Total number of female children (9 to 11 months old) fully immunised (BCG+DPT123/Pentavalent123+OPV123+Measles) during the month,TOTAL,414.0,372.0,367.0,413.0,431.0,401.0,425.0,400.0,380.0,492.0,368.0,484.0,4947.0
+North Goa,10.1.13.c,Total number of children (9 to 11 months old) fully immunised (BCG+DPT123/Pentavalent123+OPV123+Measles) during the month (sum of items 10.1.13.a and 10.1.13.b),TOTAL,891.0,754.0,737.0,808.0,879.0,813.0,895.0,807.0,751.0,1025.0,782.0,954.0,10096.0
+North Goa,10.2.1,Number of Infants (more than 16 months old) received DPT Booster dose,TOTAL,1129.0,956.0,1031.0,1051.0,899.0,906.0,1164.0,1048.0,1004.0,1134.0,983.0,1069.0,12374.0
+North Goa,10.2.2,Number of Infants (more than 16 months old) received OPV Booster dose,TOTAL,1132.0,982.0,1071.0,1112.0,935.0,946.0,1201.0,1051.0,1004.0,1134.0,972.0,1065.0,12605.0
+North Goa,10.2.3,"Number of Infants (more than 16 months old) received Measles, Mumps, Rubella (MMR) Vaccination",TOTAL,1071.0,983.0,1138.0,1110.0,1043.0,945.0,1136.0,1023.0,934.0,1173.0,1070.0,1093.0,12719.0
+North Goa,10.3.1.a,Total number of male children (12 to 23 months old) fully immunised (BCG+DPT123/Pentavalent123+OPV123+Measles) during the month,TOTAL,112.0,70.0,70.0,88.0,68.0,98.0,101.0,84.0,125.0,107.0,94.0,76.0,1093.0
+North Goa,10.3.1.b,Total number of female children (12 to 23 months old) fully immunised (BCG+DPT123/Pentavalent123+OPV123+Measles) during the month,TOTAL,102.0,86.0,93.0,78.0,71.0,83.0,105.0,84.0,124.0,103.0,77.0,81.0,1087.0
+North Goa,10.3.1.c,Total number of children (12 to 23 months old) fully immunised (BCG+DPT123+OPV123/Pentavalent123+Measles) during the month (sum of items 10.3.1.a and 10.3.1.b),TOTAL,214.0,156.0,163.0,166.0,139.0,181.0,206.0,168.0,249.0,210.0,171.0,157.0,2180.0
+North Goa,10.3.2,Number of children (more than 5 years old) given DT5,TOTAL,648.0,694.0,662.0,811.0,648.0,639.0,648.0,831.0,680.0,943.0,788.0,673.0,8665.0
+North Goa,10.3.3,Number of children (more than 10 years old) given TT10,TOTAL,441.0,517.0,802.0,1697.0,1291.0,991.0,1018.0,713.0,760.0,543.0,358.0,397.0,9528.0
+North Goa,10.3.4,Number of children (more than 16 years old) given TT16,TOTAL,438.0,528.0,866.0,2010.0,1484.0,1224.0,894.0,682.0,1028.0,484.0,227.0,324.0,10189.0
+North Goa,10.3.5.a,Number of cases of Abscess reported following immunisation [Adverse Event Following Immunisation (AEFI)],TOTAL,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,4.0
+North Goa,10.3.5.b,Number of cases of Death reported following immunisation [Adverse Event Following Immunisation (AEFI)],TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+North Goa,10.3.5.c,Number of cases of other complications reported following immunisation [Adverse Event Following Immunisation (AEFI)],TOTAL,0.0,0.0,0.0,3.0,2.0,1.0,0.0,1.0,2.0,0.0,1.0,0.0,10.0
+North Goa,10.4.1,Number of Immunisation sessions planned to be held during the month,TOTAL,291.0,279.0,283.0,291.0,287.0,280.0,272.0,282.0,279.0,274.0,278.0,280.0,3376.0
+North Goa,10.4.2,Number of Immunisation sessions held during the month,TOTAL,291.0,279.0,283.0,291.0,287.0,280.0,272.0,282.0,279.0,274.0,278.0,280.0,3376.0
+North Goa,10.4.3,Number of Immunisation sessions held during the month where ASHAs were present,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,10.5.1,Number of children (more than 16 months old) received Japanese Encephalitis (JE) vaccination,TOTAL,984.0,911.0,1003.0,954.0,866.0,841.0,1139.0,1033.0,903.0,1065.0,841.0,941.0,11481.0
+North Goa,11.1.1,Number of children (9 months to 5 years old) administered 1st dose of Vitamin A (Dose-1),TOTAL,942.0,625.0,520.0,930.0,1166.0,1018.0,1146.0,948.0,917.0,1267.0,852.0,908.0,11239.0
+North Goa,11.1.2,Number of children (9 months to 5 years old) were administered 5th dose of Vitamin A (Dose-5),TOTAL,585.0,405.0,302.0,692.0,794.0,618.0,719.0,555.0,531.0,621.0,625.0,617.0,7064.0
+North Goa,11.1.3,Number of children (9 months to 5 years old) administered 9th dose of Vitamin A (Dose-9),TOTAL,772.0,521.0,390.0,858.0,831.0,766.0,804.0,906.0,687.0,988.0,704.0,638.0,8865.0
+North Goa,12.1,Number of cases of Diptheria reported in children below 5 years of age,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,12.2,Number of cases of Pertusis reported in children below 5 years of age,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,12.3,Number of cases of Tetanus neonatarum reported in children below 5 years of age,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,12.4,Number of cases of Tetanus other than neonatarum reported in children below 5 years of age,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,12.5,Number of cases of Polio reported in children below 5 years of age,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,12.6,Number of cases of Measles reported in children below 5 years of age,TOTAL,1.0,1.0,2.0,1.0,0.0,0.0,1.0,2.0,5.0,7.0,1.0,5.0,26.0
+North Goa,12.7,Number of cases of Diarrhoea and Dehydration reported in children below 5 years of age,TOTAL,45.0,43.0,65.0,130.0,71.0,74.0,55.0,46.0,79.0,89.0,65.0,50.0,812.0
+North Goa,12.8,Number of cases of Malaria reported in children below 5 years of age,TOTAL,0.0,2.0,4.0,6.0,6.0,9.0,4.0,4.0,0.0,3.0,4.0,0.0,42.0
+North Goa,12.9,Number of children below 5 years of age admitted with Respiratory Infections,TOTAL,55.0,20.0,49.0,42.0,193.0,86.0,141.0,133.0,122.0,105.0,118.0,80.0,1144.0
+North Goa,13.1,Number of Patients operated for cataract,TOTAL,68.0,257.0,123.0,81.0,74.0,468.0,554.0,76.0,76.0,158.0,120.0,81.0,2136.0
+North Goa,13.2,Number of Intraocular Lens(IOL) implantations,TOTAL,68.0,63.0,67.0,68.0,53.0,101.0,103.0,76.0,76.0,155.0,120.0,81.0,1031.0
+North Goa,13.3,Number of School children detected with Refractive errors,TOTAL,11.0,7.0,27.0,88.0,32.0,52.0,37.0,15.0,19.0,20.0,20.0,20.0,348.0
+North Goa,13.4,Number of children provided free glasses,TOTAL,6.0,2.0,8.0,31.0,24.0,18.0,5.0,0.0,0.0,2.0,0.0,0.0,96.0
+North Goa,13.5,Number of eyes collected through eye donation,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,13.6,Number of eyes utilised for corneal transplant,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,14.01,Number of CHC or SDH or DH functioning as First Referral units (FRUs),TOTAL,5.0,4.0,6.0,5.0,4.0,5.0,4.0,3.0,3.0,3.0,3.0,4.0,-1.0
+North Goa,14.02,Number of PHCs functioning 24X7 with atleast 3 Staff Nurses,TOTAL,11.0,11.0,11.0,11.0,12.0,12.0,12.0,12.0,12.0,12.0,12.0,13.0,-1.0
+North Goa,14.03,Number of Anganwadi centres reported to have conducted VHNDs,TOTAL,351.0,333.0,345.0,393.0,348.0,344.0,347.0,330.0,333.0,357.0,324.0,353.0,-1.0
+North Goa,14.04,Number of facilities having a Rogi Kalyan Samiti (RKS),TOTAL,2.0,2.0,3.0,3.0,2.0,3.0,2.0,1.0,1.0,1.0,1.0,2.0,-1.0
+North Goa,14.05,Number of RKS meetings held during the month,TOTAL,0.0,1.0,1.0,2.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,7.0
+North Goa,14.06,Number of facilities having Ambulance services (Assured Referral Services),TOTAL,18.0,17.0,16.0,19.0,18.0,19.0,17.0,16.0,17.0,16.0,16.0,16.0,-1.0
+North Goa,14.07,Total Number of times the Ambulance was used for transporting patients during the month,TOTAL,897.0,987.0,808.0,736.0,762.0,973.0,571.0,618.0,736.0,831.0,666.0,938.0,9523.0
+North Goa,14.08,Number of Institutions having Operational Sick New Born and Child Care Units (SNCU),TOTAL,4.0,4.0,3.0,3.0,2.0,3.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0
+North Goa,14.09,Number of functional Laproscopes in CHC/SDH/DH,TOTAL,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0
+North Goa,14.10.1.a,Number of male patients admitted (Inpatients) during the month,1. Children,219.0,245.0,280.0,301.0,289.0,248.0,261.0,289.0,241.0,241.0,239.0,277.0,3130.0
+North Goa,14.10.1.a,Number of male patients admitted (Inpatients) during the month,2. Adults,864.0,919.0,1014.0,826.0,935.0,943.0,957.0,886.0,796.0,843.0,844.0,921.0,10748.0
+North Goa,14.10.1.b,Number of female patients (Inpatients) admitted during the month,1. Children,173.0,164.0,184.0,227.0,205.0,211.0,642.0,224.0,194.0,218.0,179.0,199.0,2820.0
+North Goa,14.10.1.b,Number of female patients (Inpatients) admitted during the month,2. Adults,1658.0,1714.0,1565.0,1508.0,1144.0,1684.0,1261.0,1673.0,1526.0,1431.0,1494.0,1536.0,18194.0
+North Goa,14.10.1.c,Total number of patients admitted (Inpatients) during the month (sum of items 14.10.1.a and 14.10.1.b),1. Children,392.0,409.0,464.0,528.0,494.0,459.0,903.0,513.0,435.0,459.0,418.0,476.0,5950.0
+North Goa,14.10.1.c,Total number of patients admitted (Inpatients) during the month (sum of items 14.10.1.a and 14.10.1.b),2. Adults,2522.0,2633.0,2579.0,2334.0,2079.0,2627.0,2218.0,2559.0,2322.0,2274.0,2338.0,2457.0,28942.0
+North Goa,14.10.2.a,Number of death cases of Inpatient males,TOTAL,19.0,24.0,32.0,20.0,25.0,20.0,17.0,11.0,12.0,12.0,19.0,20.0,231.0
+North Goa,14.10.2.b,Number of death cases of Inpatient females,TOTAL,7.0,4.0,11.0,18.0,12.0,8.0,9.0,8.0,12.0,6.0,8.0,4.0,107.0
+North Goa,14.10.2.c,Number of cases of death of Inpatients (sum of items 14.10.2.a and 14.10.2.b),TOTAL,26.0,28.0,43.0,38.0,37.0,28.0,26.0,19.0,24.0,18.0,27.0,24.0,338.0
+North Goa,14.11,In-Patient Head Count at midnight,TOTAL,1997.0,1357.0,1518.0,6361.0,5686.0,5223.0,5750.0,5367.0,662.0,5791.0,5420.0,5739.0,50871.0
+North Goa,14.12.1,OPD attendance (All),TOTAL,49486.0,47059.0,54931.0,58046.0,58451.0,57944.0,57500.0,47179.0,49787.0,56618.0,55137.0,39803.0,631941.0
+North Goa,14.13.1,Number of major operations carried out using general or spinal anaesthesia,TOTAL,298.0,405.0,362.0,447.0,418.0,414.0,378.0,376.0,383.0,255.0,273.0,426.0,4435.0
+North Goa,14.13.1A,"Out of 14.13.1,Gynecology- Hysterectomy surgeries",TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,0.0,0.0,0.0,0.0,38.0
+North Goa,14.13.2,Number of minor operations carried out without anaesthesia or using local anaesthesia,TOTAL,708.0,463.0,570.0,497.0,488.0,382.0,599.0,457.0,430.0,226.0,401.0,321.0,5542.0
+North Goa,14.14.a,Number of patients given AYUSH treatment,TOTAL,739.0,775.0,949.0,1113.0,1542.0,1347.0,1058.0,1494.0,1409.0,1649.0,1510.0,1687.0,15272.0
+North Goa,14.14.b,Number of patients on whom Dental Procedure was conducted,TOTAL,610.0,648.0,656.0,780.0,776.0,771.0,765.0,684.0,522.0,797.0,707.0,794.0,8510.0
+North Goa,14.14.c,Number of Adolescents counselled,TOTAL,117.0,112.0,305.0,295.0,283.0,287.0,318.0,197.0,200.0,119.0,91.0,180.0,2504.0
+North Goa,15.1.1.a,Number of Haemoglobin (Hb) tests conducted,TOTAL,4428.0,3205.0,4732.0,4704.0,3714.0,3524.0,3341.0,3090.0,3288.0,2962.0,3846.0,3781.0,44615.0
+North Goa,15.1.1.b,"Out of the total number of Hb tests conducted, number of cases having Hb less than 7gm/dl",TOTAL,13.0,14.0,80.0,18.0,9.0,13.0,9.0,18.0,4.0,5.0,11.0,74.0,268.0
+North Goa,15.1.2.a,Number of HIV tests conducted on males,1. Number tested,747.0,756.0,691.0,925.0,1216.0,806.0,799.0,967.0,792.0,541.0,821.0,679.0,9740.0
+North Goa,15.1.2.a,Number of HIV tests conducted on males,2. Number Positive,6.0,7.0,4.0,7.0,6.0,9.0,8.0,0.0,6.0,1.0,5.0,7.0,66.0
+North Goa,15.1.2.b,Number of HIV tests conducted on Female-Non ANC (i.e. non pregnant females),1. Number tested,651.0,498.0,786.0,599.0,776.0,662.0,815.0,781.0,509.0,623.0,693.0,667.0,8060.0
+North Goa,15.1.2.b,Number of HIV tests conducted on Female-Non ANC (i.e. non pregnant females),2. Number Positive,4.0,4.0,3.0,9.0,1.0,5.0,5.0,3.0,3.0,2.0,4.0,1.0,44.0
+North Goa,15.1.2.c,Number of HIV tests conducted on Female with ANC (i.e. pregnant females),1. Number tested,685.0,642.0,746.0,775.0,769.0,787.0,864.0,816.0,765.0,792.0,749.0,742.0,9132.0
+North Goa,15.1.2.c,Number of HIV tests conducted on Female with ANC (i.e. pregnant females),2. Number Positive,3.0,5.0,0.0,1.0,3.0,23.0,53.0,0.0,0.0,0.0,1.0,3.0,92.0
+North Goa,15.1.2.d,Total number of HIV tests conducted (sum of items 15.1.2.a to 15.1.2.c),1. Number tested,2083.0,1896.0,2223.0,2299.0,2761.0,2255.0,2478.0,2564.0,2066.0,1956.0,2263.0,2088.0,26932.0
+North Goa,15.1.2.d,Total number of HIV tests conducted (sum of items 15.1.2.a to 15.1.2.c),2. Number Positive,13.0,16.0,7.0,17.0,10.0,37.0,66.0,3.0,9.0,3.0,10.0,11.0,202.0
+North Goa,15.2,Number of Widal tests conducted,Number tested,62.0,92.0,77.0,122.0,99.0,83.0,77.0,107.0,65.0,51.0,49.0,32.0,916.0
+North Goa,15.3.a,Number of VDRL tests conducted on males,Number tested,164.0,398.0,309.0,244.0,317.0,379.0,412.0,403.0,334.0,262.0,433.0,219.0,3874.0
+North Goa,15.3.b,Number of VDRL tests conducted on Female-Non ANC (i.e. non pregnant females),Number tested,124.0,398.0,404.0,156.0,145.0,474.0,379.0,485.0,122.0,137.0,314.0,207.0,3345.0
+North Goa,15.3.c,Number of VDRL tests conducted on Female with ANC (i.e. pregnant females),Number tested,462.0,496.0,519.0,584.0,594.0,478.0,663.0,588.0,591.0,560.0,548.0,487.0,6570.0
+North Goa,15.3.d,Total number of VDRL tests conducted (sum of items 15.3.a to 15.3.c),Number tested,750.0,1292.0,1232.0,984.0,1056.0,1331.0,1454.0,1476.0,1047.0,959.0,1295.0,913.0,13789.0
+North Goa,15.4.1,Number of blood smears examined for Malaria,TOTAL,21394.0,15455.0,26215.0,29426.0,26028.0,21923.0,22496.0,21302.0,23243.0,22447.0,21678.0,16859.0,268466.0
+North Goa,15.4.2,"Out of blood smears examined for malaria, number of blood smears tested positive for Plasmodium Vivax",TOTAL,97.0,51.0,184.0,292.0,326.0,332.0,193.0,180.0,182.0,112.0,65.0,62.0,2076.0
+North Goa,15.4.3,"Out of blood smears examined for malaria, number of blood smears tested positive for Plasmodium Falciparum",TOTAL,4.0,7.0,4.0,30.0,32.0,26.0,35.0,29.0,16.0,1.0,6.0,9.0,199.0
+North Goa,16.1.1,Stock position of DPT vaccines,1. Balance From Previous Month,,,,,,,,,,,,,
+North Goa,16.1.1,Stock position of DPT vaccines,2. Stocks Received,,,,,,,,,,,,,
+North Goa,16.1.1,Stock position of DPT vaccines,3. Unusable Stock,,,,,,,,,,,,,
+North Goa,16.1.1,Stock position of DPT vaccines,4. Stock Distributed,,,,,,,,,,,,,
+North Goa,16.1.1,Stock position of DPT vaccines,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,16.1.1A,Stock Position of Pentavalent,1. Balance From Previous Month,,,,,,,,,,,,,
+North Goa,16.1.1A,Stock Position of Pentavalent,2. Stocks Received,,,,,,,,,,,,,
+North Goa,16.1.1A,Stock Position of Pentavalent,3. Unusable Stock,,,,,,,,,,,,,
+North Goa,16.1.1A,Stock Position of Pentavalent,4. Stock Distributed,,,,,,,,,,,,,
+North Goa,16.1.1A,Stock Position of Pentavalent,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,16.1.2,Stock position of OPV vaccines,1. Balance From Previous Month,,,,,,,,,,,,,
+North Goa,16.1.2,Stock position of OPV vaccines,2. Stocks Received,,,,,,,,,,,,,
+North Goa,16.1.2,Stock position of OPV vaccines,3. Unusable Stock,,,,,,,,,,,,,
+North Goa,16.1.2,Stock position of OPV vaccines,4. Stock Distributed,,,,,,,,,,,,,
+North Goa,16.1.2,Stock position of OPV vaccines,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,16.1.3,Stock position of TT vaccines,1. Balance From Previous Month,,,,,,,,,,,,,
+North Goa,16.1.3,Stock position of TT vaccines,2. Stocks Received,,,,,,,,,,,,,
+North Goa,16.1.3,Stock position of TT vaccines,3. Unusable Stock,,,,,,,,,,,,,
+North Goa,16.1.3,Stock position of TT vaccines,4. Stock Distributed,,,,,,,,,,,,,
+North Goa,16.1.3,Stock position of TT vaccines,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,16.1.4,Stock position of DT vaccines,1. Balance From Previous Month,,,,,,,,,,,,,
+North Goa,16.1.4,Stock position of DT vaccines,2. Stocks Received,,,,,,,,,,,,,
+North Goa,16.1.4,Stock position of DT vaccines,3. Unusable Stock,,,,,,,,,,,,,
+North Goa,16.1.4,Stock position of DT vaccines,4. Stock Distributed,,,,,,,,,,,,,
+North Goa,16.1.4,Stock position of DT vaccines,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,16.1.5,Stock position of BCG vaccines,1. Balance From Previous Month,,,,,,,,,,,,,
+North Goa,16.1.5,Stock position of BCG vaccines,2. Stocks Received,,,,,,,,,,,,,
+North Goa,16.1.5,Stock position of BCG vaccines,3. Unusable Stock,,,,,,,,,,,,,
+North Goa,16.1.5,Stock position of BCG vaccines,4. Stock Distributed,,,,,,,,,,,,,
+North Goa,16.1.5,Stock position of BCG vaccines,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,16.1.6,Stock position of Measles vaccines,1. Balance From Previous Month,,,,,,,,,,,,,
+North Goa,16.1.6,Stock position of Measles vaccines,2. Stocks Received,,,,,,,,,,,,,
+North Goa,16.1.6,Stock position of Measles vaccines,3. Unusable Stock,,,,,,,,,,,,,
+North Goa,16.1.6,Stock position of Measles vaccines,4. Stock Distributed,,,,,,,,,,,,,
+North Goa,16.1.6,Stock position of Measles vaccines,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,16.1.7,Stock position of JE vaccines,1. Balance From Previous Month,,,,,,,,,,,,,
+North Goa,16.1.7,Stock position of JE vaccines,2. Stocks Received,,,,,,,,,,,,,
+North Goa,16.1.7,Stock position of JE vaccines,3. Unusable Stock,,,,,,,,,,,,,
+North Goa,16.1.7,Stock position of JE vaccines,4. Stock Distributed,,,,,,,,,,,,,
+North Goa,16.1.7,Stock position of JE vaccines,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,16.1.8,Stock position of Hepatitis B vaccines,1. Balance From Previous Month,,,,,,,,,,,,,
+North Goa,16.1.8,Stock position of Hepatitis B vaccines,2. Stocks Received,,,,,,,,,,,,,
+North Goa,16.1.8,Stock position of Hepatitis B vaccines,3. Unusable Stock,,,,,,,,,,,,,
+North Goa,16.1.8,Stock position of Hepatitis B vaccines,4. Stock Distributed,,,,,,,,,,,,,
+North Goa,16.1.8,Stock position of Hepatitis B vaccines,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,16.2.1,Stock Position of IU 380 A (to be used for Family Planning),1. Balance From Previous Month,,,,,,,,,,,,,
+North Goa,16.2.1,Stock Position of IU 380 A (to be used for Family Planning),2. Stocks Received,,,,,,,,,,,,,
+North Goa,16.2.1,Stock Position of IU 380 A (to be used for Family Planning),3. Unusable Stock,,,,,,,,,,,,,
+North Goa,16.2.1,Stock Position of IU 380 A (to be used for Family Planning),4. Stock Distributed,,,,,,,,,,,,,
+North Goa,16.2.1,Stock Position of IU 380 A (to be used for Family Planning),5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,16.2.2,Stock Position of Condoms (to be used for Family Planning),1. Balance From Previous Month,,,,,,,,,,,,,
+North Goa,16.2.2,Stock Position of Condoms (to be used for Family Planning),2. Stocks Received,,,,,,,,,,,,,
+North Goa,16.2.2,Stock Position of Condoms (to be used for Family Planning),3. Unusable Stock,,,,,,,,,,,,,
+North Goa,16.2.2,Stock Position of Condoms (to be used for Family Planning),4. Stock Distributed,,,,,,,,,,,,,
+North Goa,16.2.2,Stock Position of Condoms (to be used for Family Planning),5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,16.2.3,Stock Position of Oral Contraceptive (to be used for Family Planning),1. Balance From Previous Month,,,,,,,,,,,,,
+North Goa,16.2.3,Stock Position of Oral Contraceptive (to be used for Family Planning),2. Stocks Received,,,,,,,,,,,,,
+North Goa,16.2.3,Stock Position of Oral Contraceptive (to be used for Family Planning),3. Unusable Stock,,,,,,,,,,,,,
+North Goa,16.2.3,Stock Position of Oral Contraceptive (to be used for Family Planning),4. Stock Distributed,,,,,,,,,,,,,
+North Goa,16.2.3,Stock Position of Oral Contraceptive (to be used for Family Planning),5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,16.2.4,Stock Position of Emergency Contraceptive (to be used for Family Planning),1. Balance From Previous Month,,,,,,,,,,,,,
+North Goa,16.2.4,Stock Position of Emergency Contraceptive (to be used for Family Planning),2. Stocks Received,,,,,,,,,,,,,
+North Goa,16.2.4,Stock Position of Emergency Contraceptive (to be used for Family Planning),3. Unusable Stock,,,,,,,,,,,,,
+North Goa,16.2.4,Stock Position of Emergency Contraceptive (to be used for Family Planning),4. Stock Distributed,,,,,,,,,,,,,
+North Goa,16.2.4,Stock Position of Emergency Contraceptive (to be used for Family Planning),5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,16.2.5,Stock Position of Tubal Rings (to be used for Family Planning),1. Balance From Previous Month,,,,,,,,,,,,,
+North Goa,16.2.5,Stock Position of Tubal Rings (to be used for Family Planning),2. Stocks Received,,,,,,,,,,,,,
+North Goa,16.2.5,Stock Position of Tubal Rings (to be used for Family Planning),3. Unusable Stock,,,,,,,,,,,,,
+North Goa,16.2.5,Stock Position of Tubal Rings (to be used for Family Planning),4. Stock Distributed,,,,,,,,,,,,,
+North Goa,16.2.5,Stock Position of Tubal Rings (to be used for Family Planning),5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,16.3.01,Stock Position of Oxytocin Injection,1. Balance From Previous Month,,,,,,,,,,,,,
+North Goa,16.3.01,Stock Position of Oxytocin Injection,2. Stocks Received,,,,,,,,,,,,,
+North Goa,16.3.01,Stock Position of Oxytocin Injection,3. Unusable Stock,,,,,,,,,,,,,
+North Goa,16.3.01,Stock Position of Oxytocin Injection,4. Stock Distributed,,,,,,,,,,,,,
+North Goa,16.3.01,Stock Position of Oxytocin Injection,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,16.3.02,Stock Position of Gloves,1. Balance From Previous Month,,,,,,,,,,,,,
+North Goa,16.3.02,Stock Position of Gloves,2. Stocks Received,,,,,,,,,,,,,
+North Goa,16.3.02,Stock Position of Gloves,3. Unusable Stock,,,,,,,,,,,,,
+North Goa,16.3.02,Stock Position of Gloves,4. Stock Distributed,,,,,,,,,,,,,
+North Goa,16.3.02,Stock Position of Gloves,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,16.3.03,Stock Position of MVA Syringes,1. Balance From Previous Month,,,,,,,,,,,,,
+North Goa,16.3.03,Stock Position of MVA Syringes,2. Stocks Received,,,,,,,,,,,,,
+North Goa,16.3.03,Stock Position of MVA Syringes,3. Unusable Stock,,,,,,,,,,,,,
+North Goa,16.3.03,Stock Position of MVA Syringes,4. Stock Distributed,,,,,,,,,,,,,
+North Goa,16.3.03,Stock Position of MVA Syringes,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,16.3.04,Stock Position of Fluconazole Tablets,1. Balance From Previous Month,,,,,,,,,,,,,
+North Goa,16.3.04,Stock Position of Fluconazole Tablets,2. Stocks Received,,,,,,,,,,,,,
+North Goa,16.3.04,Stock Position of Fluconazole Tablets,3. Unusable Stock,,,,,,,,,,,,,
+North Goa,16.3.04,Stock Position of Fluconazole Tablets,4. Stock Distributed,,,,,,,,,,,,,
+North Goa,16.3.04,Stock Position of Fluconazole Tablets,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,16.3.05,Stock Position of Blood Transfusion Sets,1. Balance From Previous Month,,,,,,,,,,,,,
+North Goa,16.3.05,Stock Position of Blood Transfusion Sets,2. Stocks Received,,,,,,,,,,,,,
+North Goa,16.3.05,Stock Position of Blood Transfusion Sets,3. Unusable Stock,,,,,,,,,,,,,
+North Goa,16.3.05,Stock Position of Blood Transfusion Sets,4. Stock Distributed,,,,,,,,,,,,,
+North Goa,16.3.05,Stock Position of Blood Transfusion Sets,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,16.3.06,Stock Position of Gluteraldehyde solution of 2% concentration,1. Balance From Previous Month,,,,,,,,,,,,,
+North Goa,16.3.06,Stock Position of Gluteraldehyde solution of 2% concentration,2. Stocks Received,,,,,,,,,,,,,
+North Goa,16.3.06,Stock Position of Gluteraldehyde solution of 2% concentration,3. Unusable Stock,,,,,,,,,,,,,
+North Goa,16.3.06,Stock Position of Gluteraldehyde solution of 2% concentration,4. Stock Distributed,,,,,,,,,,,,,
+North Goa,16.3.06,Stock Position of Gluteraldehyde solution of 2% concentration,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,16.3.07,Stock Position of IFA Tablets,1. Balance From Previous Month,,,,,,,,,,,,,
+North Goa,16.3.07,Stock Position of IFA Tablets,2. Stocks Received,,,,,,,,,,,,,
+North Goa,16.3.07,Stock Position of IFA Tablets,3. Unusable Stock,,,,,,,,,,,,,
+North Goa,16.3.07,Stock Position of IFA Tablets,4. Stock Distributed,,,,,,,,,,,,,
+North Goa,16.3.07,Stock Position of IFA Tablets,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,16.3.08,Stock Position of IFA Syrup (Paediatric),1. Balance From Previous Month,,,,,,,,,,,,,
+North Goa,16.3.08,Stock Position of IFA Syrup (Paediatric),2. Stocks Received,,,,,,,,,,,,,
+North Goa,16.3.08,Stock Position of IFA Syrup (Paediatric),3. Unusable Stock,,,,,,,,,,,,,
+North Goa,16.3.08,Stock Position of IFA Syrup (Paediatric),4. Stock Distributed,,,,,,,,,,,,,
+North Goa,16.3.08,Stock Position of IFA Syrup (Paediatric),5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,16.3.09,Stock Position of Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),1. Balance From Previous Month,,,,,,,,,,,,,
+North Goa,16.3.09,Stock Position of Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),2. Stocks Received,,,,,,,,,,,,,
+North Goa,16.3.09,Stock Position of Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),3. Unusable Stock,,,,,,,,,,,,,
+North Goa,16.3.09,Stock Position of Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),4. Stock Distributed,,,,,,,,,,,,,
+North Goa,16.3.09,Stock Position of Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,16.3.10,Stock Position of Vitamin A solution,1. Balance From Previous Month,,,,,,,,,,,,,
+North Goa,16.3.10,Stock Position of Vitamin A solution,2. Stocks Received,,,,,,,,,,,,,
+North Goa,16.3.10,Stock Position of Vitamin A solution,3. Unusable Stock,,,,,,,,,,,,,
+North Goa,16.3.10,Stock Position of Vitamin A solution,4. Stock Distributed,,,,,,,,,,,,,
+North Goa,16.3.10,Stock Position of Vitamin A solution,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,16.3.11,Stock of ORS (New WHO formulation),1. Balance From Previous Month,,,,,,,,,,,,,
+North Goa,16.3.11,Stock of ORS (New WHO formulation),2. Stocks Received,,,,,,,,,,,,,
+North Goa,16.3.11,Stock of ORS (New WHO formulation),3. Unusable Stock,,,,,,,,,,,,,
+North Goa,16.3.11,Stock of ORS (New WHO formulation),4. Stock Distributed,,,,,,,,,,,,,
+North Goa,16.3.11,Stock of ORS (New WHO formulation),5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,16.4.1,Stock Position of 0.1 ml Syringes(AD),1. Balance From Previous Month,,,,,,,,,,,,,
+North Goa,16.4.1,Stock Position of 0.1 ml Syringes(AD),2. Stocks Received,,,,,,,,,,,,,
+North Goa,16.4.1,Stock Position of 0.1 ml Syringes(AD),3. Unusable Stock,,,,,,,,,,,,,
+North Goa,16.4.1,Stock Position of 0.1 ml Syringes(AD),4. Stock Distributed,,,,,,,,,,,,,
+North Goa,16.4.1,Stock Position of 0.1 ml Syringes(AD),5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,16.4.2,Stock Position of 0.5 ml Syringes(AD),1. Balance From Previous Month,,,,,,,,,,,,,
+North Goa,16.4.2,Stock Position of 0.5 ml Syringes(AD),2. Stocks Received,,,,,,,,,,,,,
+North Goa,16.4.2,Stock Position of 0.5 ml Syringes(AD),3. Unusable Stock,,,,,,,,,,,,,
+North Goa,16.4.2,Stock Position of 0.5 ml Syringes(AD),4. Stock Distributed,,,,,,,,,,,,,
+North Goa,16.4.2,Stock Position of 0.5 ml Syringes(AD),5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,16.4.3,Stock Position of 5.0 ml Syringes(Disposable),1. Balance From Previous Month,,,,,,,,,,,,,
+North Goa,16.4.3,Stock Position of 5.0 ml Syringes(Disposable),2. Stocks Received,,,,,,,,,,,,,
+North Goa,16.4.3,Stock Position of 5.0 ml Syringes(Disposable),3. Unusable Stock,,,,,,,,,,,,,
+North Goa,16.4.3,Stock Position of 5.0 ml Syringes(Disposable),4. Stock Distributed,,,,,,,,,,,,,
+North Goa,16.4.3,Stock Position of 5.0 ml Syringes(Disposable),5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+North Goa,17.1,Number of cases of Infant deaths within 24 hrs of birth,TOTAL,,,,,,1.0,,,,5.0,2.0,,8.0
+North Goa,17.2.1,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being Sepsis,1. Up to 1 Weeks of Birth,,,,,,,,,,,,1.0,1.0
+North Goa,17.2.1,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being Sepsis,2. Between 1 week & 4 weeks of birth,,,,,,,,,,,,,
+North Goa,17.2.1,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being Sepsis,3. Total,,,,,,,,,,,,1.0,1.0
+North Goa,17.2.2,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being Asphyxia,1. Up to 1 Weeks of Birth,,,,,,,,,,,,,
+North Goa,17.2.2,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being Asphyxia,2. Between 1 week & 4 weeks of birth,,,,,,,,,,,,,
+North Goa,17.2.2,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being Asphyxia,3. Total,,,,,,,,,,,,,
+North Goa,17.2.3,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being LBW,1. Up to 1 Weeks of Birth,,,,,7.0,,,,,,,,7.0
+North Goa,17.2.3,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being LBW,2. Between 1 week & 4 weeks of birth,,,,,,,,,,,,,
+North Goa,17.2.3,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being LBW,3. Total,,,,,7.0,,,,,,,,7.0
+North Goa,17.2.4,"Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being other than Sepsis, Asphyxia and LBW",1. Up to 1 Weeks of Birth,,,,,2.0,,,11.0,3.0,,,,16.0
+North Goa,17.2.4,"Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being other than Sepsis, Asphyxia and LBW",2. Between 1 week & 4 weeks of birth,,1.0,,,,,,,,,,,1.0
+North Goa,17.2.4,"Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being other than Sepsis, Asphyxia and LBW",3. Total,,1.0,,,2.0,,,11.0,3.0,,,,17.0
+North Goa,17.3.1,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Pneumonia,1. Between 1 month and 11 months,,,,,1.0,,,,,,1.0,2.0,4.0
+North Goa,17.3.1,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Pneumonia,2. Between 1 year & 5 years,,,,,,,,,,,,1.0,1.0
+North Goa,17.3.1,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Pneumonia,3. Total,,,,,1.0,,,,,,1.0,3.0,5.0
+North Goa,17.3.2,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Diarrhoea,1. Between 1 month and 11 months,,,,,,,,,,,,,
+North Goa,17.3.2,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Diarrhoea,2. Between 1 year & 5 years,,,,,,,,,,,,,
+North Goa,17.3.2,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Diarrhoea,3. Total,,,,,,,,,,,,,
+North Goa,17.3.3,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Fever related,1. Between 1 month and 11 months,,,,,,,,,,,,,
+North Goa,17.3.3,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Fever related,2. Between 1 year & 5 years,,,,,,,,,,,,,
+North Goa,17.3.3,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Fever related,3. Total,,,,,,,,,,,,,
+North Goa,17.3.4,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Measles,1. Between 1 month and 11 months,,,,,,,,,,,,,
+North Goa,17.3.4,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Measles,2. Between 1 year & 5 years,,,,,,,,,,,,,
+North Goa,17.3.4,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Measles,3. Total,,,,,,,,,,,,,
+North Goa,17.3.5,"Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being other than Pneumonia, Diarrhoea, Fever related and Measles",1. Between 1 month and 11 months,,,,,3.0,,,,2.0,,,2.0,7.0
+North Goa,17.3.5,"Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being other than Pneumonia, Diarrhoea, Fever related and Measles",2. Between 1 year & 5 years,,,,,,,,,,,,,
+North Goa,17.3.5,"Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being other than Pneumonia, Diarrhoea, Fever related and Measles",3. Total,,,,,3.0,,,,2.0,,,2.0,7.0
+North Goa,17.4.1,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Diarrhoeal diseases,1. 6-14 yrs,,,,,,,,,,,,,
+North Goa,17.4.1,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Diarrhoeal diseases,2. 15-55 yrs.,,,,,,,,,,1.0,,,1.0
+North Goa,17.4.1,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Diarrhoeal diseases,3. Above 55 yrs.,,,,,,,,,1.0,,,,1.0
+North Goa,17.4.1,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Diarrhoeal diseases,4. Total,,,,,,,,,1.0,1.0,,,2.0
+North Goa,17.4.2,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Tuberculosis,1. 6-14 yrs,,,,,,,,,,,,,
+North Goa,17.4.2,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Tuberculosis,2. 15-55 yrs.,,,,,,,,,1.0,,,,1.0
+North Goa,17.4.2,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Tuberculosis,3. Above 55 yrs.,2.0,,,1.0,,,,,,,,,3.0
+North Goa,17.4.2,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Tuberculosis,4. Total,2.0,,,1.0,,,,,1.0,,,,4.0
+North Goa,17.4.3,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Respiratory diseases including infections,1. 6-14 yrs,,,,,,,,,,,,,
+North Goa,17.4.3,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Respiratory diseases including infections,2. 15-55 yrs.,,1.0,1.0,,,,,1.0,,,1.0,1.0,5.0
+North Goa,17.4.3,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Respiratory diseases including infections,3. Above 55 yrs.,2.0,,,2.0,,,,2.0,1.0,,1.0,5.0,13.0
+North Goa,17.4.3,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Respiratory diseases including infections,4. Total,2.0,1.0,1.0,2.0,,,,3.0,1.0,,2.0,6.0,18.0
+North Goa,17.4.4,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Malaria,1. 6-14 yrs,,,,,,,,,,,,,
+North Goa,17.4.4,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Malaria,2. 15-55 yrs.,,,,,,,,,,,,,
+North Goa,17.4.4,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Malaria,3. Above 55 yrs.,,,,,,,,,,,,,
+North Goa,17.4.4,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Malaria,4. Total,,,,,,,,,,,,,
+North Goa,17.4.5,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being other Fever related,1. 6-14 yrs,,1.0,,,,,,,,,,,1.0
+North Goa,17.4.5,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being other Fever related,2. 15-55 yrs.,,,,,,,,,,,,,
+North Goa,17.4.5,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being other Fever related,3. Above 55 yrs.,,,,,,,,,,,,,
+North Goa,17.4.5,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being other Fever related,4. Total,,1.0,,,,,,,,,,,1.0
+North Goa,17.4.6,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being HIV/AIDS,1. 6-14 yrs,,,,,,,,,,,,,
+North Goa,17.4.6,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being HIV/AIDS,2. 15-55 yrs.,,,,,,,,,,,,,
+North Goa,17.4.6,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being HIV/AIDS,3. Above 55 yrs.,,,,,,,,,,,,,
+North Goa,17.4.6,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being HIV/AIDS,4. Total,,,,,,,,,,,,,
+North Goa,17.4.7,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Heart disease or related to Hypertension,1. 6-14 yrs,,,,,,,,,,,,,
+North Goa,17.4.7,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Heart disease or related to Hypertension,2. 15-55 yrs.,3.0,3.0,5.0,3.0,4.0,,6.0,2.0,4.0,2.0,2.0,1.0,35.0
+North Goa,17.4.7,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Heart disease or related to Hypertension,3. Above 55 yrs.,7.0,8.0,12.0,15.0,8.0,11.0,6.0,7.0,16.0,6.0,9.0,8.0,113.0
+North Goa,17.4.7,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Heart disease or related to Hypertension,4. Total,10.0,11.0,17.0,18.0,12.0,11.0,12.0,9.0,20.0,8.0,11.0,9.0,148.0
+North Goa,17.4.8,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Neurological disease including strokes,1. 6-14 yrs,,,,,,,,,,,,,
+North Goa,17.4.8,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Neurological disease including strokes,2. 15-55 yrs.,,,1.0,,,1.0,,,,,,,2.0
+North Goa,17.4.8,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Neurological disease including strokes,3. Above 55 yrs.,1.0,,,,1.0,,,,,,,1.0,3.0
+North Goa,17.4.8,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Neurological disease including strokes,4. Total,1.0,,1.0,,1.0,1.0,,,,,,1.0,5.0
+North Goa,17.4.9(a),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Abortion,1. 6-14 yrs,,,,,,,,,,,,,
+North Goa,17.4.9(a),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Abortion,2. 15-49 yrs,,,,,,,,,,,,,
+North Goa,17.4.9(a),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Abortion,3. Above 49 yrs.,,,,,,,,,,,,,
+North Goa,17.4.9(a),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Abortion,4. Total,,,,,,,,,,,,,
+North Goa,17.4.9(b),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Obstructed or prolonged labour,1. 6-14 yrs,,,,,,,,,,,,,
+North Goa,17.4.9(b),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Obstructed or prolonged labour,2. 15-49 yrs,,,,,,,,,,,,,
+North Goa,17.4.9(b),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Obstructed or prolonged labour,3. Above 49 yrs.,,,,,,,,,,,,,
+North Goa,17.4.9(b),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Obstructed or prolonged labour,4. Total,,,,,,,,,,,,,
+North Goa,17.4.9(c),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Severe hypertesnion or fits,1. 6-14 yrs,,,,,,,,,,,,,
+North Goa,17.4.9(c),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Severe hypertesnion or fits,2. 15-49 yrs,,,,,,,,,,,,,
+North Goa,17.4.9(c),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Severe hypertesnion or fits,3. Above 49 yrs.,,,,,,,,,,,,,
+North Goa,17.4.9(c),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Severe hypertesnion or fits,4. Total,,,,,,,,,,,,,
+North Goa,17.4.9(d),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Bleeding,1. 6-14 yrs,,,,,,,,,,,,,
+North Goa,17.4.9(d),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Bleeding,2. 15-49 yrs,,,,,1.0,,,,,1.0,,,2.0
+North Goa,17.4.9(d),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Bleeding,3. Above 49 yrs.,,,,,,,,,,,,,
+North Goa,17.4.9(d),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Bleeding,4. Total,,,,,1.0,,,,,1.0,,,2.0
+North Goa,17.4.9(e),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being High Fever,1. 6-14 yrs,,,,,,,,,,,,,
+North Goa,17.4.9(e),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being High Fever,2. 15-49 yrs,,,,,,,,,,,,,
+North Goa,17.4.9(e),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being High Fever,3. Above 49 yrs.,,,,,,,,,,,,,
+North Goa,17.4.9(e),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being High Fever,4. Total,,,,,,,,,,,,,
+North Goa,17.4.9(f),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being other causes (excluding abortion; obstructed or prolonged labour; severe hypertension or fits;,1. 6-14 yrs,,,,,,,,,,,,,
+North Goa,17.4.9(f),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being other causes (excluding abortion; obstructed or prolonged labour; severe hypertension or fits;,2. 15-49 yrs,,1.0,,,,,,,1.0,,,2.0,4.0
+North Goa,17.4.9(f),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being other causes (excluding abortion; obstructed or prolonged labour; severe hypertension or fits;,3. Above 49 yrs.,,,,,,,,,,,,,
+North Goa,17.4.9(f),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being other causes (excluding abortion; obstructed or prolonged labour; severe hypertension or fits;,4. Total,,1.0,,,,,,,1.0,,,2.0,4.0
+North Goa,17.4.10,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Trauma or Accidents or Burn cases,1. 6-14 yrs,,,,,,,,,,,,,
+North Goa,17.4.10,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Trauma or Accidents or Burn cases,2. 15-55 yrs.,,,,,2.0,,,,,,,2.0,4.0
+North Goa,17.4.10,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Trauma or Accidents or Burn cases,3. Above 55 yrs.,,,,,,,,1.0,1.0,,,,2.0
+North Goa,17.4.10,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Trauma or Accidents or Burn cases,4. Total,,,,,2.0,,,1.0,1.0,,,2.0,6.0
+North Goa,17.4.11,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being suicide,1. 6-14 yrs,,,,,,,,,,,,,
+North Goa,17.4.11,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being suicide,2. 15-55 yrs.,,,1.0,,,,,,,,,,1.0
+North Goa,17.4.11,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being suicide,3. Above 55 yrs.,,,,,,,,,,,,,
+North Goa,17.4.11,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being suicide,4. Total,,,1.0,,,,,,,,,,1.0
+North Goa,17.4.12,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Animal bites and stings,1. 6-14 yrs,,,,,,,,,,,,,
+North Goa,17.4.12,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Animal bites and stings,2. 15-55 yrs.,,,,,,,,,,,,,
+North Goa,17.4.12,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Animal bites and stings,3. Above 55 yrs.,,,,,,,,,,,,,
+North Goa,17.4.12,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Animal bites and stings,4. Total,,,,,,,,,,,,,
+North Goa,17.4.13(a),Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Known Acute disease,1. 6-14 yrs,,,,,,,,,,,,,
+North Goa,17.4.13(a),Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Known Acute disease,2. 15-55 yrs.,3.0,1.0,2.0,4.0,1.0,1.0,2.0,2.0,1.0,,1.0,1.0,19.0
+North Goa,17.4.13(a),Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Known Acute disease,3. Above 55 yrs.,2.0,4.0,2.0,4.0,2.0,,,1.0,,1.0,2.0,,18.0
+North Goa,17.4.13(a),Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Known Acute disease,4. Total,5.0,5.0,4.0,8.0,3.0,1.0,2.0,3.0,1.0,1.0,3.0,1.0,37.0
+North Goa,17.4.13(b),Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Known Chronic disease,1. 6-14 yrs,,,,,,,,,,,,,
+North Goa,17.4.13(b),Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Known Chronic disease,2. 15-55 yrs.,5.0,,1.0,3.0,1.0,,,,,1.0,,,11.0
+North Goa,17.4.13(b),Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Known Chronic disease,3. Above 55 yrs.,2.0,3.0,7.0,3.0,3.0,1.0,2.0,2.0,1.0,,1.0,,25.0
+North Goa,17.4.13(b),Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Known Chronic disease,4. Total,7.0,3.0,8.0,6.0,4.0,1.0,2.0,2.0,1.0,1.0,1.0,,36.0
+North Goa,17.4.13(c),Number of cases of Adolescent or Adult deaths (age 6 years & above) where the cause was not known,1. 6-14 yrs,,,,,,,,,,,,,
+North Goa,17.4.13(c),Number of cases of Adolescent or Adult deaths (age 6 years & above) where the cause was not known,2. 15-55 yrs.,,1.0,3.0,1.0,3.0,1.0,3.0,2.0,,3.0,1.0,1.0,19.0
+North Goa,17.4.13(c),Number of cases of Adolescent or Adult deaths (age 6 years & above) where the cause was not known,3. Above 55 yrs.,3.0,1.0,,5.0,3.0,3.0,3.0,2.0,4.0,,1.0,2.0,27.0
+North Goa,17.4.13(c),Number of cases of Adolescent or Adult deaths (age 6 years & above) where the cause was not known,4. Total,3.0,2.0,3.0,6.0,6.0,4.0,6.0,4.0,4.0,3.0,2.0,3.0,46.0
+South Goa,1.1,Total number of pregnant women Registered for ANC,TOTAL,916.0,763.0,844.0,901.0,828.0,854.0,850.0,806.0,752.0,808.0,798.0,816.0,9936.0
+South Goa,1.1.1,Of which Number registered within first trimester (within 12 weeks),TOTAL,398.0,359.0,435.0,362.0,345.0,385.0,405.0,374.0,365.0,374.0,399.0,406.0,4607.0
+South Goa,1.2,Number of Pregnant women registered under JSY,TOTAL,35.0,28.0,21.0,32.0,69.0,44.0,46.0,38.0,43.0,48.0,50.0,37.0,491.0
+South Goa,1.3,Number of pregnant women received 3 ANC check ups during pregnancy,TOTAL,575.0,520.0,551.0,546.0,536.0,531.0,489.0,449.0,452.0,511.0,518.0,498.0,6176.0
+South Goa,1.4.1,Number of pregnant women given TT1 during current pregnancy,TOTAL,434.0,387.0,561.0,522.0,453.0,404.0,461.0,356.0,429.0,440.0,390.0,391.0,5228.0
+South Goa,1.4.2,Number of pregnant women given TT2 or Booster during current pregnancy,TOTAL,423.0,469.0,640.0,502.0,579.0,499.0,472.0,459.0,501.0,531.0,537.0,487.0,6099.0
+South Goa,1.5,Total number of pregnant women given 100 IFA tablets,TOTAL,1193.0,730.0,789.0,670.0,697.0,742.0,722.0,703.0,671.0,642.0,624.0,736.0,8919.0
+South Goa,1.6.1,Number of new cases of Hypertension (BP>140/90) detected in Pregnant women at the institution,TOTAL,1.0,72.0,1.0,1.0,0.0,1.0,2.0,1.0,9.0,47.0,1.0,1.0,137.0
+South Goa,1.6.2,Number of Eclampsia cases managed during delivery,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,1.7.1,Number of Pregnant women with anaemia i.e. Hb level<11 (tested cases),TOTAL,252.0,215.0,210.0,182.0,199.0,208.0,180.0,234.0,204.0,223.0,165.0,180.0,2452.0
+South Goa,1.7.2,Number of Pregnant women having severe anaemia (Hb<7) treated at institution,TOTAL,10.0,12.0,14.0,19.0,15.0,8.0,11.0,34.0,20.0,3.0,20.0,22.0,188.0
+South Goa,1.8,Number of pregnancy test kits used at SC level,TOTAL,0.0,0.0,0.0,0.0,,,0.0,2.0,0.0,0.0,0.0,40.0,42.0
+South Goa,2.1.1.a,Number of deliveries conducted at Home and attended by trained SBA(i.e. Doctor or Nurse or ANM),TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,2.1.1.b,Number of deliveries conducted at Home and attended by non trained SBA (i.e. trained TBA or Relatives etc.),TOTAL,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,5.0
+South Goa,2.1.1.c,Total number of deliveries conducted at Home and attended by trained or non-trained SBA (i.e. sum of 2.1.1.a and 2.1.1.b),TOTAL,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,5.0
+South Goa,2.1.2,Number of newborns visited within 24 hours of delivery for deliveries conducted at home,TOTAL,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+South Goa,2.1.3,Number of mothers paid JSY incentive for deliveries conducted at home,TOTAL,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+South Goa,2.2,Deliveries conducted at Public Institutions (Including C-Sections),TOTAL,318.0,265.0,289.0,236.0,274.0,266.0,294.0,353.0,282.0,282.0,273.0,267.0,3399.0
+South Goa,2.2.1,"Out of 2.2, Number discharged under 48 hours of delivery",TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,2.2.2.a,Number of mothers paid JSY Incentive for deliveries conducted at Public Institutions,TOTAL,40.0,14.0,42.0,9.0,12.0,21.0,28.0,25.0,32.0,32.0,30.0,53.0,338.0
+South Goa,2.2.2.b,Number of ASHAs paid JSY Incentive for deliveries conducted at Public Institutions,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,2.2.2.c,Number of cases of deliveries conducted at Public Institutions where JSY incentive was paid to ANMs or AWWs [only for High Performing States (HPS)],TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,2.3,Deliveries conducted at Private Institutions (Including C-Sections),TOTAL,136.0,181.0,161.0,121.0,146.0,128.0,167.0,167.0,159.0,151.0,147.0,158.0,1822.0
+South Goa,2.3.1.a,Number of mothers paid JSY Incentive for deliveries conducted at accredited Private Institutions,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,2.3.1.b,Number of ASHAs paid JSY Incentive for deliveries conducted at accredited Private Institutions,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,2.3.1.c,Number of cases of deliveries conducted at accredited Private Institutions where JSY incentive was paid to ANMs or AWWs [only for High Performing States (HPS)],TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,3.1.1,Number of Caesarean (C-Section) deliveries performed at PHCs (Primary Health Centre),TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,3.1.2,Number of Caesarean (C-Section) deliveries performed at CHCs (Community Health Centre),TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,3.1.3,Number of Caesarean (C-Section) deliveries performed at SDHs (Sub-divisional Hospital) or DHs (District Hospital),TOTAL,99.0,69.0,95.0,69.0,70.0,63.0,95.0,85.0,79.0,76.0,85.0,69.0,954.0
+South Goa,3.1.4,Number of Caesarean (C-Section) deliveries performed at other State owned public institutions,TOTAL,,,,,,,,,,,,,
+South Goa,3.1.5,"Total Number of Caesarean (C-Section) deliveries performed at Public facilities i.e. PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 3.1.1 to 3.1.4)",TOTAL,99.0,69.0,95.0,69.0,70.0,63.0,95.0,85.0,79.0,76.0,85.0,69.0,954.0
+South Goa,3.2,No. of C-section deliveries performed at Private facilities,TOTAL,62.0,88.0,77.0,54.0,55.0,58.0,74.0,87.0,86.0,73.0,73.0,83.0,870.0
+South Goa,4.1.1.a,Number of male live births,TOTAL,233.0,236.0,226.0,186.0,218.0,217.0,217.0,277.0,229.0,222.0,239.0,215.0,2715.0
+South Goa,4.1.1.b,Number of female live births,TOTAL,222.0,224.0,227.0,176.0,202.0,178.0,246.0,243.0,214.0,208.0,181.0,210.0,2531.0
+South Goa,4.1.1.c,Total number of male and female live births (4.1.1.a and 4.1.1.b),TOTAL,455.0,460.0,453.0,362.0,420.0,395.0,463.0,520.0,443.0,430.0,420.0,425.0,5246.0
+South Goa,4.1.2,Number of still births,TOTAL,1.0,3.0,0.0,0.0,1.0,0.0,2.0,3.0,2.0,4.0,1.0,1.0,18.0
+South Goa,4.1.3,Number of Abortions (spontaneous or induced),TOTAL,26.0,25.0,33.0,13.0,20.0,22.0,21.0,23.0,32.0,27.0,24.0,31.0,297.0
+South Goa,4.2.1,Number of Newborns weighed at birth,TOTAL,455.0,460.0,453.0,362.0,420.0,395.0,462.0,520.0,443.0,430.0,420.0,425.0,5245.0
+South Goa,4.2.2,Number of Newborns having weight less than 2.5 kg,TOTAL,56.0,40.0,53.0,52.0,49.0,50.0,92.0,62.0,53.0,59.0,47.0,48.0,661.0
+South Goa,4.3,Number of Newborns breast fed within 1 hour of birth,TOTAL,440.0,398.0,407.0,323.0,354.0,291.0,360.0,427.0,322.0,367.0,302.0,299.0,4290.0
+South Goa,5.1.1,Number of cases of pregnant women with Obstetric Complications and attended at PHCs,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,5.1.2,Number of cases of pregnant women with Obstetric Complications and attended at CHCs,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,5.1.3,Number of cases of pregnant women with Obstetric Complications and attended at SDHs or DHs,TOTAL,188.0,154.0,183.0,151.0,185.0,208.0,204.0,209.0,169.0,186.0,198.0,182.0,2217.0
+South Goa,5.1.4,Number of cases of pregnant women with Obstetric Complications and attended at other State owned public institutions,TOTAL,,,,,,,,,,,,,
+South Goa,5.1.5,"Number of cases of pregnant women with Obstetric Complications and attended at Public facilities i.e. PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 5.1.1 to 5.1.4)",TOTAL,188.0,154.0,183.0,151.0,185.0,208.0,204.0,209.0,169.0,186.0,198.0,182.0,2217.0
+South Goa,5.2,Number of cases of pregnant women with Obstetric Complications and attended at Private facilities,TOTAL,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+South Goa,5.3.1,Number of cases of complicated pregnancies treated with IV antibiotics,TOTAL,180.0,154.0,183.0,145.0,185.0,200.0,50.0,193.0,169.0,182.0,160.0,157.0,1958.0
+South Goa,5.3.2,Number of cases of complicated pregnancies treated with IV Antihypertensive/Magsulph injection,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,12.0
+South Goa,5.3.3,Number of cases of complicated pregnancies treated with IV Oxytocis,TOTAL,150.0,80.0,132.0,122.0,173.0,150.0,150.0,110.0,100.0,93.0,100.0,100.0,1460.0
+South Goa,5.3.4,Number of cases of complicated pregnancies treated with Blood Transfusion,TOTAL,4.0,0.0,5.0,10.0,5.0,7.0,4.0,12.0,7.0,9.0,4.0,4.0,71.0
+South Goa,6.1,Women getting post partum check-up within 48 hours after delivery,TOTAL,463.0,454.0,464.0,359.0,414.0,390.0,455.0,526.0,441.0,450.0,420.0,431.0,5267.0
+South Goa,6.2,Women getting a post partum check up between 48 hours and 14 days after delivery,TOTAL,434.0,394.0,451.0,332.0,370.0,408.0,435.0,453.0,404.0,422.0,381.0,343.0,4827.0
+South Goa,6.3,PNC maternal complications attended,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,3.0,0.0,7.0
+South Goa,7.1.1,Number of MTPs conducted at Public Institutions up to 12 weeks of pregnancy,TOTAL,8.0,3.0,8.0,2.0,3.0,8.0,6.0,3.0,6.0,4.0,5.0,8.0,64.0
+South Goa,7.1.2,Number of MTPs conducted at Public Institutions for more than 12 weeks of pregnancy,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,7.1.3,Total number of MTPs conducted at Public Institutions (sum of items 7.1.1 and 7.1.2),TOTAL,8.0,3.0,8.0,2.0,3.0,8.0,6.0,3.0,6.0,4.0,5.0,8.0,64.0
+South Goa,7.2,Number of MTPs conducted at Private Facilities,TOTAL,0.0,2.0,1.0,3.0,0.0,0.0,3.0,3.0,3.0,1.0,3.0,4.0,23.0
+South Goa,8.1.a,Number of new cases of RTI/STI in males for which treatment was initiated,TOTAL,29.0,27.0,17.0,30.0,22.0,102.0,191.0,109.0,154.0,103.0,335.0,86.0,1205.0
+South Goa,8.1.b,Number of new cases of RTI/STI in females for which treatment was initiated,TOTAL,56.0,69.0,54.0,51.0,38.0,118.0,56.0,139.0,138.0,69.0,92.0,64.0,944.0
+South Goa,8.1.c,Total number of new cases of RTI/STI in males and females for which treatment was initiated (sum of items 8.1.a and 8.1.b),TOTAL,85.0,96.0,71.0,81.0,60.0,220.0,247.0,248.0,292.0,172.0,427.0,150.0,2149.0
+South Goa,8.2,Number of suspected RTI/STI cases for whom wet mount test was conducted,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,9.1.1.a,Number of NSV (No Scalpel Vasectomy) or Conventional Vasectomy conducted at PHCs,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,9.1.1.b,Number of NSV or Conventional Vasectomy conducted at CHCs,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,9.1.1.c,Number of NSV or Conventional Vasectomy conducted at SDHs or DHs,TOTAL,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,4.0
+South Goa,9.1.1.d,Number of NSV or Conventional Vasectomy conducted at other State owned public institutions,TOTAL,,,,,,,,,,,,,
+South Goa,9.1.1.e,"Total Number of NSV or Conventional Vasectomy conducted at Public facilities i.e. PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 9.1.1.a to 9.1.1.d)",TOTAL,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,4.0
+South Goa,9.1.2,Number of NSV or Conventional Vasectomy conducted at Private facilities,TOTAL,1.0,2.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0,8.0
+South Goa,9.2.1.a,Number of Laparoscopic sterilizations conducted at PHCs,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,9.2.1.b,Number of Laparoscopic sterilizations conducted at CHCs,TOTAL,1.0,1.0,0.0,1.0,0.0,3.0,0.0,3.0,3.0,0.0,3.0,4.0,19.0
+South Goa,9.2.1.c,Number of Laparoscopic sterilizations conducted at SDHs or DHs,TOTAL,8.0,4.0,0.0,7.0,4.0,4.0,4.0,6.0,8.0,5.0,0.0,0.0,50.0
+South Goa,9.2.1.d,Number of Laparoscopic sterilizations conducted at other State owned public institutions,TOTAL,,,,,,,,,,,,,
+South Goa,9.2.1.e,"Total Number of Laparoscopic sterilizations conducted at Public facilities i.e. PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 9.2.1.a to 9.2.1.d)",TOTAL,9.0,5.0,0.0,8.0,4.0,7.0,4.0,9.0,11.0,5.0,3.0,4.0,69.0
+South Goa,9.2.2,Number of Laparoscopic sterilizations conducted at Private facilities,TOTAL,0.0,3.0,1.0,2.0,0.0,0.0,1.0,6.0,1.0,0.0,0.0,8.0,22.0
+South Goa,9.3.1.a,Number of Mini-lap sterilizations conducted at PHCs,TOTAL,11.0,8.0,2.0,2.0,4.0,5.0,7.0,0.0,8.0,4.0,0.0,3.0,54.0
+South Goa,9.3.1.b,Number of Mini-lap sterilizations conducted at CHCs,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,9.3.1.c,Number of Mini-lap sterilizations conducted at SDHs or DHs,TOTAL,0.0,1.0,0.0,2.0,1.0,0.0,0.0,3.0,1.0,0.0,2.0,2.0,12.0
+South Goa,9.3.1.d,Number of Mini-lap sterilizations conducted at other State owned public institutions,TOTAL,,,,,,,,,,,,,
+South Goa,9.3.1.e,"Total Number of Mini-lap sterilizations conducted at Public facilities i.e. PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 9.3.1.a to 9.3.1.d)",TOTAL,11.0,9.0,2.0,4.0,5.0,5.0,7.0,3.0,9.0,4.0,2.0,5.0,66.0
+South Goa,9.3.2,Number of Mini-lap sterilizations conducted at Private facilities,TOTAL,13.0,9.0,3.0,4.0,4.0,5.0,7.0,0.0,8.0,5.0,5.0,3.0,66.0
+South Goa,9.4.1.a,Number of Post-Partum sterilizations conducted at PHCs,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,9.4.1.b,Number of Post-Partum sterilizations conducted at CHCs,TOTAL,4.0,1.0,2.0,0.0,4.0,1.0,1.0,2.0,0.0,1.0,3.0,5.0,24.0
+South Goa,9.4.1.c,Number of Post-Partum sterilizations conducted at SDHs or DHs,TOTAL,48.0,46.0,58.0,26.0,45.0,42.0,57.0,37.0,45.0,42.0,51.0,47.0,544.0
+South Goa,9.4.1.d,Number of Post-Partum sterilizations conducted at other State owned public institutions,TOTAL,,,,,,,,,,,,,
+South Goa,9.4.1.e,"Total Number of Post-Partum sterilizations conducted at Public facilities i.e. PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 9.4.1.a to 9.4.1.d)",TOTAL,52.0,47.0,60.0,26.0,49.0,43.0,58.0,39.0,45.0,43.0,54.0,52.0,568.0
+South Goa,9.4.2,Number of Post-Partum sterilizations conducted at Private facilities,TOTAL,13.0,18.0,13.0,16.0,17.0,14.0,18.0,20.0,10.0,13.0,16.0,16.0,184.0
+South Goa,9.5.1.a,Number of IUCD Insertions conducted at SCs,TOTAL,4.0,4.0,2.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,14.0
+South Goa,9.5.1.b,Number of IUCD Insertions conducted at PHCs,TOTAL,8.0,5.0,6.0,9.0,4.0,5.0,11.0,8.0,11.0,4.0,5.0,4.0,80.0
+South Goa,9.5.1.c,Number of IUCD Insertions conducted at CHCs,TOTAL,4.0,4.0,1.0,2.0,5.0,1.0,3.0,5.0,4.0,1.0,4.0,3.0,37.0
+South Goa,9.5.1.d,Number of IUCD Insertions conducted at SDHs or DHs,TOTAL,9.0,6.0,8.0,9.0,10.0,3.0,10.0,5.0,11.0,1.0,8.0,8.0,88.0
+South Goa,9.5.1.e,Number of IUCD Insertions conducted at other State owned public institutions,TOTAL,,,,,,,,,,,,,
+South Goa,9.5.1.f,"Total Number of IUCD Insertions conducted at Public facilities i.e. SC, PHC, CHC, SDH, DH and other State owned public institutions (sum of items from 9.5.1.a to 9.5.1.e)",TOTAL,25.0,19.0,17.0,20.0,20.0,10.0,24.0,19.0,26.0,6.0,17.0,16.0,219.0
+South Goa,9.5.1A,"Out of above total, Post Partum (within 48 hours of delivery) IUCD insertions",TOTAL,0.0,,0.0,,,,,0.0,1.0,0.0,0.0,0.0,1.0
+South Goa,9.5.2,Number of IUCD Insertions conducted at Private facilities,TOTAL,26.0,33.0,28.0,45.0,25.0,22.0,41.0,30.0,34.0,25.0,24.0,20.0,353.0
+South Goa,9.06,Number of IUCD removals,TOTAL,11.0,10.0,16.0,11.0,7.0,10.0,8.0,10.0,12.0,10.0,11.0,8.0,124.0
+South Goa,9.07,Number of Oral Pills cycles distributed,TOTAL,1186.0,1179.0,1405.0,1431.0,2046.0,1875.0,1842.0,2087.0,2180.0,2171.0,2463.0,1138.0,21003.0
+South Goa,9.08,Number of Condom pieces distributed,TOTAL,3336.0,2557.0,3229.0,3718.0,6454.0,5767.0,6186.0,6013.0,6982.0,6064.0,7072.0,8612.0,65990.0
+South Goa,9.09,Number of Centchroman (weekly) pills given,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,9.10,Number of Emergency Contraceptive Pills distributed,TOTAL,15.0,1.0,7.0,5.0,12.0,6.0,8.0,1.0,3.0,5.0,2.0,5.0,70.0
+South Goa,9.11.1.a,Number of cases of complications following male sterilization,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,9.11.1.b,Number of cases of complications following female sterilization,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+South Goa,9.11.2.a,Number of failures following male sterilization,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,9.11.2.b,Number of failures following female sterilization,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,9.11.3.a,Number of deaths following male sterilization,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,9.11.3.b,Number of deaths following female sterilization,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,9.12,Number of Institutions having NSV trained doctors,TOTAL,,2.0,,,1.0,1.0,1.0,1.0,2.0,2.0,2.0,2.0,-1.0
+South Goa,10.1.01,Number of Infants (0 to 11 months old)received BCG immunisation,TOTAL,663.0,616.0,604.0,555.0,590.0,553.0,664.0,650.0,539.0,597.0,564.0,581.0,7176.0
+South Goa,10.1.02,Number of Infants (0 to 11 months old) received DPT1 immunisation,TOTAL,34.0,37.0,50.0,45.0,40.0,30.0,53.0,22.0,13.0,24.0,14.0,13.0,375.0
+South Goa,10.1.03,Number of Infants (0 to 11 months old) received DPT2 immunisation,TOTAL,58.0,49.0,70.0,30.0,45.0,33.0,33.0,22.0,18.0,11.0,10.0,14.0,393.0
+South Goa,10.1.04,Number of Infants (0 to 11 months old) received DPT3 immunisation,TOTAL,46.0,47.0,48.0,46.0,37.0,52.0,45.0,28.0,22.0,22.0,12.0,13.0,418.0
+South Goa,10.1.04A,Number of Infants (0 to 11 months old) received Pentavalent1 immunisation,TOTAL,657.0,655.0,662.0,651.0,603.0,659.0,708.0,776.0,781.0,778.0,662.0,755.0,8347.0
+South Goa,10.1.04B,Number of Infants (0 to 11 months old) received Pentavalent2 immunisation,TOTAL,591.0,625.0,743.0,704.0,642.0,651.0,710.0,775.0,749.0,909.0,800.0,774.0,8673.0
+South Goa,10.1.04C,Number of Infants (0 to 11 months old) received Pentavalent3 immunisation,TOTAL,652.0,581.0,726.0,720.0,699.0,659.0,688.0,738.0,761.0,844.0,898.0,816.0,8782.0
+South Goa,10.1.05,Number of Infants (0 to 11 months old) received OPV 0 (Birth Dose),TOTAL,638.0,569.0,583.0,546.0,559.0,490.0,627.0,648.0,559.0,529.0,535.0,529.0,6812.0
+South Goa,10.1.06,Number of Infants (0 to 11 months old) received OPV1 (First Dose),TOTAL,687.0,694.0,722.0,691.0,642.0,688.0,760.0,798.0,790.0,802.0,682.0,776.0,8732.0
+South Goa,10.1.07,Number of Infants (0 to 11 months old) received OPV2 (Second Dose),TOTAL,620.0,676.0,818.0,734.0,681.0,684.0,743.0,792.0,768.0,921.0,806.0,792.0,9035.0
+South Goa,10.1.08,Number of Infants (0 to 11 months old) received OPV3 (Third Dose),TOTAL,680.0,616.0,776.0,766.0,724.0,728.0,730.0,744.0,776.0,867.0,914.0,829.0,9150.0
+South Goa,10.1.09A,Number of Infants (upto 48 hrs of age) received Hepatitis-B0 immunisation,TOTAL,411.0,347.0,390.0,337.0,345.0,343.0,390.0,458.0,343.0,373.0,338.0,315.0,4390.0
+South Goa,10.1.09,Number of Infants (0 to 11 months old) received Hepatitis-B1 immunisation,TOTAL,16.0,22.0,20.0,40.0,36.0,24.0,52.0,21.0,21.0,25.0,16.0,35.0,328.0
+South Goa,10.1.10,Number of Infants (0 to 11 months old) received Hepatitis-B2 immunisation,TOTAL,40.0,10.0,39.0,26.0,39.0,22.0,24.0,24.0,32.0,29.0,12.0,34.0,331.0
+South Goa,10.1.11,Number of Infants (0 to 11 months old) received Hepatitis-B3 immunisation,TOTAL,27.0,26.0,22.0,31.0,45.0,38.0,36.0,27.0,43.0,53.0,20.0,33.0,401.0
+South Goa,10.1.12,Number of Infants (0 to 11 months old) received Measles immunisation (First Dose),TOTAL,695.0,761.0,802.0,850.0,816.0,844.0,758.0,752.0,760.0,862.0,801.0,770.0,9471.0
+South Goa,10.1.12B,Number of Infants (more than 16 months old) received Measles immunisation (Second Dose),TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,10.1A,No. of Children aged 9 to 12 months who received JE 1st dose,TOTAL,0.0,0.0,0.0,0.0,0.0,261.0,392.0,618.0,677.0,724.0,752.0,674.0,4098.0
+South Goa,10.1.13.a,Total number of male children (9 to 11 months old) fully immunised (BCG+DPT123/Pentavalent123+OPV123+Measles) during the month,TOTAL,372.0,274.0,374.0,419.0,397.0,378.0,341.0,340.0,383.0,381.0,345.0,329.0,4333.0
+South Goa,10.1.13.b,Total number of female children (9 to 11 months old) fully immunised (BCG+DPT123/Pentavalent123+OPV123+Measles) during the month,TOTAL,324.0,264.0,364.0,407.0,392.0,374.0,354.0,302.0,374.0,371.0,333.0,359.0,4218.0
+South Goa,10.1.13.c,Total number of children (9 to 11 months old) fully immunised (BCG+DPT123/Pentavalent123+OPV123+Measles) during the month (sum of items 10.1.13.a and 10.1.13.b),TOTAL,696.0,538.0,738.0,826.0,789.0,752.0,695.0,642.0,757.0,752.0,678.0,688.0,8551.0
+South Goa,10.2.1,Number of Infants (more than 16 months old) received DPT Booster dose,TOTAL,763.0,630.0,686.0,644.0,682.0,679.0,848.0,798.0,786.0,816.0,727.0,841.0,8900.0
+South Goa,10.2.2,Number of Infants (more than 16 months old) received OPV Booster dose,TOTAL,824.0,654.0,814.0,716.0,793.0,717.0,839.0,798.0,786.0,815.0,727.0,840.0,9323.0
+South Goa,10.2.3,"Number of Infants (more than 16 months old) received Measles, Mumps, Rubella (MMR) Vaccination",TOTAL,890.0,699.0,868.0,916.0,865.0,813.0,839.0,734.0,834.0,911.0,849.0,896.0,10114.0
+South Goa,10.3.1.a,Total number of male children (12 to 23 months old) fully immunised (BCG+DPT123/Pentavalent123+OPV123+Measles) during the month,TOTAL,135.0,128.0,162.0,140.0,171.0,130.0,131.0,145.0,137.0,151.0,170.0,214.0,1814.0
+South Goa,10.3.1.b,Total number of female children (12 to 23 months old) fully immunised (BCG+DPT123/Pentavalent123+OPV123+Measles) during the month,TOTAL,110.0,100.0,132.0,151.0,167.0,99.0,112.0,134.0,149.0,163.0,157.0,178.0,1652.0
+South Goa,10.3.1.c,Total number of children (12 to 23 months old) fully immunised (BCG+DPT123+OPV123/Pentavalent123+Measles) during the month (sum of items 10.3.1.a and 10.3.1.b),TOTAL,245.0,228.0,294.0,291.0,338.0,229.0,243.0,279.0,286.0,314.0,327.0,392.0,3466.0
+South Goa,10.3.2,Number of children (more than 5 years old) given DT5,TOTAL,442.0,419.0,540.0,569.0,585.0,516.0,493.0,1058.0,850.0,1142.0,956.0,741.0,8311.0
+South Goa,10.3.3,Number of children (more than 10 years old) given TT10,TOTAL,363.0,468.0,1199.0,1761.0,1220.0,1126.0,1255.0,825.0,946.0,480.0,250.0,294.0,10187.0
+South Goa,10.3.4,Number of children (more than 16 years old) given TT16,TOTAL,173.0,219.0,1125.0,1754.0,855.0,879.0,772.0,510.0,782.0,268.0,175.0,168.0,7680.0
+South Goa,10.3.5.a,Number of cases of Abscess reported following immunisation [Adverse Event Following Immunisation (AEFI)],TOTAL,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,4.0
+South Goa,10.3.5.b,Number of cases of Death reported following immunisation [Adverse Event Following Immunisation (AEFI)],TOTAL,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+South Goa,10.3.5.c,Number of cases of other complications reported following immunisation [Adverse Event Following Immunisation (AEFI)],TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,10.4.1,Number of Immunisation sessions planned to be held during the month,TOTAL,173.0,183.0,187.0,199.0,192.0,195.0,203.0,187.0,159.0,177.0,182.0,174.0,2211.0
+South Goa,10.4.2,Number of Immunisation sessions held during the month,TOTAL,173.0,183.0,187.0,199.0,192.0,195.0,203.0,187.0,159.0,177.0,182.0,174.0,2211.0
+South Goa,10.4.3,Number of Immunisation sessions held during the month where ASHAs were present,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,10.5.1,Number of children (more than 16 months old) received Japanese Encephalitis (JE) vaccination,TOTAL,778.0,652.0,717.0,722.0,702.0,813.0,981.0,793.0,720.0,782.0,677.0,746.0,9083.0
+South Goa,11.1.1,Number of children (9 months to 5 years old) administered 1st dose of Vitamin A (Dose-1),TOTAL,705.0,669.0,650.0,860.0,820.0,827.0,805.0,751.0,746.0,876.0,776.0,775.0,9260.0
+South Goa,11.1.2,Number of children (9 months to 5 years old) were administered 5th dose of Vitamin A (Dose-5),TOTAL,460.0,325.0,296.0,507.0,611.0,508.0,533.0,429.0,392.0,467.0,522.0,554.0,5604.0
+South Goa,11.1.3,Number of children (9 months to 5 years old) administered 9th dose of Vitamin A (Dose-9),TOTAL,631.0,475.0,497.0,636.0,842.0,880.0,1068.0,1111.0,808.0,1099.0,892.0,652.0,9591.0
+South Goa,12.1,Number of cases of Diptheria reported in children below 5 years of age,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,12.2,Number of cases of Pertusis reported in children below 5 years of age,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,12.3,Number of cases of Tetanus neonatarum reported in children below 5 years of age,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,12.4,Number of cases of Tetanus other than neonatarum reported in children below 5 years of age,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,12.5,Number of cases of Polio reported in children below 5 years of age,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,12.6,Number of cases of Measles reported in children below 5 years of age,TOTAL,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,4.0,2.0,1.0,14.0
+South Goa,12.7,Number of cases of Diarrhoea and Dehydration reported in children below 5 years of age,TOTAL,70.0,41.0,92.0,115.0,92.0,89.0,76.0,100.0,113.0,122.0,87.0,71.0,1068.0
+South Goa,12.8,Number of cases of Malaria reported in children below 5 years of age,TOTAL,4.0,0.0,3.0,4.0,5.0,3.0,5.0,4.0,4.0,4.0,3.0,4.0,43.0
+South Goa,12.9,Number of children below 5 years of age admitted with Respiratory Infections,TOTAL,43.0,38.0,47.0,123.0,97.0,77.0,101.0,111.0,61.0,81.0,66.0,50.0,895.0
+South Goa,13.1,Number of Patients operated for cataract,TOTAL,67.0,52.0,39.0,70.0,47.0,79.0,62.0,100.0,43.0,54.0,84.0,76.0,773.0
+South Goa,13.2,Number of Intraocular Lens(IOL) implantations,TOTAL,67.0,52.0,39.0,70.0,47.0,79.0,62.0,100.0,43.0,54.0,84.0,76.0,773.0
+South Goa,13.3,Number of School children detected with Refractive errors,TOTAL,5.0,0.0,31.0,49.0,30.0,48.0,136.0,21.0,9.0,13.0,26.0,2.0,370.0
+South Goa,13.4,Number of children provided free glasses,TOTAL,5.0,0.0,6.0,21.0,14.0,41.0,33.0,10.0,4.0,2.0,10.0,0.0,146.0
+South Goa,13.5,Number of eyes collected through eye donation,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,13.6,Number of eyes utilised for corneal transplant,TOTAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,14.01,Number of CHC or SDH or DH functioning as First Referral units (FRUs),TOTAL,1.0,1.0,2.0,2.0,2.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,-1.0
+South Goa,14.02,Number of PHCs functioning 24X7 with atleast 3 Staff Nurses,TOTAL,5.0,5.0,6.0,6.0,5.0,5.0,5.0,5.0,5.0,5.0,4.0,5.0,-1.0
+South Goa,14.03,Number of Anganwadi centres reported to have conducted VHNDs,TOTAL,174.0,175.0,192.0,192.0,243.0,228.0,218.0,175.0,190.0,191.0,214.0,199.0,-1.0
+South Goa,14.04,Number of facilities having a Rogi Kalyan Samiti (RKS),TOTAL,2.0,2.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0
+South Goa,14.05,Number of RKS meetings held during the month,TOTAL,1.0,1.0,2.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,14.0
+South Goa,14.06,Number of facilities having Ambulance services (Assured Referral Services),TOTAL,10.0,9.0,11.0,11.0,10.0,11.0,12.0,12.0,11.0,11.0,9.0,11.0,-1.0
+South Goa,14.07,Total Number of times the Ambulance was used for transporting patients during the month,TOTAL,777.0,745.0,792.0,807.0,685.0,723.0,757.0,771.0,757.0,801.0,705.0,399.0,8719.0
+South Goa,14.08,Number of Institutions having Operational Sick New Born and Child Care Units (SNCU),TOTAL,2.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0
+South Goa,14.09,Number of functional Laproscopes in CHC/SDH/DH,TOTAL,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,-1.0
+South Goa,14.10.1.a,Number of male patients admitted (Inpatients) during the month,1. Children,318.0,265.0,403.0,469.0,380.0,353.0,402.0,447.0,392.0,409.0,380.0,314.0,4532.0
+South Goa,14.10.1.a,Number of male patients admitted (Inpatients) during the month,2. Adults,1663.0,1656.0,1774.0,1694.0,1801.0,1685.0,1661.0,1547.0,1550.0,1496.0,1333.0,1404.0,19264.0
+South Goa,14.10.1.b,Number of female patients (Inpatients) admitted during the month,1. Children,203.0,211.0,299.0,364.0,315.0,291.0,313.0,360.0,300.0,302.0,285.0,250.0,3493.0
+South Goa,14.10.1.b,Number of female patients (Inpatients) admitted during the month,2. Adults,1772.0,1579.0,1732.0,1839.0,1626.0,1716.0,1619.0,1647.0,1433.0,1561.0,1533.0,1467.0,19524.0
+South Goa,14.10.1.c,Total number of patients admitted (Inpatients) during the month (sum of items 14.10.1.a and 14.10.1.b),1. Children,521.0,476.0,702.0,833.0,695.0,644.0,715.0,807.0,692.0,711.0,665.0,564.0,8025.0
+South Goa,14.10.1.c,Total number of patients admitted (Inpatients) during the month (sum of items 14.10.1.a and 14.10.1.b),2. Adults,3435.0,3235.0,3506.0,3533.0,3427.0,3401.0,3280.0,3194.0,2983.0,3057.0,2866.0,2871.0,38788.0
+South Goa,14.10.2.a,Number of death cases of Inpatient males,TOTAL,16.0,24.0,27.0,23.0,22.0,18.0,22.0,28.0,23.0,21.0,30.0,20.0,274.0
+South Goa,14.10.2.b,Number of death cases of Inpatient females,TOTAL,9.0,12.0,19.0,14.0,12.0,25.0,7.0,12.0,12.0,16.0,28.0,12.0,178.0
+South Goa,14.10.2.c,Number of cases of death of Inpatients (sum of items 14.10.2.a and 14.10.2.b),TOTAL,25.0,36.0,46.0,37.0,34.0,43.0,29.0,40.0,35.0,37.0,58.0,32.0,452.0
+South Goa,14.11,In-Patient Head Count at midnight,TOTAL,3459.0,3163.0,3829.0,3905.0,3971.0,3238.0,3763.0,3814.0,3648.0,3587.0,3576.0,3087.0,43040.0
+South Goa,14.12.1,OPD attendance (All),TOTAL,21725.0,15690.0,23111.0,27917.0,26421.0,27623.0,26934.0,23057.0,22983.0,23299.0,25275.0,36643.0,300678.0
+South Goa,14.13.1,Number of major operations carried out using general or spinal anaesthesia,TOTAL,349.0,279.0,281.0,261.0,165.0,266.0,268.0,267.0,247.0,259.0,303.0,273.0,3218.0
+South Goa,14.13.1A,"Out of 14.13.1,Gynecology- Hysterectomy surgeries",TOTAL,,,0.0,0.0,,,,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,14.13.2,Number of minor operations carried out without anaesthesia or using local anaesthesia,TOTAL,242.0,138.0,173.0,129.0,123.0,135.0,106.0,95.0,105.0,134.0,122.0,130.0,1632.0
+South Goa,14.14.a,Number of patients given AYUSH treatment,TOTAL,813.0,639.0,1054.0,740.0,638.0,904.0,717.0,1288.0,976.0,640.0,885.0,689.0,9983.0
+South Goa,14.14.b,Number of patients on whom Dental Procedure was conducted,TOTAL,1038.0,676.0,926.0,1003.0,936.0,982.0,875.0,1072.0,890.0,927.0,972.0,915.0,11212.0
+South Goa,14.14.c,Number of Adolescents counselled,TOTAL,85.0,96.0,136.0,56.0,80.0,159.0,135.0,96.0,69.0,116.0,50.0,112.0,1190.0
+South Goa,15.1.1.a,Number of Haemoglobin (Hb) tests conducted,TOTAL,3645.0,3577.0,3676.0,3871.0,4001.0,3994.0,4250.0,3926.0,3408.0,4031.0,4183.0,3522.0,46084.0
+South Goa,15.1.1.b,"Out of the total number of Hb tests conducted, number of cases having Hb less than 7gm/dl",TOTAL,144.0,132.0,140.0,131.0,161.0,128.0,146.0,159.0,146.0,159.0,193.0,158.0,1797.0
+South Goa,15.1.2.a,Number of HIV tests conducted on males,1. Number tested,558.0,414.0,705.0,757.0,771.0,604.0,1034.0,1062.0,1325.0,936.0,1054.0,955.0,10175.0
+South Goa,15.1.2.a,Number of HIV tests conducted on males,2. Number Positive,12.0,8.0,23.0,7.0,11.0,6.0,8.0,7.0,10.0,9.0,5.0,7.0,113.0
+South Goa,15.1.2.b,Number of HIV tests conducted on Female-Non ANC (i.e. non pregnant females),1. Number tested,281.0,357.0,309.0,336.0,333.0,582.0,371.0,609.0,559.0,374.0,392.0,434.0,4937.0
+South Goa,15.1.2.b,Number of HIV tests conducted on Female-Non ANC (i.e. non pregnant females),2. Number Positive,2.0,7.0,4.0,6.0,5.0,7.0,5.0,4.0,4.0,6.0,4.0,6.0,60.0
+South Goa,15.1.2.c,Number of HIV tests conducted on Female with ANC (i.e. pregnant females),1. Number tested,469.0,464.0,522.0,484.0,453.0,503.0,554.0,474.0,412.0,540.0,525.0,443.0,5843.0
+South Goa,15.1.2.c,Number of HIV tests conducted on Female with ANC (i.e. pregnant females),2. Number Positive,0.0,1.0,27.0,0.0,2.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,37.0
+South Goa,15.1.2.d,Total number of HIV tests conducted (sum of items 15.1.2.a to 15.1.2.c),1. Number tested,1308.0,1235.0,1536.0,1577.0,1557.0,1689.0,1959.0,2145.0,2296.0,1850.0,1971.0,1832.0,20955.0
+South Goa,15.1.2.d,Total number of HIV tests conducted (sum of items 15.1.2.a to 15.1.2.c),2. Number Positive,14.0,16.0,54.0,13.0,18.0,14.0,13.0,12.0,16.0,16.0,10.0,14.0,210.0
+South Goa,15.2,Number of Widal tests conducted,Number tested,83.0,55.0,63.0,127.0,109.0,75.0,90.0,63.0,66.0,68.0,59.0,38.0,896.0
+South Goa,15.3.a,Number of VDRL tests conducted on males,Number tested,278.0,53.0,304.0,119.0,186.0,322.0,194.0,140.0,511.0,118.0,275.0,608.0,3108.0
+South Goa,15.3.b,Number of VDRL tests conducted on Female-Non ANC (i.e. non pregnant females),Number tested,177.0,74.0,287.0,64.0,158.0,376.0,101.0,173.0,398.0,129.0,93.0,231.0,2261.0
+South Goa,15.3.c,Number of VDRL tests conducted on Female with ANC (i.e. pregnant females),Number tested,476.0,477.0,521.0,499.0,395.0,509.0,569.0,471.0,421.0,472.0,436.0,440.0,5686.0
+South Goa,15.3.d,Total number of VDRL tests conducted (sum of items 15.3.a to 15.3.c),Number tested,931.0,604.0,1112.0,682.0,739.0,1207.0,864.0,784.0,1330.0,719.0,804.0,1279.0,11055.0
+South Goa,15.4.1,Number of blood smears examined for Malaria,TOTAL,5778.0,8092.0,11563.0,18428.0,15378.0,13179.0,14441.0,12784.0,10598.0,10900.0,10667.0,9592.0,141400.0
+South Goa,15.4.2,"Out of blood smears examined for malaria, number of blood smears tested positive for Plasmodium Vivax",TOTAL,150.0,157.0,188.0,309.0,328.0,353.0,288.0,296.0,217.0,141.0,67.0,75.0,2569.0
+South Goa,15.4.3,"Out of blood smears examined for malaria, number of blood smears tested positive for Plasmodium Falciparum",TOTAL,12.0,11.0,17.0,57.0,55.0,55.0,38.0,48.0,13.0,10.0,18.0,3.0,337.0
+South Goa,16.1.1,Stock position of DPT vaccines,1. Balance From Previous Month,,,,,,,,,,,,,
+South Goa,16.1.1,Stock position of DPT vaccines,2. Stocks Received,,,,,,,,,,,,,
+South Goa,16.1.1,Stock position of DPT vaccines,3. Unusable Stock,,,,,,,,,,,,,
+South Goa,16.1.1,Stock position of DPT vaccines,4. Stock Distributed,,,,,,,,,,,,,
+South Goa,16.1.1,Stock position of DPT vaccines,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,16.1.1A,Stock Position of Pentavalent,1. Balance From Previous Month,,,,,,,,,,,,,
+South Goa,16.1.1A,Stock Position of Pentavalent,2. Stocks Received,,,,,,,,,,,,,
+South Goa,16.1.1A,Stock Position of Pentavalent,3. Unusable Stock,,,,,,,,,,,,,
+South Goa,16.1.1A,Stock Position of Pentavalent,4. Stock Distributed,,,,,,,,,,,,,
+South Goa,16.1.1A,Stock Position of Pentavalent,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,16.1.2,Stock position of OPV vaccines,1. Balance From Previous Month,,,,,,,,,,,,,
+South Goa,16.1.2,Stock position of OPV vaccines,2. Stocks Received,,,,,,,,,,,,,
+South Goa,16.1.2,Stock position of OPV vaccines,3. Unusable Stock,,,,,,,,,,,,,
+South Goa,16.1.2,Stock position of OPV vaccines,4. Stock Distributed,,,,,,,,,,,,,
+South Goa,16.1.2,Stock position of OPV vaccines,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,16.1.3,Stock position of TT vaccines,1. Balance From Previous Month,,,,,,,,,,,,,
+South Goa,16.1.3,Stock position of TT vaccines,2. Stocks Received,,,,,,,,,,,,,
+South Goa,16.1.3,Stock position of TT vaccines,3. Unusable Stock,,,,,,,,,,,,,
+South Goa,16.1.3,Stock position of TT vaccines,4. Stock Distributed,,,,,,,,,,,,,
+South Goa,16.1.3,Stock position of TT vaccines,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,16.1.4,Stock position of DT vaccines,1. Balance From Previous Month,,,,,,,,,,,,,
+South Goa,16.1.4,Stock position of DT vaccines,2. Stocks Received,,,,,,,,,,,,,
+South Goa,16.1.4,Stock position of DT vaccines,3. Unusable Stock,,,,,,,,,,,,,
+South Goa,16.1.4,Stock position of DT vaccines,4. Stock Distributed,,,,,,,,,,,,,
+South Goa,16.1.4,Stock position of DT vaccines,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,16.1.5,Stock position of BCG vaccines,1. Balance From Previous Month,,,,,,,,,,,,,
+South Goa,16.1.5,Stock position of BCG vaccines,2. Stocks Received,,,,,,,,,,,,,
+South Goa,16.1.5,Stock position of BCG vaccines,3. Unusable Stock,,,,,,,,,,,,,
+South Goa,16.1.5,Stock position of BCG vaccines,4. Stock Distributed,,,,,,,,,,,,,
+South Goa,16.1.5,Stock position of BCG vaccines,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,16.1.6,Stock position of Measles vaccines,1. Balance From Previous Month,,,,,,,,,,,,,
+South Goa,16.1.6,Stock position of Measles vaccines,2. Stocks Received,,,,,,,,,,,,,
+South Goa,16.1.6,Stock position of Measles vaccines,3. Unusable Stock,,,,,,,,,,,,,
+South Goa,16.1.6,Stock position of Measles vaccines,4. Stock Distributed,,,,,,,,,,,,,
+South Goa,16.1.6,Stock position of Measles vaccines,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,16.1.7,Stock position of JE vaccines,1. Balance From Previous Month,,,,,,,,,,,,,
+South Goa,16.1.7,Stock position of JE vaccines,2. Stocks Received,,,,,,,,,,,,,
+South Goa,16.1.7,Stock position of JE vaccines,3. Unusable Stock,,,,,,,,,,,,,
+South Goa,16.1.7,Stock position of JE vaccines,4. Stock Distributed,,,,,,,,,,,,,
+South Goa,16.1.7,Stock position of JE vaccines,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,16.1.8,Stock position of Hepatitis B vaccines,1. Balance From Previous Month,,,,,,,,,,,,,
+South Goa,16.1.8,Stock position of Hepatitis B vaccines,2. Stocks Received,,,,,,,,,,,,,
+South Goa,16.1.8,Stock position of Hepatitis B vaccines,3. Unusable Stock,,,,,,,,,,,,,
+South Goa,16.1.8,Stock position of Hepatitis B vaccines,4. Stock Distributed,,,,,,,,,,,,,
+South Goa,16.1.8,Stock position of Hepatitis B vaccines,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,16.2.1,Stock Position of IU 380 A (to be used for Family Planning),1. Balance From Previous Month,,,,,,,,,,,,,
+South Goa,16.2.1,Stock Position of IU 380 A (to be used for Family Planning),2. Stocks Received,,,,,,,,,,,,,
+South Goa,16.2.1,Stock Position of IU 380 A (to be used for Family Planning),3. Unusable Stock,,,,,,,,,,,,,
+South Goa,16.2.1,Stock Position of IU 380 A (to be used for Family Planning),4. Stock Distributed,,,,,,,,,,,,,
+South Goa,16.2.1,Stock Position of IU 380 A (to be used for Family Planning),5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,16.2.2,Stock Position of Condoms (to be used for Family Planning),1. Balance From Previous Month,,,,,,,,,,,,,
+South Goa,16.2.2,Stock Position of Condoms (to be used for Family Planning),2. Stocks Received,,,,,,,,,,,,,
+South Goa,16.2.2,Stock Position of Condoms (to be used for Family Planning),3. Unusable Stock,,,,,,,,,,,,,
+South Goa,16.2.2,Stock Position of Condoms (to be used for Family Planning),4. Stock Distributed,,,,,,,,,,,,,
+South Goa,16.2.2,Stock Position of Condoms (to be used for Family Planning),5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,16.2.3,Stock Position of Oral Contraceptive (to be used for Family Planning),1. Balance From Previous Month,,,,,,,,,,,,,
+South Goa,16.2.3,Stock Position of Oral Contraceptive (to be used for Family Planning),2. Stocks Received,,,,,,,,,,,,,
+South Goa,16.2.3,Stock Position of Oral Contraceptive (to be used for Family Planning),3. Unusable Stock,,,,,,,,,,,,,
+South Goa,16.2.3,Stock Position of Oral Contraceptive (to be used for Family Planning),4. Stock Distributed,,,,,,,,,,,,,
+South Goa,16.2.3,Stock Position of Oral Contraceptive (to be used for Family Planning),5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,16.2.4,Stock Position of Emergency Contraceptive (to be used for Family Planning),1. Balance From Previous Month,,,,,,,,,,,,,
+South Goa,16.2.4,Stock Position of Emergency Contraceptive (to be used for Family Planning),2. Stocks Received,,,,,,,,,,,,,
+South Goa,16.2.4,Stock Position of Emergency Contraceptive (to be used for Family Planning),3. Unusable Stock,,,,,,,,,,,,,
+South Goa,16.2.4,Stock Position of Emergency Contraceptive (to be used for Family Planning),4. Stock Distributed,,,,,,,,,,,,,
+South Goa,16.2.4,Stock Position of Emergency Contraceptive (to be used for Family Planning),5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,16.2.5,Stock Position of Tubal Rings (to be used for Family Planning),1. Balance From Previous Month,,,,,,,,,,,,,
+South Goa,16.2.5,Stock Position of Tubal Rings (to be used for Family Planning),2. Stocks Received,,,,,,,,,,,,,
+South Goa,16.2.5,Stock Position of Tubal Rings (to be used for Family Planning),3. Unusable Stock,,,,,,,,,,,,,
+South Goa,16.2.5,Stock Position of Tubal Rings (to be used for Family Planning),4. Stock Distributed,,,,,,,,,,,,,
+South Goa,16.2.5,Stock Position of Tubal Rings (to be used for Family Planning),5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,16.3.01,Stock Position of Oxytocin Injection,1. Balance From Previous Month,,,,,,,,,,,,,
+South Goa,16.3.01,Stock Position of Oxytocin Injection,2. Stocks Received,,,,,,,,,,,,,
+South Goa,16.3.01,Stock Position of Oxytocin Injection,3. Unusable Stock,,,,,,,,,,,,,
+South Goa,16.3.01,Stock Position of Oxytocin Injection,4. Stock Distributed,,,,,,,,,,,,,
+South Goa,16.3.01,Stock Position of Oxytocin Injection,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,16.3.02,Stock Position of Gloves,1. Balance From Previous Month,,,,,,,,,,,,,
+South Goa,16.3.02,Stock Position of Gloves,2. Stocks Received,,,,,,,,,,,,,
+South Goa,16.3.02,Stock Position of Gloves,3. Unusable Stock,,,,,,,,,,,,,
+South Goa,16.3.02,Stock Position of Gloves,4. Stock Distributed,,,,,,,,,,,,,
+South Goa,16.3.02,Stock Position of Gloves,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,16.3.03,Stock Position of MVA Syringes,1. Balance From Previous Month,,,,,,,,,,,,,
+South Goa,16.3.03,Stock Position of MVA Syringes,2. Stocks Received,,,,,,,,,,,,,
+South Goa,16.3.03,Stock Position of MVA Syringes,3. Unusable Stock,,,,,,,,,,,,,
+South Goa,16.3.03,Stock Position of MVA Syringes,4. Stock Distributed,,,,,,,,,,,,,
+South Goa,16.3.03,Stock Position of MVA Syringes,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,16.3.04,Stock Position of Fluconazole Tablets,1. Balance From Previous Month,,,,,,,,,,,,,
+South Goa,16.3.04,Stock Position of Fluconazole Tablets,2. Stocks Received,,,,,,,,,,,,,
+South Goa,16.3.04,Stock Position of Fluconazole Tablets,3. Unusable Stock,,,,,,,,,,,,,
+South Goa,16.3.04,Stock Position of Fluconazole Tablets,4. Stock Distributed,,,,,,,,,,,,,
+South Goa,16.3.04,Stock Position of Fluconazole Tablets,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,16.3.05,Stock Position of Blood Transfusion Sets,1. Balance From Previous Month,,,,,,,,,,,,,
+South Goa,16.3.05,Stock Position of Blood Transfusion Sets,2. Stocks Received,,,,,,,,,,,,,
+South Goa,16.3.05,Stock Position of Blood Transfusion Sets,3. Unusable Stock,,,,,,,,,,,,,
+South Goa,16.3.05,Stock Position of Blood Transfusion Sets,4. Stock Distributed,,,,,,,,,,,,,
+South Goa,16.3.05,Stock Position of Blood Transfusion Sets,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,16.3.06,Stock Position of Gluteraldehyde solution of 2% concentration,1. Balance From Previous Month,,,,,,,,,,,,,
+South Goa,16.3.06,Stock Position of Gluteraldehyde solution of 2% concentration,2. Stocks Received,,,,,,,,,,,,,
+South Goa,16.3.06,Stock Position of Gluteraldehyde solution of 2% concentration,3. Unusable Stock,,,,,,,,,,,,,
+South Goa,16.3.06,Stock Position of Gluteraldehyde solution of 2% concentration,4. Stock Distributed,,,,,,,,,,,,,
+South Goa,16.3.06,Stock Position of Gluteraldehyde solution of 2% concentration,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,16.3.07,Stock Position of IFA Tablets,1. Balance From Previous Month,,,,,,,,,,,,,
+South Goa,16.3.07,Stock Position of IFA Tablets,2. Stocks Received,,,,,,,,,,,,,
+South Goa,16.3.07,Stock Position of IFA Tablets,3. Unusable Stock,,,,,,,,,,,,,
+South Goa,16.3.07,Stock Position of IFA Tablets,4. Stock Distributed,,,,,,,,,,,,,
+South Goa,16.3.07,Stock Position of IFA Tablets,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,16.3.08,Stock Position of IFA Syrup (Paediatric),1. Balance From Previous Month,,,,,,,,,,,,,
+South Goa,16.3.08,Stock Position of IFA Syrup (Paediatric),2. Stocks Received,,,,,,,,,,,,,
+South Goa,16.3.08,Stock Position of IFA Syrup (Paediatric),3. Unusable Stock,,,,,,,,,,,,,
+South Goa,16.3.08,Stock Position of IFA Syrup (Paediatric),4. Stock Distributed,,,,,,,,,,,,,
+South Goa,16.3.08,Stock Position of IFA Syrup (Paediatric),5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,16.3.09,Stock Position of Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),1. Balance From Previous Month,,,,,,,,,,,,,
+South Goa,16.3.09,Stock Position of Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),2. Stocks Received,,,,,,,,,,,,,
+South Goa,16.3.09,Stock Position of Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),3. Unusable Stock,,,,,,,,,,,,,
+South Goa,16.3.09,Stock Position of Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),4. Stock Distributed,,,,,,,,,,,,,
+South Goa,16.3.09,Stock Position of Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,16.3.10,Stock Position of Vitamin A solution,1. Balance From Previous Month,,,,,,,,,,,,,
+South Goa,16.3.10,Stock Position of Vitamin A solution,2. Stocks Received,,,,,,,,,,,,,
+South Goa,16.3.10,Stock Position of Vitamin A solution,3. Unusable Stock,,,,,,,,,,,,,
+South Goa,16.3.10,Stock Position of Vitamin A solution,4. Stock Distributed,,,,,,,,,,,,,
+South Goa,16.3.10,Stock Position of Vitamin A solution,5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,16.3.11,Stock of ORS (New WHO formulation),1. Balance From Previous Month,,,,,,,,,,,,,
+South Goa,16.3.11,Stock of ORS (New WHO formulation),2. Stocks Received,,,,,,,,,,,,,
+South Goa,16.3.11,Stock of ORS (New WHO formulation),3. Unusable Stock,,,,,,,,,,,,,
+South Goa,16.3.11,Stock of ORS (New WHO formulation),4. Stock Distributed,,,,,,,,,,,,,
+South Goa,16.3.11,Stock of ORS (New WHO formulation),5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,16.4.1,Stock Position of 0.1 ml Syringes(AD),1. Balance From Previous Month,,,,,,,,,,,,,
+South Goa,16.4.1,Stock Position of 0.1 ml Syringes(AD),2. Stocks Received,,,,,,,,,,,,,
+South Goa,16.4.1,Stock Position of 0.1 ml Syringes(AD),3. Unusable Stock,,,,,,,,,,,,,
+South Goa,16.4.1,Stock Position of 0.1 ml Syringes(AD),4. Stock Distributed,,,,,,,,,,,,,
+South Goa,16.4.1,Stock Position of 0.1 ml Syringes(AD),5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,16.4.2,Stock Position of 0.5 ml Syringes(AD),1. Balance From Previous Month,,,,,,,,,,,,,
+South Goa,16.4.2,Stock Position of 0.5 ml Syringes(AD),2. Stocks Received,,,,,,,,,,,,,
+South Goa,16.4.2,Stock Position of 0.5 ml Syringes(AD),3. Unusable Stock,,,,,,,,,,,,,
+South Goa,16.4.2,Stock Position of 0.5 ml Syringes(AD),4. Stock Distributed,,,,,,,,,,,,,
+South Goa,16.4.2,Stock Position of 0.5 ml Syringes(AD),5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,16.4.3,Stock Position of 5.0 ml Syringes(Disposable),1. Balance From Previous Month,,,,,,,,,,,,,
+South Goa,16.4.3,Stock Position of 5.0 ml Syringes(Disposable),2. Stocks Received,,,,,,,,,,,,,
+South Goa,16.4.3,Stock Position of 5.0 ml Syringes(Disposable),3. Unusable Stock,,,,,,,,,,,,,
+South Goa,16.4.3,Stock Position of 5.0 ml Syringes(Disposable),4. Stock Distributed,,,,,,,,,,,,,
+South Goa,16.4.3,Stock Position of 5.0 ml Syringes(Disposable),5. Total Stock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+South Goa,17.1,Number of cases of Infant deaths within 24 hrs of birth,TOTAL,,,,,,,,,,,,,
+South Goa,17.2.1,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being Sepsis,1. Up to 1 Weeks of Birth,,,,,,,,,,,,,
+South Goa,17.2.1,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being Sepsis,2. Between 1 week & 4 weeks of birth,,,,,,,,,,,,,
+South Goa,17.2.1,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being Sepsis,3. Total,,,,,,,,,,,,,
+South Goa,17.2.2,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being Asphyxia,1. Up to 1 Weeks of Birth,,,,,,,,,,,,,
+South Goa,17.2.2,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being Asphyxia,2. Between 1 week & 4 weeks of birth,,,,,,,,,,,,,
+South Goa,17.2.2,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being Asphyxia,3. Total,,,,,,,,,,,,,
+South Goa,17.2.3,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being LBW,1. Up to 1 Weeks of Birth,,,,,,,,,,,,,
+South Goa,17.2.3,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being LBW,2. Between 1 week & 4 weeks of birth,,,,,,,,,,,,,
+South Goa,17.2.3,Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being LBW,3. Total,,,,,,,,,,,,,
+South Goa,17.2.4,"Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being other than Sepsis, Asphyxia and LBW",1. Up to 1 Weeks of Birth,,,,,,,,1.0,,,,,1.0
+South Goa,17.2.4,"Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being other than Sepsis, Asphyxia and LBW",2. Between 1 week & 4 weeks of birth,,,,,1.0,,,,,,,,1.0
+South Goa,17.2.4,"Number of cases of Infant deaths 24 hours to 4 weeks of birth with the probable cause being other than Sepsis, Asphyxia and LBW",3. Total,,,,,1.0,,,1.0,,,,,2.0
+South Goa,17.3.1,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Pneumonia,1. Between 1 month and 11 months,,,,,,,,,,,,,
+South Goa,17.3.1,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Pneumonia,2. Between 1 year & 5 years,,,,,,,,,,,,,
+South Goa,17.3.1,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Pneumonia,3. Total,,,,,,,,,,,,,
+South Goa,17.3.2,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Diarrhoea,1. Between 1 month and 11 months,,,,,,,,,,,,,
+South Goa,17.3.2,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Diarrhoea,2. Between 1 year & 5 years,,,,,,,,,,,,,
+South Goa,17.3.2,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Diarrhoea,3. Total,,,,,,,,,,,,,
+South Goa,17.3.3,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Fever related,1. Between 1 month and 11 months,,,,,,,,,,,,,
+South Goa,17.3.3,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Fever related,2. Between 1 year & 5 years,,,,,,,,,,,,,
+South Goa,17.3.3,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Fever related,3. Total,,,,,,,,,,,,,
+South Goa,17.3.4,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Measles,1. Between 1 month and 11 months,,,,,,,,,,,,,
+South Goa,17.3.4,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Measles,2. Between 1 year & 5 years,,,,,,,,,,,,,
+South Goa,17.3.4,Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being Measles,3. Total,,,,,,,,,,,,,
+South Goa,17.3.5,"Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being other than Pneumonia, Diarrhoea, Fever related and Measles",1. Between 1 month and 11 months,,,,,,,,,,,,,
+South Goa,17.3.5,"Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being other than Pneumonia, Diarrhoea, Fever related and Measles",2. Between 1 year & 5 years,,,,,,,,,,,,,
+South Goa,17.3.5,"Number of cases of Infant or Child deaths between 1 month to 5 years of age with the probable cause being other than Pneumonia, Diarrhoea, Fever related and Measles",3. Total,,,,,,,,,,,,,
+South Goa,17.4.1,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Diarrhoeal diseases,1. 6-14 yrs,,,,,,,,,,,,,
+South Goa,17.4.1,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Diarrhoeal diseases,2. 15-55 yrs.,,,,,,,,,,,,,
+South Goa,17.4.1,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Diarrhoeal diseases,3. Above 55 yrs.,,,,,,,,,,,,,
+South Goa,17.4.1,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Diarrhoeal diseases,4. Total,,,,,,,,,,,,,
+South Goa,17.4.2,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Tuberculosis,1. 6-14 yrs,,,,,,,,,,,,,
+South Goa,17.4.2,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Tuberculosis,2. 15-55 yrs.,,,,,,,,,,,,,
+South Goa,17.4.2,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Tuberculosis,3. Above 55 yrs.,,,,,,,,,,,,,
+South Goa,17.4.2,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Tuberculosis,4. Total,,,,,,,,,,,,,
+South Goa,17.4.3,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Respiratory diseases including infections,1. 6-14 yrs,,,,,,,,,,,,,
+South Goa,17.4.3,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Respiratory diseases including infections,2. 15-55 yrs.,,,,1.0,,,,,,,,,1.0
+South Goa,17.4.3,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Respiratory diseases including infections,3. Above 55 yrs.,,,,,,,,,,,1.0,,1.0
+South Goa,17.4.3,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Respiratory diseases including infections,4. Total,,,,1.0,,,,,,,1.0,,2.0
+South Goa,17.4.4,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Malaria,1. 6-14 yrs,,,,,,,,,,,,,
+South Goa,17.4.4,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Malaria,2. 15-55 yrs.,,,,,,,,,,,,,
+South Goa,17.4.4,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Malaria,3. Above 55 yrs.,,,,,,,,,,,,,
+South Goa,17.4.4,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Malaria,4. Total,,,,,,,,,,,,,
+South Goa,17.4.5,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being other Fever related,1. 6-14 yrs,,,,,,,,,,,,,
+South Goa,17.4.5,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being other Fever related,2. 15-55 yrs.,,,,,,,,,,,,,
+South Goa,17.4.5,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being other Fever related,3. Above 55 yrs.,,,,,,,,,,,,,
+South Goa,17.4.5,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being other Fever related,4. Total,,,,,,,,,,,,,
+South Goa,17.4.6,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being HIV/AIDS,1. 6-14 yrs,,,,,,,,,,,,,
+South Goa,17.4.6,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being HIV/AIDS,2. 15-55 yrs.,,,,1.0,,,,,,,,,1.0
+South Goa,17.4.6,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being HIV/AIDS,3. Above 55 yrs.,,,,,,,,,,,,,
+South Goa,17.4.6,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being HIV/AIDS,4. Total,,,,1.0,,,,,,,,,1.0
+South Goa,17.4.7,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Heart disease or related to Hypertension,1. 6-14 yrs,,,,,,,,,,,,,
+South Goa,17.4.7,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Heart disease or related to Hypertension,2. 15-55 yrs.,,1.0,1.0,,1.0,,,,,,,,3.0
+South Goa,17.4.7,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Heart disease or related to Hypertension,3. Above 55 yrs.,1.0,,2.0,3.0,1.0,,,,,,5.0,2.0,14.0
+South Goa,17.4.7,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Heart disease or related to Hypertension,4. Total,1.0,1.0,3.0,3.0,2.0,,,,,,5.0,2.0,17.0
+South Goa,17.4.8,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Neurological disease including strokes,1. 6-14 yrs,,,,,,,,,,,,,
+South Goa,17.4.8,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Neurological disease including strokes,2. 15-55 yrs.,,,,,,,,,,,,,
+South Goa,17.4.8,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Neurological disease including strokes,3. Above 55 yrs.,,,,,,,,,,,,,
+South Goa,17.4.8,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Neurological disease including strokes,4. Total,,,,,,,,,,,,,
+South Goa,17.4.9(a),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Abortion,1. 6-14 yrs,,,,,,,,,,,,,
+South Goa,17.4.9(a),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Abortion,2. 15-49 yrs,,,,,,,,,,,,,
+South Goa,17.4.9(a),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Abortion,3. Above 49 yrs.,,,,,,,,,,,,,
+South Goa,17.4.9(a),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Abortion,4. Total,,,,,,,,,,,,,
+South Goa,17.4.9(b),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Obstructed or prolonged labour,1. 6-14 yrs,,,,,,,,,,,,,
+South Goa,17.4.9(b),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Obstructed or prolonged labour,2. 15-49 yrs,,,,,,,,,,,,,
+South Goa,17.4.9(b),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Obstructed or prolonged labour,3. Above 49 yrs.,,,,,,,,,,,,,
+South Goa,17.4.9(b),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Obstructed or prolonged labour,4. Total,,,,,,,,,,,,,
+South Goa,17.4.9(c),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Severe hypertesnion or fits,1. 6-14 yrs,,,,,,,,,,,,,
+South Goa,17.4.9(c),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Severe hypertesnion or fits,2. 15-49 yrs,,,,,,,,,,,,,
+South Goa,17.4.9(c),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Severe hypertesnion or fits,3. Above 49 yrs.,,,,,,,,,,,,,
+South Goa,17.4.9(c),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Severe hypertesnion or fits,4. Total,,,,,,,,,,,,,
+South Goa,17.4.9(d),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Bleeding,1. 6-14 yrs,,,,,,,,,,,,,
+South Goa,17.4.9(d),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Bleeding,2. 15-49 yrs,,,,,,,,,,,,,
+South Goa,17.4.9(d),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Bleeding,3. Above 49 yrs.,,,,,,,,,,,,,
+South Goa,17.4.9(d),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being Bleeding,4. Total,,,,,,,,,,,,,
+South Goa,17.4.9(e),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being High Fever,1. 6-14 yrs,,,,,,,,,,,,,
+South Goa,17.4.9(e),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being High Fever,2. 15-49 yrs,,,,,,,,,,,,,
+South Goa,17.4.9(e),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being High Fever,3. Above 49 yrs.,,,,,,,,,,,,,
+South Goa,17.4.9(e),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being High Fever,4. Total,,,,,,,,,,,,,
+South Goa,17.4.9(f),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being other causes (excluding abortion; obstructed or prolonged labour; severe hypertension or fits;,1. 6-14 yrs,,,,,,,,,,,,,
+South Goa,17.4.9(f),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being other causes (excluding abortion; obstructed or prolonged labour; severe hypertension or fits;,2. 15-49 yrs,,,,,,,,,,,,,
+South Goa,17.4.9(f),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being other causes (excluding abortion; obstructed or prolonged labour; severe hypertension or fits;,3. Above 49 yrs.,,,,,,,,,,,,,
+South Goa,17.4.9(f),Number of cases of Maternal deaths (age 15-49 years) with the probable cause being other causes (excluding abortion; obstructed or prolonged labour; severe hypertension or fits;,4. Total,,,,,,,,,,,,,
+South Goa,17.4.10,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Trauma or Accidents or Burn cases,1. 6-14 yrs,,,,,,,,,,,,,
+South Goa,17.4.10,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Trauma or Accidents or Burn cases,2. 15-55 yrs.,,,,,,,,,,,,,
+South Goa,17.4.10,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Trauma or Accidents or Burn cases,3. Above 55 yrs.,,,,,,,,,,,,,
+South Goa,17.4.10,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Trauma or Accidents or Burn cases,4. Total,,,,,,,,,,,,,
+South Goa,17.4.11,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being suicide,1. 6-14 yrs,,,,,,,,,,,,,
+South Goa,17.4.11,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being suicide,2. 15-55 yrs.,1.0,1.0,,,,,,,,,,,2.0
+South Goa,17.4.11,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being suicide,3. Above 55 yrs.,,,,,,,,,,,,,
+South Goa,17.4.11,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being suicide,4. Total,1.0,1.0,,,,,,,,,,,2.0
+South Goa,17.4.12,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Animal bites and stings,1. 6-14 yrs,,,,,,,,,,,,,
+South Goa,17.4.12,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Animal bites and stings,2. 15-55 yrs.,,,,,,,,,,,,,
+South Goa,17.4.12,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Animal bites and stings,3. Above 55 yrs.,,,,,,,,,,,,,
+South Goa,17.4.12,Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Animal bites and stings,4. Total,,,,,,,,,,,,,
+South Goa,17.4.13(a),Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Known Acute disease,1. 6-14 yrs,,,,,,,,,,,,,
+South Goa,17.4.13(a),Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Known Acute disease,2. 15-55 yrs.,,,,,,,,,,,,,
+South Goa,17.4.13(a),Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Known Acute disease,3. Above 55 yrs.,,,,,,,,,,,1.0,,1.0
+South Goa,17.4.13(a),Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Known Acute disease,4. Total,,,,,,,,,,,1.0,,1.0
+South Goa,17.4.13(b),Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Known Chronic disease,1. 6-14 yrs,,,,,,,,,,,,,
+South Goa,17.4.13(b),Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Known Chronic disease,2. 15-55 yrs.,,1.0,,2.0,,,,,,,,,3.0
+South Goa,17.4.13(b),Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Known Chronic disease,3. Above 55 yrs.,,1.0,2.0,,,,,,,,1.0,,4.0
+South Goa,17.4.13(b),Number of cases of Adolescent or Adult deaths (age 6 years & above) with the probable cause being Known Chronic disease,4. Total,,2.0,2.0,2.0,,,,,,,1.0,,7.0
+South Goa,17.4.13(c),Number of cases of Adolescent or Adult deaths (age 6 years & above) where the cause was not known,1. 6-14 yrs,,,,1.0,,,,,,,,,1.0
+South Goa,17.4.13(c),Number of cases of Adolescent or Adult deaths (age 6 years & above) where the cause was not known,2. 15-55 yrs.,,,,1.0,,,,,,,,,1.0
+South Goa,17.4.13(c),Number of cases of Adolescent or Adult deaths (age 6 years & above) where the cause was not known,3. Above 55 yrs.,3.0,2.0,,5.0,,,,,,,1.0,,11.0
+South Goa,17.4.13(c),Number of cases of Adolescent or Adult deaths (age 6 years & above) where the cause was not known,4. Total,3.0,2.0,,7.0,,,,,,,1.0,,13.0
